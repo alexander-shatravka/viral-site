@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Contextual backgrounds
 
 // [converter] $parent hack
@@ -10,3 +11,17 @@
     background-color: darken($color, 10%);
   }
 }
+=======
+// Contextual backgrounds
+
+// [converter] $parent hack
+@mixin bg-variant($parent, $color) {
+  #{$parent} {
+    background-color: $color;
+  }
+  a#{$parent}:hover,
+  a#{$parent}:focus {
+    background-color: darken($color, 10%);
+  }
+}
+>>>>>>> 864fc1952a0f2954a51ea74da1a3363f26acd0c4

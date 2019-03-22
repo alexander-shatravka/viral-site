@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Text overflow
 // Requires inline-block or block for proper styling
 
@@ -6,3 +7,13 @@
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+=======
+// Text overflow
+// Requires inline-block or block for proper styling
+
+@mixin text-overflow() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+>>>>>>> 864fc1952a0f2954a51ea74da1a3363f26acd0c4

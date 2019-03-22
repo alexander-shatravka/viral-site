@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Single side border-radius
 
 @mixin border-top-radius($radius) {
@@ -16,3 +17,23 @@
   border-bottom-left-radius: $radius;
      border-top-left-radius: $radius;
 }
+=======
+// Single side border-radius
+
+@mixin border-top-radius($radius) {
+  border-top-right-radius: $radius;
+   border-top-left-radius: $radius;
+}
+@mixin border-right-radius($radius) {
+  border-bottom-right-radius: $radius;
+     border-top-right-radius: $radius;
+}
+@mixin border-bottom-radius($radius) {
+  border-bottom-right-radius: $radius;
+   border-bottom-left-radius: $radius;
+}
+@mixin border-left-radius($radius) {
+  border-bottom-left-radius: $radius;
+     border-top-left-radius: $radius;
+}
+>>>>>>> 864fc1952a0f2954a51ea74da1a3363f26acd0c4

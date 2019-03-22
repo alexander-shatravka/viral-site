@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // custom variables and override bootstrap variables
 
 $body-bg: #fff;
@@ -12,4 +13,20 @@ $grid-gutter-width:         		30px !default;
 // Large screen / wide desktop
 $container-large-desktop:      		(1170px + $grid-gutter-width) !default;
 //** For `$screen-lg-min` and up.
+=======
+// custom variables and override bootstrap variables
+
+$body-bg: #fff;
+
+$muli: 'muli', sans-serif;
+
+$navbar-default-bg:                 transparent !default;
+$navbar-default-border:             transparent !default;
+$navbar-margin-bottom:              inherit !default;
+
+$grid-gutter-width:         		30px !default;
+// Large screen / wide desktop
+$container-large-desktop:      		(1170px + $grid-gutter-width) !default;
+//** For `$screen-lg-min` and up.
+>>>>>>> 864fc1952a0f2954a51ea74da1a3363f26acd0c4
 $container-lg:                 		$container-large-desktop !default;
