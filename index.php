@@ -620,43 +620,18 @@
             </div>
         </div>
         </!-- client-area -->
-        <ul class="client-area">
-            <li class="wow fadeInUp" data-wow-delay="0.44s">
-                <div class="box">
-                    <i class="ico"><img src="images/ico-10.svg" alt="image description"></i>
-                    <strong class="title">Чашек кофе</strong>
-                    <span class="count counter">168</span>
+        <section class="commonSection ready_2">
+            <div class="max-container">
+                <div class="row">
+                    <div class="col-lg-9 col-sm-8 col-md-9">
+                        <h2 class="sec_title white">Let's Get Your Project Started!</h2>
+                    </div>
+                    <div class="col-lg-3 col-sm-4 col-md-3 text-right">
+                        <a class="common_btn red_bg" href="contact.html"><span>Contact with us</span></a>
+                    </div>
                 </div>
-            </li>
-            <li class="wow fadeInUp" data-wow-delay="0.2s">
-                <div class="box">
-                    <i class="ico heart"><img src="images/ico-11.svg" alt="image description"></i>
-                    <strong class="title">Довольных клиентов</strong>
-                    <span class="count counter">55</span>
-                </div>
-            </li>
-            <li class="wow fadeInUp" data-wow-delay="0.8s">
-                <div class="box">
-                    <i class="ico task"><img src="images/ico-12.svg" alt="image description"></i>
-                    <strong class="title">Проектов</strong>
-                    <span class="count counter">200</span>
-                </div>
-            </li>
-            <li class="wow fadeInUp" data-wow-delay="1s">
-                <div class="box">
-                    <i class="ico days"><img src="images/ico-13.svg" alt="image description"></i>
-                    <strong class="title">Новых идей</strong>
-                    <span class="count counter">492</span>
-                </div>
-            </li>
-            <li class="wow fadeInUp" data-wow-delay="1.2s">
-                <div class="box">
-                    <i class="ico team"><img src="images/ico-14.svg" alt="image description"></i>
-                    <strong class="title">Брифов заполнено</strong>
-                    <span class="count counter">325</span>
-                </div>
-            </li>
-        </ul>
+            </div>
+        </section>
     <!-- </div> -->
 </main>
 <!-- footer of the page -->
