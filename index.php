@@ -72,16 +72,16 @@
                 <div class="max-container features-info">
                     <div class="features_img">
                         <img src="images/5.jpg" alt="">
-                        <div class="img_details">
+                        <!-- <div class="img_details">
                             <h4>Total design freedom<br> for everyone.</h4>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="features_content">
-                        <h4 class="sub_title">our core features</h4>
-                        <h2 class="sec_title">real experience</h2>
-                        <p class="sec_desc">
+                        <!-- <h4 class="sub_title">our core features</h4> -->
+                        <h2 class="sec_title">О Нас</h2>
+                        <!-- <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while offering our employees the best training.
-                        </p>
+                        </p> -->
                         <div class="singleFeature">
                             <div class="f_count">01</div>
                             <h3>Видение</h3>
@@ -307,7 +307,7 @@
                     </div>
                 </div> -->
                 <!-- service info -->
-                <div class="info service-area">
+                <!-- <div class="info service-area">
                     <div class="img-frame wow fadeInLeft" data-wow-delay="0.2s">
                         <h2 class="tild">НАШИ УСЛУГИ</h2>
                         <span class="num">03</span>
@@ -380,7 +380,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <!-- testimonial info -->
                 <div class="info testimonial">
                     <div class="txt-frame wow fadeInLeft" data-wow-delay="0.2s">

@@ -6148,7 +6148,7 @@ body.scroll-off{
 }
 
 .commonSection {
-	padding: 100px 0;
+	padding: 0;
 	position: relative;
 }
 
@@ -6242,9 +6242,9 @@ body.scroll-off{
 	order: 1;
 }
 
-/* .features_img img {
-	width: 100%;
-} */
+.features_img img {
+	height:  100%;
+}
 
 .img_details {
 	background: #cc0000;
@@ -6305,7 +6305,9 @@ body.scroll-off{
 	}
 }
 
-
+.chooseUs {
+	padding: 100px 0;
+}
 
 .chooseUs_title {
 	margin: 0;
@@ -6435,6 +6437,7 @@ body.scroll-off{
 
 
 .ready_2 {
+	padding: 80px 0;
 	position: relative;
 	background: #cc0000;
 	overflow:hidden;
