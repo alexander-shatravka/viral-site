@@ -6189,6 +6189,10 @@ body.scroll-off{
 	margin-bottom: 56px;
 }
 
+.singleFeature:first-child {
+	margin-bottom: 0px;
+}
+
 .singleFeature:after {
 	position: absolute;
 	left: 24px;
