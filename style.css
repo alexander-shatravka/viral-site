@@ -1263,7 +1263,7 @@ a:focus {
 	display: block;
 	height: 40px;
 	width: 160px;
-	border: 1px solid #000;
+	background: #cc0000;
 	line-height: 37px;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -1272,15 +1272,37 @@ a:focus {
 	transition: border-color 0.3s, color 0.3s;
 }
 
+.align-right .search-area .btn-contact span{
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 100%;
+	transform: translate(-50%,-50%);
+	color: #fff;
+	z-index: 2;
+}
+
 .align-right .search-area .btn-contact::after {
 	content: '';
 	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 0;
+	background: #222;
+	z-index: 1;
+	transition: width 0.5s;
+}
+.align-right .search-area .btn-contact:hover:after {
+	width: 100%;
 }
 
-.align-right .search-area .btn-contact:hover{
+/* .align-right .search-area .btn-contact:hover{
 	text-decoration: none;
 	border-color: #CC0000;
-}
+} */
 
 .align-right .btn-contact.mobile {
 	display: none!important;
@@ -6203,7 +6225,7 @@ body.scroll-off{
 	letter-spacing: 0.72px;
 	color: #000;
 	text-transform: uppercase;
-	margin: 0 0 40px;
+	margin: 0 0 20px;
 }
 
 .singleFeature p {

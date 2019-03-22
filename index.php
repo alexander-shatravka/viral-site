@@ -70,6 +70,12 @@
 
             <section class="commonSection featured">
                 <div class="max-container features-info">
+                    <div class="features_img">
+                        <img src="images/5.jpg" alt="">
+                        <div class="img_details">
+                            <h4>Total design freedom<br> for everyone.</h4>
+                        </div>
+                    </div>
                     <div class="features_content">
                         <h4 class="sub_title">our core features</h4>
                         <h2 class="sec_title">real experience</h2>
@@ -78,7 +84,7 @@
                         </p>
                         <div class="singleFeature">
                             <div class="f_count">01</div>
-                            <h3>Our Vision</h3>
+                            <h3>Видение</h3>
                             <p>
                             Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
                             Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
@@ -86,25 +92,19 @@
                         </div>
                         <div class="singleFeature">
                             <div class="f_count">02</div>
-                            <h3>Our Mission</h3>
+                            <h3>Миссия</h3>
                             <p>
                             Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
                             </p>
                         </div>
                         <div class="singleFeature">
                             <div class="f_count">03</div>
-                            <h3>Our Values</h3>
+                            <h3>Ценности</h3>
                             <p>
                             Порядочность - это основное наше требование к себе. Только так ведем бизнес.
                             положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
                             Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
                             </p>
-                        </div>
-                    </div>
-                    <div class="features_img">
-                        <img src="images/5.jpg" alt="">
-                        <div class="img_details">
-                            <h4>Total design freedom<br> for everyone.</h4>
                         </div>
                     </div>
                 </div>
