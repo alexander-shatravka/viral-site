@@ -168,7 +168,7 @@
 				</div>
 			</div>
 		</footer>
-		<span id="back-top" class="fa fa-arrow-up"></span>
+		<span id="back-top" class="fa fa-angle-double-up"></span>
 	</div>
 	<script type="text/javascript">
 		if(localStorage['policy'] !== 'agree'){

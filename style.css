@@ -1257,7 +1257,7 @@ a:focus {
 }
 
 .align-right .search-area .btn-contact {
-	/* position: absolute; */
+	position: relative;
 	right: 0;
 	top: 2px;
 	display: block;
@@ -1271,6 +1271,12 @@ a:focus {
 	text-align: center;
 	transition: border-color 0.3s, color 0.3s;
 }
+
+.align-right .search-area .btn-contact::after {
+	content: '';
+	display: block;
+}
+
 .align-right .search-area .btn-contact:hover{
 	text-decoration: none;
 	border-color: #CC0000;
@@ -5005,7 +5011,6 @@ body.scroll-off{
 	position: fixed;
 	line-height: 47px;
 	text-align: center;
-	border-radius: 50%;
 	background: #252525;
 	-webkit-transition: all .6s ease;
 	transition: all .6s ease;
