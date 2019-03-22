@@ -6153,6 +6153,7 @@ body.scroll-off{
 }
 
 .features_content {
+	width: 40%;
 	/* padding-right: 30px; */
 	order: 2;
 	/* width: 40%; */

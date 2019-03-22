@@ -630,7 +630,7 @@
                         <h2 class="sec_title white">Let's Get Your Project Started!</h2>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3 text-right">
-                        <a class="common_btn red_bg" href="contact.html"><span>Contact with us</span></a>
+                        <a class="common_btn red_bg btn-contact" href="contact.html"><span>Contact with us</span></a>
                     </div>
                 </div>
             </div>
