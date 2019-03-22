@@ -487,14 +487,14 @@
                                         </div>
                                         <div class="col-lg-5 col-sm-5 col-md-5">
                                             <div class="chose_img">
-                                                <img src="images/home_1/c1.jpg" alt="">
+                                                <img src="images/c1.jpg" alt="">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="tes_tab_2">
                                         <div class="col-lg-5 col-sm-5 col-md-5">
                                             <div class="chose_img">
-                                                <img src="images/home_1/c2.jpg" alt="">
+                                                <img src="images/c2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-lg-7 col-sm-7 col-md-7">
@@ -539,7 +539,7 @@
                                         </div>
                                         <div class="col-lg-5 col-sm-5 col-md-5">
                                             <div class="chose_img">
-                                                <img src="images/home_1/c3.jpg" alt="">
+                                                <img src="images/c3.jpg" alt="">
                                             </div>
                                         </div>
                                     </div>
