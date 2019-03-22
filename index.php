@@ -78,23 +78,23 @@
                         </p>
                         <div class="singleFeature">
                             <div class="f_count">01</div>
-                            <h3>No Coding Skills Require</h3>
+                            <h3>Our Vision</h3>
                             <p>
-                                There are many variations of passages of lorem ipsum available, but the majority have suffered.
+                                Быть командой идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
                             </p>
                         </div>
                         <div class="singleFeature">
                             <div class="f_count">02</div>
-                            <h3>Online Documentation</h3>
+                            <h3>Our Mission</h3>
                             <p>
-                                There are many variations of passages of lorem ipsum available, but the majority have suffered.
+                                Создавать и продвигать потрясающие идеи и продукты.
                             </p>
                         </div>
                         <div class="singleFeature">
                             <div class="f_count">03</div>
-                            <h3>SEO Optimized</h3>
+                            <h3>Our Values</h3>
                             <p>
-                                There are many variations of passages of lorem ipsum available, but the majority have suffered.
+                                Порядочность, положительное влияние, постоянные улучшения.
                             </p>
                         </div>
                     </div>

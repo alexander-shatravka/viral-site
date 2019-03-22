@@ -6163,10 +6163,10 @@ body.scroll-off{
 .singleFeature:after {
 	position: absolute;
 	left: 24px;
-	top: 50px;
+	top: 35px;
 	content: '';
 	width: 2px;
-	height: 95px;
+	height: 90px;
 	background: #000;
 }
 
@@ -6184,7 +6184,8 @@ body.scroll-off{
 	top: 0;
 	color: #cc0000;
 	text-align: center;
-	padding: 18px 0;
+	font-size: 18px;
+	padding-top: 2px;
 	width: 50px;
 	height: 48px;
 	line-height: .8;
@@ -6197,7 +6198,7 @@ body.scroll-off{
 	letter-spacing: 0.72px;
 	color: #000;
 	text-transform: uppercase;
-	margin: 0 0 29px;
+	margin: 0 0 40px;
 }
 
 .singleFeature p {
