@@ -6163,7 +6163,7 @@ body.scroll-off{
 .singleFeature:after {
 	position: absolute;
 	left: 24px;
-	top: 58px;
+	top: 50px;
 	content: '';
 	width: 2px;
 	height: 95px;
@@ -6182,13 +6182,13 @@ body.scroll-off{
 	position: absolute;
 	left: 0;
 	top: 0;
-	color: #fff;
+	color: #cc0000;
 	text-align: center;
 	padding: 18px 0;
 	width: 50px;
 	height: 48px;
 	line-height: .8;
-	background: #000;
+	font-weight: 900;
 }
 
 .singleFeature h3 {
