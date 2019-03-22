@@ -197,7 +197,7 @@
                     </div>
                 </div>
                 <!-- work info -->
-                <div class="info work">
+                <!-- <div class="info work">
                     <div class="img-frame">
                         <div class="img-area" id="masonry-container">
                             <div class="item work-i work-w work-b wow fadeInUp" data-wow-delay="0.2s">
@@ -207,9 +207,9 @@
                                         <div class="c2">
                                             <strong class="title">Arigato</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-arigato"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-arigato"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -222,9 +222,9 @@
                                         <div class="c2">
                                             <strong class="title">Cashyou</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-cashyou"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-cashyou"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -237,9 +237,9 @@
                                         <div class="c2">
                                             <strong class="title">Time4machine</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-time4machine"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-time4machine"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -252,9 +252,9 @@
                                         <div class="c2">
                                             <strong class="title">Bus4you</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-bus4you"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-bus4you"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -267,9 +267,9 @@
                                         <div class="c2">
                                             <strong class="title">Carte Noire</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-carte-noire"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-carte-noire"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -282,9 +282,9 @@
                                         <div class="c2">
                                             <strong class="title">Creditgarant</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-creditgarant"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-creditgarant"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -296,16 +296,16 @@
                         <h2 class="tild">ПОРТФОЛИО</h2>
                         <span class="num">02</span>
                         <ul class="filter">
-                            <li class="active"><a href="#">Все работы</a></li>
+                            <li class="active"><a href="#">Все работы</a></li> -->
                             <!-- <li><a href="#" data-filter=".work-p">Video Production</a></li> -->
-                            <li><a href="#" data-filter=".work-b">Дизайн</a></li>
+                            <!-- <li><a href="#" data-filter=".work-b">Дизайн</a></li>
                             <li><a href="#" data-filter=".work-w">Маркетинг</a></li>
                             <li><a href="#" data-filter=".work-m">Разработка</a></li> 
                             <li><a href="#" data-filter=".work-i">Фото.Видео</a></li>
                         </ul>
                         <a href="#" class="btn-contact more">Связаться</a>
                     </div>
-                </div>
+                </div> -->
                 <!-- service info -->
                 <div class="info service-area">
                     <div class="img-frame wow fadeInLeft" data-wow-delay="0.2s">
