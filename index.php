@@ -632,6 +632,57 @@
                 </div>
             </div>
         </section>
+
+        <section class="team">
+            <div class="max-container">
+                <div class="row row-team-title">
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 intro">
+                        <h3>Meet our team</h3>
+                        <h5>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</h5>
+                    </div> 
+                    <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5 col-sm-offset-1 col-md-offset-1 col-lg-offset-1">
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.<br><br>Duis autuis nostrud exerci tationem vel eum.</p>
+                    </div>
+                </div>
+                
+                <!-- MEMEBERS - GRID -->
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 " id="members">
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-1"><img src="images/teams/member1.jpg" alt="img01"><h6>John mc Cornick</h6><span>CEO</span></a></div>
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-2"><img src="images/teams/member2.jpg" alt="img01"><h6>Jonny Biggle</h6><span>Project Manager</span></a></div>
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-3"><img src="images/teams/member3.jpg" alt="img01"><h6>Anna mc Jones</h6><span>Creative Director</span></a></div>
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-4"><img src="images/teams/member4.jpg" alt="img01"><h6>Betty Kovalsky</h6><span>Web Designer</span></a></div>
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-5"><img src="images/teams/member5.jpg" alt="img01"><h6>Matthew Novak</h6><span>Front-end developer</span></a></div>
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-6"><img src="images/teams/member6.jpg" alt="img01"><h6>Curtis Phillips</h6><span>Back-end Developer</span></a></div>
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-7"><img src="images/teams/member7.jpg" alt="img01"><h6>Joahna White</h6><span>SEO Specialist</span></a></div>
+                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-8"><img src="images/teams/member8.jpg" alt="img01"><h6>Kate Williams</h6><span>New Bussiness</span></a></div>
+                    </div>	
+                </div>       
+            </div>    
+        </section>
+
+        <section class="video_separator">
+            <a href="#" class="md-trigger" data-modal="modal-video"></a>
+            <div class="container-fluid ">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 video_content">
+                    <div data-icon=">" class="video_icon"><i class="fas fa-play"></i></div>
+                    <h3>WATCH OUR VIDEOREEL</h3>
+                    </div>
+                </div>
+            </div> 
+            <div class="video_hover_solid"></div>
+            <div class="video_pattern"></div>
+            <div class="video-fallback"></div>
+            <div class="hidden-xs video-container" style="width: 1349px; height: 293px;">
+                <video autoplay="" loop="" class="fillWidth" width="896" height="504" style="width: 1349px; height: 758.813px;">
+                    <source src="video/video.mp4" type="video/mp4">
+                    <source src="video/video.ogg" type="video/ogg">
+                    <source src="video/video.webm" type="video/webm">
+                    Your browser does not support the video tag. I suggest you upgrade your browser.
+                </video>
+            </div>
+        </section>
     <!-- </div> -->
 </main>
 <!-- footer of the page -->
