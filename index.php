@@ -78,7 +78,7 @@
                     </div>
                     <div class="features_content">
                         <!-- <h4 class="sub_title">our core features</h4> -->
-                        <h2 class="sec_title">О Нас</h2>
+                        <h2 class="sec_title">Миссия и ценности</h2>
                         <!-- <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while offering our employees the best training.
                         </p> -->
@@ -449,42 +449,50 @@
                     <!-- <div class="container"> -->
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <h4 class="sub_title">our benefits</h4>
-                                <h2 class="sec_title">why choose us</h2>
-                                <p class="sec_desc">
+                                <!-- <h4 class="sub_title">our benefits</h4> -->
+                                <h2 class="sec_title">Наши Услуги</h2>
+                                <!-- <p class="sec_desc">
                                     We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div id="tabs">
                             <div class="row">
                                 <div class="col-lg-12 col-sm-12">
                                     <ul class="chooseUs_title">
-                                        <li class="active"><a href="#tes_tab_1" data-toggle="tab" aria-expanded="true">Latest technology</a></li>
-                                        <li class=""><a href="#tes_tab_2" data-toggle="tab" aria-expanded="false">awesome support</a></li>
-                                        <li class=""><a href="#tes_tab_3" data-toggle="tab" aria-expanded="false">1 click demo install</a></li>
+                                        <li class="active"><a href="#marketing-tab" data-toggle="tab" aria-expanded="true">Маркетинг</a></li>
+                                        <li class=""><a href="#design-tab" data-toggle="tab" aria-expanded="false">Дизайн</a></li>
+                                        <li class=""><a href="#development-tab" data-toggle="tab" aria-expanded="false">Разработка</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="tab-content clearfix">
-                                    <div class="tab-pane fade active in" id="tes_tab_1">
+                                    <div class="tab-pane fade active in" id="marketing-tab">
                                         <div class="col-lg-7 col-sm-7 col-md-7">
                                             <div class="wh_choose">
                                                 <p>
-                                                    There are many variations of passages of lorem ipsum available, but the majority have 
-                                                    suffered alteration in some form, by injected humour, or randomised words 
-                                                    which don't look even slightly believable. If you are going to use a 
-                                                    passage of Lorem Ipsum, you need to be sure there isn't anything
-                                                    embarrassing hidden in the middle of text. 
+                                                    Интернет-маркетинг на сегодняшний день играет огромную роль в повышении эффективности бизнеса. Нельзя отказываться от возможностей, которые может дать бизнесу маркетинг в Интернете. 
                                                 </p>
                                                 <ul>
-                                                    <li><i class="fa fa-check-square"></i>Self-contained, state-of-the-art time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>Scalability of up to 500 employees per time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>The ability to connect up to 32 time clocks</li>
-                                                    <li><i class="fa fa-check-square"></i>Employee self-enrollment</li>
-                                                    <li><i class="fa fa-check-square"></i>Payroll integration</li>
-                                                    <li><i class="fa fa-check-square"></i>Built-in backup camera to verify failed punches</li>
+                                                    <li><i class="fa fa-check-square"></i><a href="">SEO</a>
+                                                        <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i><a href="">PPC</a>
+                                                        <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">SMM</a>
+                                                        <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Комплексные аудиты</a>
+                                                        <p class="services-more__description">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Youtube продвижение</a>
+                                                        <p class="services-more__description">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -494,7 +502,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="tes_tab_2">
+                                    <div class="tab-pane fade" id="design-tab">
                                         <div class="col-lg-5 col-sm-5 col-md-5">
                                             <div class="chose_img">
                                                 <img src="images/c2.jpg" alt="">
@@ -510,33 +518,61 @@
                                                     embarrassing hidden in the middle of text. 
                                                 </p>
                                                 <ul>
-                                                    <li><i class="fa fa-check-square"></i>Self-contained, state-of-the-art time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>Scalability of up to 500 employees per time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>The ability to connect up to 32 time clocks</li>
-                                                    <li><i class="fa fa-check-square"></i>Employee self-enrollment</li>
-                                                    <li><i class="fa fa-check-square"></i>Payroll integration</li>
-                                                    <li><i class="fa fa-check-square"></i>Built-in backup camera to verify failed punches</li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Редизайн сайта</a>
+                                                        <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн адаптивного сайта</a>
+                                                        <p class="services-more__description">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн лендингов</a>
+                                                        <p class="services-more__description">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн корпоративного сайта</a>
+                                                        <p class="services-more__description">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Индивидуальный дизайн сайта</a>
+                                                        <p class="services-more__description">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн интернет-магазина</a>
+                                                        <p class="services-more__description">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="tes_tab_3">
+                                    <div class="tab-pane fade" id="development-tab">
                                         <div class="col-lg-7 col-sm-7 col-md-7">
                                             <div class="wh_choose">
                                                 <p>
-                                                    There are many variations of passages of lorem ipsum available, but the majority have 
-                                                    suffered alteration in some form, by injected humour, or randomised words 
-                                                    which don't look even slightly believable. If you are going to use a 
-                                                    passage of Lorem Ipsum, you need to be sure there isn't anything
-                                                    embarrassing hidden in the middle of text. 
+                                                Решив создать качественный сайт через профессиональную веб-студию, вам нужно заранее подумать о конкретных задачах будущего интернет-проекта. Дело в том, что исходя из целей, которых вы планируете достичь посредством сайта, можно придумывать соответствующий дизайн, разрабатывать подходящий функционал, навигационную систему и другие компоненты. Так, например, сайт-визитка компании будет в значительной степени отличаться от сайта, который планируется использовать как самостоятельный интернет-проект для геймеров. 
                                                 </p>
                                                 <ul>
-                                                    <li><i class="fa fa-check-square"></i>Self-contained, state-of-the-art time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>Scalability of up to 500 employees per time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>The ability to connect up to 32 time clocks</li>
-                                                    <li><i class="fa fa-check-square"></i>Employee self-enrollment</li>
-                                                    <li><i class="fa fa-check-square"></i>Payroll integration</li>
-                                                    <li><i class="fa fa-check-square"></i>Built-in backup camera to verify failed punches</li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка корпоративного сайта</a>
+                                                        <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка интернет-магазина</a>
+                                                        <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка landing page</a>
+                                                        <p class="services-more__description">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка сайта-визитки</a>
+                                                        <p class="services-more__description">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка портала под ключ</a>
+                                                        <p class="services-more__description">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>

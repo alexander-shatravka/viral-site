@@ -6199,7 +6199,7 @@ body.scroll-off{
 	top: 35px;
 	content: '';
 	width: 2px;
-	height: 90px;
+	height: 100%;
 	background: #000;
 }
 
@@ -6339,10 +6339,11 @@ body.scroll-off{
 	width: 100%;
 	text-align: center;
 	text-transform: uppercase;
+	transition: background-color 0.3s;
 }
 
 .chooseUs_title li:hover a, .chooseUs_title li.active a {
-	background: #000;
+	background: #cc0000;
 	color: #fff;
 	text-decoration: none;
 	outline: 0;
@@ -6387,7 +6388,12 @@ body.scroll-off{
 	padding: 0;
 	list-style: none;
 	display: block;
-	line-height: 36px;
+	line-height: 1.5;
+}
+
+.wh_choose ul li a{
+	color: #000;
+	font-weight: 500;
 }
 
 .fa {
