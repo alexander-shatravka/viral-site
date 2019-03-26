@@ -1329,6 +1329,7 @@ a:focus {
 
 #header .navbar-nav > li > a {
 	margin: 0 0 0;
+	font-weight: 500;
 }
 
 #header .navbar-nav li {
@@ -6138,7 +6139,7 @@ body.scroll-off{
 
 
 .featured {
-	background: #f4f4f4;
+	background: #fff;
 	overflow: hidden;
 }
 
@@ -6310,7 +6311,7 @@ body.scroll-off{
 }
 
 .chooseUs {
-	padding: 100px 0;
+	padding: 0 0 50px;
 }
 
 .chooseUs_title {
@@ -6328,6 +6329,17 @@ body.scroll-off{
 	float: left;
 }
 
+.services-more__description.drop-descr {
+	height: 0;
+	overflow: hidden;
+	transition: height 0.3s;
+}
+
+.services-more__description.drop-descr.show{
+	height: 50px;
+	transition: height 0.3s;
+}
+
 .chooseUs_title li a {
 	display: block;
 	font-size: 20px;
@@ -6337,6 +6349,7 @@ body.scroll-off{
 	background: #f4f4f4;
 	padding: 49px 0;
 	width: 100%;
+	font-weight: 500;
 	text-align: center;
 	text-transform: uppercase;
 	transition: background-color 0.3s;
@@ -6372,10 +6385,6 @@ body.scroll-off{
 .wh_choose {
 	position: relative;
 	margin: 51px 0 0;
-}
-
-.wh_choose p {
-	margin: 0 0 25px;
 }
 
 .wh_choose ul {
@@ -6451,6 +6460,7 @@ body.scroll-off{
 	position: relative;
 	background: #cc0000;
 	overflow:hidden;
+	margin: 80px 0;
 }
 
 .ready_2::after,

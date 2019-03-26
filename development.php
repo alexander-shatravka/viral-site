@@ -39,7 +39,7 @@
                     <li class="services-more__item">
                         <a href="#tabs-1">
                             <h3 class="services-more__title">Разработка корпоративного сайта</h3>
-                            <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
+                            <p class="services-more__description drop">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
                             <div class="services-more__container">
                                 <div class="services-more__arrow1 arrow1"></div>
                                 <div class="services-more__arrow2 arrow2"></div>
@@ -49,7 +49,7 @@
                     <li class="services-more__item">
                         <a href="#tabs-2">
                             <h3 class="services-more__title">Разработка интернет-магазина</h3>
-                            <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
+                            <p class="services-more__description drop">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
                             <div class="services-more__container">
                                 <div class="services-more__arrow1 arrow1"></div>
                                 <div class="services-more__arrow2 arrow2"></div>
@@ -59,7 +59,7 @@
                     <li class="services-more__item">
                         <a href="#tabs-3">
                             <h3 class="services-more__title">Разработка landing page</h3>
-                            <p class="services-more__description">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
+                            <p class="services-more__description drop">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
                             <div class="services-more__container">
                                 <div class="services-more__arrow1 arrow1"></div>
                                 <div class="services-more__arrow2 arrow2"></div>
@@ -69,7 +69,7 @@
                     <li class="services-more__item">
                         <a href="#tabs-4">
                             <h3 class="services-more__title">Разработка сайта-визитки</h3>
-                            <p class="services-more__description">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
+                            <p class="services-more__description drop">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
                             <div class="services-more__container">
                                 <div class="services-more__arrow1 arrow1"></div>
                                 <div class="services-more__arrow2 arrow2"></div>
@@ -79,7 +79,7 @@
                     <li class="services-more__item">
                         <a href="#tabs-5">
                             <h3 class="services-more__title">Разработка портала под ключ</h3>
-                            <p class="services-more__description">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
+                            <p class="services-more__description drop">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
                             <div class="services-more__container">
                                 <div class="services-more__arrow1 arrow1"></div>
                                 <div class="services-more__arrow2 arrow2"></div>
