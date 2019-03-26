@@ -1548,6 +1548,11 @@ a:focus {
 .visual {
 	overflow: hidden;
 	margin: 0 0 80px;
+	transform: translateY(20px);
+}
+
+.visual .slide .image img{
+	height: calc(100% - 80px)!important;
 }
 
 .visual .slideshow {
