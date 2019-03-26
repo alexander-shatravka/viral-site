@@ -1329,6 +1329,7 @@ a:focus {
 
 #header .navbar-nav > li > a {
 	margin: 0 0 0;
+	font-weight: 500;
 }
 
 #header .navbar-nav li {
@@ -6138,7 +6139,7 @@ body.scroll-off{
 
 
 .featured {
-	background: #f4f4f4;
+	background: #fff;
 	overflow: hidden;
 }
 
@@ -6310,7 +6311,7 @@ body.scroll-off{
 }
 
 .chooseUs {
-	padding: 100px 0;
+	padding: 0 0 50px;
 }
 
 .chooseUs_title {
@@ -6337,6 +6338,7 @@ body.scroll-off{
 	background: #f4f4f4;
 	padding: 49px 0;
 	width: 100%;
+	font-weight: 500;
 	text-align: center;
 	text-transform: uppercase;
 	transition: background-color 0.3s;
@@ -6451,6 +6453,7 @@ body.scroll-off{
 	position: relative;
 	background: #cc0000;
 	overflow:hidden;
+	margin: 80px 0;
 }
 
 .ready_2::after,

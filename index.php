@@ -66,7 +66,139 @@
     <!-- <div class="max-container"> -->
         <!-- info holder -->
         <div class="info-holder">
-            <!-- info -->
+        <section class="commonSection chooseUs">
+                <div class="max-container">
+                    <div id="tabs">
+                        <div class="row">
+                            <div class="col-lg-12 col-sm-12">
+                                <ul class="chooseUs_title">
+                                    <li class="active"><a href="#marketing-tab" data-toggle="tab" aria-expanded="true">Маркетинг</a></li>
+                                    <li class=""><a href="#design-tab" data-toggle="tab" aria-expanded="false">Дизайн</a></li>
+                                    <li class=""><a href="#development-tab" data-toggle="tab" aria-expanded="false">Разработка</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="tab-content clearfix">
+                                <div class="tab-pane fade active in" id="marketing-tab">
+                                    <div class="col-lg-7 col-sm-7 col-md-7">
+                                        <div class="wh_choose">
+                                            <p>
+                                                Интернет-маркетинг на сегодняшний день играет огромную роль в повышении эффективности бизнеса. Нельзя отказываться от возможностей, которые может дать бизнесу маркетинг в Интернете. 
+                                            </p>
+                                            <ul>
+                                                <li><i class="fa fa-check-square"></i><a href="">SEO</a>
+                                                    <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i><a href="">PPC</a>
+                                                    <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">SMM</a>
+                                                    <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Комплексные аудиты</a>
+                                                    <p class="services-more__description">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Youtube продвижение</a>
+                                                    <p class="services-more__description">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-5 col-sm-5 col-md-5">
+                                        <div class="chose_img">
+                                            <img src="images/c1.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="design-tab">
+                                    <div class="col-lg-5 col-sm-5 col-md-5">
+                                        <div class="chose_img">
+                                            <img src="images/c2.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-7 col-sm-7 col-md-7">
+                                        <div class="wh_choose">
+                                            <p>
+                                                There are many variations of passages of lorem ipsum available, but the majority have 
+                                                suffered alteration in some form, by injected humour, or randomised words 
+                                                which don't look even slightly believable. If you are going to use a 
+                                                passage of Lorem Ipsum, you need to be sure there isn't anything
+                                                embarrassing hidden in the middle of text. 
+                                            </p>
+                                            <ul>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Редизайн сайта</a>
+                                                    <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Дизайн адаптивного сайта</a>
+                                                    <p class="services-more__description">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Дизайн лендингов</a>
+                                                    <p class="services-more__description">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Дизайн корпоративного сайта</a>
+                                                    <p class="services-more__description">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Индивидуальный дизайн сайта</a>
+                                                    <p class="services-more__description">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Дизайн интернет-магазина</a>
+                                                    <p class="services-more__description">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="development-tab">
+                                    <div class="col-lg-7 col-sm-7 col-md-7">
+                                        <div class="wh_choose">
+                                            <p>
+                                            Решив создать качественный сайт через профессиональную веб-студию, вам нужно заранее подумать о конкретных задачах будущего интернет-проекта. Дело в том, что исходя из целей, которых вы планируете достичь посредством сайта, можно придумывать соответствующий дизайн, разрабатывать подходящий функционал, навигационную систему и другие компоненты. Так, например, сайт-визитка компании будет в значительной степени отличаться от сайта, который планируется использовать как самостоятельный интернет-проект для геймеров. 
+                                            </p>
+                                            <ul>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Разработка корпоративного сайта</a>
+                                                    <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Разработка интернет-магазина</a>
+                                                    <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Разработка landing page</a>
+                                                    <p class="services-more__description">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Разработка сайта-визитки</a>
+                                                    <p class="services-more__description">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
+                                                </li>
+                                                <li><i class="fa fa-check-square"></i>
+                                                    <a href="">Разработка портала под ключ</a>
+                                                    <p class="services-more__description">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-5 col-sm-5 col-md-5">
+                                        <div class="chose_img">
+                                            <img src="images/c3.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- </div> -->
+            </section>
 
             <section class="commonSection featured">
                 <div class="max-container features-info">
@@ -109,93 +241,8 @@
                     </div>
                 </div>
             </section>
-
-            <div class="max-container">
-                <!-- team info -->
-                <div class="info team">
-                    <div class="txt-frame wow fadeInUp" data-wow-delay="0.2s">
-                        <ul class="text-box team1">
-                            <li>
-                                <h2><a href="#">Kawhi Leonard</a></h2>
-                                <span>Creative Director</span>
-                                <ul class="social-networks">
-                                    <li><a class="facebook" href="#"><i class="icon-facebook"></i><span>facebook</span></a></li>
-                                    <li><a class="twitter" href="#"><i class="icon-twitter"></i><span>twitter</span></a></li>
-                                    <li><a class="gplus" href="#"><i class="icon-gplus"></i><span>gplus</span></a></li>
-                                    <li><a class="pinterest-circled" href="#"><i class="icon-pinterest-circled"></i><span>pinterest-circled</span></a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <p>Every day, we make great videos that perform for top brands.</p>
-                            </li>
-                        </ul>
-                        <ul class="text-box team2">
-                            <li>
-                                <h2><a href="#">Sammy Filton</a></h2>
-                                <span>Stylelist</span>
-                                <ul class="social-networks">
-                                    <li><a class="facebook" href="#"><i class="icon-facebook"></i><span>facebook</span></a></li>
-                                    <li><a class="twitter" href="#"><i class="icon-twitter"></i><span>twitter</span></a></li>
-                                    <li><a class="gplus" href="#"><i class="icon-gplus"></i><span>gplus</span></a></li>
-                                    <li><a class="pinterest-circled" href="#"><i class="icon-pinterest-circled"></i><span>pinterest-circled</span></a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <p>We tend to think of Steam as tools for content developers and tools for producers. We're just always thinking.</p>
-                            </li>
-                        </ul>
-                        <ul class="text-box team3">
-                            <li>
-                                <h2><a href="#">Sandra Jackson</a></h2>
-                                <span>art derector</span>
-                                <ul class="social-networks">
-                                    <li><a class="facebook" href="#"><i class="icon-facebook"></i><span>facebook</span></a></li>
-                                    <li><a class="twitter" href="#"><i class="icon-twitter"></i><span>twitter</span></a></li>
-                                    <li><a class="gplus" href="#"><i class="icon-gplus"></i><span>gplus</span></a></li>
-                                    <li><a class="pinterest-circled" href="#"><i class="icon-pinterest-circled"></i><span>pinterest-circled</span></a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudanm, totam rem aperiam, eaque.</p>
-                            </li>
-                        </ul>
-                        <div class="img-holder wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="box box1">
-                                <div class="img"><a href="#" class="team1-opener"><img src="http://placehold.it/370x465" alt="image description"></a></div>
-                                <div class="txt-box">
-                                    <h3><a href="#" class="team1-opener">Kawhi Leonard</a></h3>
-                                    <span class="designation">Creative Director</span>
-                                </div>
-                            </div>
-                            <div class="box box2">
-                                <div class="img"><a href="#" class="team2-opener"><img src="http://placehold.it/370x465" alt="image description"></a></div>
-                                <div class="txt-box">
-                                    <h3><a href="#" class="team2-opener">Sammy Filton</a></h3>
-                                    <span class="designation">Stylelist</span>
-                                </div>
-                            </div>
-                            <div class="box box3">
-                                <div class="img"><a href="#" class="team3-opener"><img src="http://placehold.it/370x465" alt="image description"></a></div>
-                                <div class="txt-box">
-                                    <h3><a href="#" class="team3-opener">Sandra Jackson</a></h3>
-                                    <span class="designation">art derector</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="img-frame">
-                        <div class="image wow fadeInRight" data-wow-delay="0.2s"><a href="#">
-                            <img src="http://placehold.it/570x715" alt="image description" class="team1-img">
-                            <img src="http://placehold.it/570x715" alt="image description" class="team2-img">
-                            <img src="http://placehold.it/570x715" alt="image description" class="team3-img">
-                        </a></div>
-                        <div class="text wow fadeInRight" data-wow-delay="0.3s">
-                            <h2 class="tild">КОМАНДА</h2>
-                            <span class="num">02</span>
-                            <a href="#" class="more">view all</a>
-                        </div>
-                    </div>
-                </div>
+            </div>
+            
                 <!-- work info -->
                 <!-- <div class="info work">
                     <div class="img-frame">
@@ -381,284 +428,7 @@
                         </ul>
                     </div>
                 </div> -->
-                <!-- testimonial info -->
-                <div class="info testimonial">
-                    <div class="txt-frame wow fadeInLeft" data-wow-delay="0.2s">
-                        <h2 class="tild">ОТЗЫВЫ</h2>
-                        <span class="num">05</span>
-                        <a href="#" class="more">view all</a>
-                    </div>
-                    <div class="img-frame wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="slider">
-                            <div class="mask">
-                                <div class="slide">
-                                    <blockquote>
-                                        <q>“I am so happy because I found this Eagleeyes, and it just made my life easier. Thanks so much for sharing”</q>
-                                        <cite>
-                                            <span class="heading4">Kawhi Leonard</span>
-                                            <span class="designation">Creative Director</span>
-                                        </cite>
-                                    </blockquote>
-                                    <div class="images">
-                                        <img src="http://placehold.it/470x617" alt="image description">
-                                    </div>
-                                </div>
-                                <div class="slide">
-                                    <blockquote>
-                                        <q>“I am so happy because I found this Eagleeyes, and it just made my life easier. Thanks so much for sharing”</q>
-                                        <cite>
-                                            <span class="heading4">Umair Rafi</span>
-                                            <span class="designation">Creative Developer</span>
-                                        </cite>
-                                    </blockquote>
-                                    <div class="images">
-                                        <img src="http://placehold.it/470x617" alt="image description">
-                                    </div>
-                                </div>
-                                <div class="slide">
-                                    <blockquote>
-                                        <q>“I am so happy because I found this Eagleeyes, and it just made my life easier. Thanks so much for sharing”</q>
-                                        <cite>
-                                            <span class="heading4">Leo Alpha</span>
-                                            <span class="designation">Ui/UX Director</span>
-                                        </cite>
-                                    </blockquote>
-                                    <div class="images">
-                                        <img src="http://placehold.it/470x617" alt="image description">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="pagination">
-                                <ul class="mask-inner">
-                                    <li>
-                                        <a href="#"><img src="http://placehold.it/470x617" alt="image description"></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="http://placehold.it/470x617" alt="image description"></a>
-                                    </li>
-                                    <li class="active">
-                                        <a href="#"><img src="http://placehold.it/470x617" alt="image description"></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- blogs info -->
-                <section class="commonSection chooseUs">
-                    <!-- <div class="container"> -->
-                        <div class="row">
-                            <div class="col-lg-12 text-center">
-                                <!-- <h4 class="sub_title">our benefits</h4> -->
-                                <h2 class="sec_title">Наши Услуги</h2>
-                                <!-- <p class="sec_desc">
-                                    We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                                </p> -->
-                            </div>
-                        </div>
-                        <div id="tabs">
-                            <div class="row">
-                                <div class="col-lg-12 col-sm-12">
-                                    <ul class="chooseUs_title">
-                                        <li class="active"><a href="#marketing-tab" data-toggle="tab" aria-expanded="true">Маркетинг</a></li>
-                                        <li class=""><a href="#design-tab" data-toggle="tab" aria-expanded="false">Дизайн</a></li>
-                                        <li class=""><a href="#development-tab" data-toggle="tab" aria-expanded="false">Разработка</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="tab-content clearfix">
-                                    <div class="tab-pane fade active in" id="marketing-tab">
-                                        <div class="col-lg-7 col-sm-7 col-md-7">
-                                            <div class="wh_choose">
-                                                <p>
-                                                    Интернет-маркетинг на сегодняшний день играет огромную роль в повышении эффективности бизнеса. Нельзя отказываться от возможностей, которые может дать бизнесу маркетинг в Интернете. 
-                                                </p>
-                                                <ul>
-                                                    <li><i class="fa fa-check-square"></i><a href="">SEO</a>
-                                                        <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i><a href="">PPC</a>
-                                                        <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">SMM</a>
-                                                        <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Комплексные аудиты</a>
-                                                        <p class="services-more__description">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Youtube продвижение</a>
-                                                        <p class="services-more__description">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 col-sm-5 col-md-5">
-                                            <div class="chose_img">
-                                                <img src="images/c1.jpg" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tab-pane fade" id="design-tab">
-                                        <div class="col-lg-5 col-sm-5 col-md-5">
-                                            <div class="chose_img">
-                                                <img src="images/c2.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-7 col-sm-7 col-md-7">
-                                            <div class="wh_choose">
-                                                <p>
-                                                    There are many variations of passages of lorem ipsum available, but the majority have 
-                                                    suffered alteration in some form, by injected humour, or randomised words 
-                                                    which don't look even slightly believable. If you are going to use a 
-                                                    passage of Lorem Ipsum, you need to be sure there isn't anything
-                                                    embarrassing hidden in the middle of text. 
-                                                </p>
-                                                <ul>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Редизайн сайта</a>
-                                                        <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Дизайн адаптивного сайта</a>
-                                                        <p class="services-more__description">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Дизайн лендингов</a>
-                                                        <p class="services-more__description">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Дизайн корпоративного сайта</a>
-                                                        <p class="services-more__description">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Индивидуальный дизайн сайта</a>
-                                                        <p class="services-more__description">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Дизайн интернет-магазина</a>
-                                                        <p class="services-more__description">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tab-pane fade" id="development-tab">
-                                        <div class="col-lg-7 col-sm-7 col-md-7">
-                                            <div class="wh_choose">
-                                                <p>
-                                                Решив создать качественный сайт через профессиональную веб-студию, вам нужно заранее подумать о конкретных задачах будущего интернет-проекта. Дело в том, что исходя из целей, которых вы планируете достичь посредством сайта, можно придумывать соответствующий дизайн, разрабатывать подходящий функционал, навигационную систему и другие компоненты. Так, например, сайт-визитка компании будет в значительной степени отличаться от сайта, который планируется использовать как самостоятельный интернет-проект для геймеров. 
-                                                </p>
-                                                <ul>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Разработка корпоративного сайта</a>
-                                                        <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Разработка интернет-магазина</a>
-                                                        <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Разработка landing page</a>
-                                                        <p class="services-more__description">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Разработка сайта-визитки</a>
-                                                        <p class="services-more__description">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
-                                                    </li>
-                                                    <li><i class="fa fa-check-square"></i>
-                                                        <a href="">Разработка портала под ключ</a>
-                                                        <p class="services-more__description">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-5 col-sm-5 col-md-5">
-                                            <div class="chose_img">
-                                                <img src="images/c3.jpg" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    <!-- </div> -->
-                </section>
-                </!-- price info -->
-                <div class="info price">
-                    <div class="img-frame wow fadeInLeft" data-wow-delay="0.2s">
-                        <h2 class="tild">PRICING</h2>
-                        <span class="num">07</span>
-                        <a href="#" class="more">view all</a>
-                    </div>
-                    <div class="txt-frame">
-                        <ul class="pricing">
-                            <li class="wow fadeInUp" data-wow-delay="0.2s">
-                                <div class="icon">
-                                    <div class="ico-text">
-                                        <div class="ico-box">
-                                            <span class="price"><sup>$</sup>FREE</span>
-                                            <span class="month">/month</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <strong class="package">BASIC</strong>
-                                <ul class="list">
-                                    <li>Аудит сайта</li>
-                                    <li>Аудит рекламы</li>
-                                    <li>SEЗ-аудит</li>
-                                    <li>Написание рекомендаций</li>
-                                    <li>Неделя рекламы в подарок</li>
-                                </ul>
-                                <a href="#" class="plan">Выбрать</a>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="0.8s">
-                                <div class="icon">
-                                    <div class="ico-text">
-                                        <div class="ico-box">
-                                            <span class="price"><sup>$</sup>165</span>
-                                            <span class="month">/month</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <strong class="package">POPUlAR</strong>
-                                <ul class="list">
-                                    <li>Lorem Ipsum</li>
-                                    <li>Lorem Ipsum Dorel</li>
-                                    <li>Lorem Ipsum</li>
-                                    <li>Lorem Ipsum Dorel</li>
-                                    <li>Lorem Ipsum</li>
-                                </ul>
-                                <a href="#" class="plan">SELECT PLAN</a>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="1s">
-                                <div class="icon">
-                                    <div class="ico-text">
-                                        <div class="ico-box">
-                                            <span class="price"><sup>$</sup>195</span>
-                                            <span class="month">/month</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <strong class="package">primier</strong>
-                                <ul class="list">
-                                    <li>Lorem Ipsum</li>
-                                    <li>Lorem Ipsum Dorel</li>
-                                    <li>Lorem Ipsum</li>
-                                    <li>Lorem Ipsum Dorel</li>
-                                    <li>Lorem Ipsum</li>
-                                </ul>
-                                <a href="#" class="plan">SELECT PLAN</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </!-- client-area -->
+                
         <section class="commonSection ready_2">
             <div class="max-container">
                 <div class="row">
