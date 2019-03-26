@@ -85,7 +85,7 @@
 			</div>
 		</div>
 		<!-- header of the page -->
-		<header id="header" class="transparent sticky-header">
+		<header id="header" class="sticky-header">
 			<div class="max-container">
 				<!-- main site logo -->
 				<div class="navbar-header">
