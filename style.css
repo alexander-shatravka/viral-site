@@ -7043,6 +7043,32 @@ body.scroll-off{
 	padding-bottom: 0;
 }
 
+.service_detail #tabs {
+	display: flex;
+}
+
+.service_detail #tabs .sidebar {
+	order: 2;
+}
+
+.service_detail #tabs .col-lg-8 {
+	order: 1;
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.service_detail #tabs {
+		flex-direction: column;
+	}
+
+	.service_detail #tabs .sidebar {
+		order: 1;
+	}
+
+	.service_detail #tabs .col-lg-8 {
+		order: 2;
+	}
+}
+
 .serviceArea {
 	position: relative;
 }
