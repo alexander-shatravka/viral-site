@@ -88,7 +88,7 @@
                                             </p>
                                             <ul>
                                                 <li><i class="fa fa-square"></i><a class="services-drop" href="">SEO</a>
-                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!<a href="marketing" class="services-more">подробнее</a></p>
+                                                    <p class="services-more__description drop-descr">Наша главная задача - помогать клиентам развивать свой бизнес в интернете и SEO-продвижение один из наиболее эффективных инструментов в выполнении этой задачи.<a href="marketing" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i><a class="services-drop" href="">PPC</a>
                                                     <p class="services-more__description drop-descr">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.<a href="marketing" class="services-more">подробнее</a></p>

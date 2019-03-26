@@ -6344,8 +6344,17 @@ body.scroll-off{
 	transition: max-height 0.3s;
 }
 
+.services-more__description.drop-descr .services-more{
+	opacity: 0;
+	transition: opacity 0.3s;
+}
+
+.services-more__description.drop-descr.show .services-more{
+	opacity: 1;
+}
+
 .services-more__description.drop-descr.show{
-	max-height: 100px;
+	max-height: 300px;
 	transition: max-height 0.3s;
 }
 
@@ -6407,6 +6416,20 @@ body.scroll-off{
 	list-style: none;
 	display: block;
 	line-height: 1.5;
+}
+
+
+@media screen and (min-width: 768px) {
+	.wh_choose ul li {
+		padding-right: 15%;
+		position: relative;
+	}
+
+	.wh_choose ul li .services-more{
+		position: absolute;
+		right: 0;
+		bottom: 0;
+	}
 }
 
 .wh_choose ul li a{
