@@ -1,7 +1,7 @@
 <?php include 'top.php';?>
 <main id="main" role="main" class="design">
     <div class="main">
-        <div class="max-container">
+        <!-- <div class="max-container"> -->
             <p class="main__description">Services case</p>
             <h2 class="main__title">
                 Дизайн
@@ -11,7 +11,7 @@
                 <button type="button" class="white__button button">View site</button>
                 <button type="button" class="white__button button">View site</button>
             </div>
-        </div>
+        <!-- </div> -->
     </div>
 
     <div class="container">
