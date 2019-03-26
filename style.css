@@ -6329,6 +6329,17 @@ body.scroll-off{
 	float: left;
 }
 
+.services-more__description.drop-descr {
+	height: 0;
+	overflow: hidden;
+	transition: height 0.3s;
+}
+
+.services-more__description.drop-descr.show{
+	height: 50px;
+	transition: height 0.3s;
+}
+
 .chooseUs_title li a {
 	display: block;
 	font-size: 20px;
@@ -6374,10 +6385,6 @@ body.scroll-off{
 .wh_choose {
 	position: relative;
 	margin: 51px 0 0;
-}
-
-.wh_choose p {
-	margin: 0 0 25px;
 }
 
 .wh_choose ul {
