@@ -115,10 +115,10 @@
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="design-tab">
-                                    <div class="col-lg-5 col-sm-5 col-md-5">
-                                        <div class="chose_img">
-                                            <img src="images/c2.jpg" alt="">
-                                        </div>
+                                    <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
+                                        <video  preload="auto" autoplay="true" loop="true" muted="muted">
+                                            <source src="video/DESIGN.mp4">
+                                        </video>
                                     </div>
                                     <div class="col-lg-7 col-sm-7 col-md-7">
                                         <div class="wh_choose">
@@ -190,7 +190,7 @@
                                     </div>
                                     <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
                                         <video  preload="auto" autoplay="true" loop="true" muted="muted">
-                                            <source src="video/web_development.mp4">
+                                            <source src="video/WEB-DEV.mp4">
                                         </video>
                                     </div>
                                 </div>
