@@ -6324,6 +6324,11 @@ body.scroll-off{
 	width: calc(41.6666666667% - 15px);
 }
 
+.chooseUs .services-video-holder video{
+	height: 450px;
+	width: auto;
+}
+
 .chooseUs_title {
 	margin: 0;
 	padding: 0;
@@ -6472,7 +6477,7 @@ body.scroll-off{
 
 .chose_img {
 	position: relative;
-	margin: 60px 0 0;
+	margin: 55px 0 0;
 }
 
 .chose_img img {

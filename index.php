@@ -108,10 +108,10 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-lg-5 col-sm-5 col-md-5">
-                                        <div class="chose_img">
-                                            <img src="images/c1.jpg" alt="">
-                                        </div>
+                                    <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
+                                        <video  preload="auto" autoplay="true" loop="true" muted="muted">
+                                            <source src="video/DIGITAL-MARKETING.mp4">
+                                        </video>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="design-tab">
