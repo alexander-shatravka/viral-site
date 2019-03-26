@@ -42,7 +42,7 @@ function initSlick(){
 }
 
 function initDescrDrop(){
-	$('.chooseUs li a').click(function(e){
+	$('.chooseUs li .services-drop').click(function(e){
 		e.preventDefault();
 		$('.chooseUs li .drop-descr').removeClass('show');	
 		$(this).parent().find('.drop-descr').toggleClass('show');

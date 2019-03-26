@@ -87,23 +87,23 @@
                                                 Интернет-маркетинг на сегодняшний день играет огромную роль в повышении эффективности бизнеса. Нельзя отказываться от возможностей, которые может дать бизнесу маркетинг в Интернете. 
                                             </p>
                                             <ul>
-                                                <li><i class="fa fa-square"></i><a href="">SEO</a>
-                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                <li><i class="fa fa-square"></i><a class="services-drop" href="">SEO</a>
+                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!<a href="marketing" class="services-more">подробнее</a></p>
                                                 </li>
-                                                <li><i class="fa fa-square"></i><a href="">PPC</a>
-                                                    <p class="services-more__description drop-descr">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a href="">SMM</a>
-                                                    <p class="services-more__description drop-descr">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p>
+                                                <li><i class="fa fa-square"></i><a class="services-drop" href="">PPC</a>
+                                                    <p class="services-more__description drop-descr">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.<a href="marketing" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Комплексные аудиты</a>
-                                                    <p class="services-more__description drop-descr">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p>
+                                                    <a class="services-drop" href="">SMM</a>
+                                                    <p class="services-more__description drop-descr">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.<a href="marketing" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Youtube продвижение</a>
-                                                    <p class="services-more__description drop-descr">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p>
+                                                    <a class="services-drop" href="">Комплексные аудиты</a>
+                                                    <p class="services-more__description drop-descr">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.<a href="marketing" class="services-more">подробнее</a></p>
+                                                </li>
+                                                <li><i class="fa fa-square"></i>
+                                                    <a class="services-drop" href="">Youtube продвижение</a>
+                                                    <p class="services-more__description drop-descr">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.<a href="marketing" class="services-more">подробнее</a></p>
                                                 </li>
                                             </ul>
                                         </div>
@@ -131,28 +131,28 @@
                                             </p>
                                             <ul>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Редизайн сайта</a>
-                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                    <a class="services-drop" href="">Редизайн сайта</a>
+                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!<a href="design" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Дизайн адаптивного сайта</a>
-                                                    <p class="services-more__description drop-descr">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p>
+                                                    <a class="services-drop" href="">Дизайн адаптивного сайта</a>
+                                                    <p class="services-more__description drop-descr">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.<a href="design" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Дизайн лендингов</a>
-                                                    <p class="services-more__description drop-descr">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p>
+                                                    <a class="services-drop" href="">Дизайн лендингов</a>
+                                                    <p class="services-more__description drop-descr">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.<a href="design" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Дизайн корпоративного сайта</a>
-                                                    <p class="services-more__description drop-descr">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p>
+                                                    <a class="services-drop" href="">Дизайн корпоративного сайта</a>
+                                                    <p class="services-more__description drop-descr">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.<a href="design" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Индивидуальный дизайн сайта</a>
-                                                    <p class="services-more__description drop-descr">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p>
+                                                    <a class="services-drop" href="">Индивидуальный дизайн сайта</a>
+                                                    <p class="services-more__description drop-descr">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.<a href="design" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Дизайн интернет-магазина</a>
-                                                    <p class="services-more__description drop-descr">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p>
+                                                    <a class="services-drop" href="">Дизайн интернет-магазина</a>
+                                                    <p class="services-more__description drop-descr">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.<a href="design" class="services-more">подробнее</a></p>
                                                 </li>
                                             </ul>
                                         </div>
@@ -166,24 +166,24 @@
                                             </p>
                                             <ul>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Разработка корпоративного сайта</a>
-                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
+                                                    <a class="services-drop" href="">Разработка корпоративного сайта</a>
+                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.<a href="development" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Разработка интернет-магазина</a>
-                                                    <p class="services-more__description drop-descr">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
+                                                    <a class="services-drop" href="">Разработка интернет-магазина</a>
+                                                    <p class="services-more__description drop-descr">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.<a href="development" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Разработка landing page</a>
-                                                    <p class="services-more__description drop-descr">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
+                                                    <a class="services-drop" href="">Разработка landing page</a>
+                                                    <p class="services-more__description drop-descr">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.<a href="development" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Разработка сайта-визитки</a>
-                                                    <p class="services-more__description drop-descr">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
+                                                    <a class="services-drop" href="">Разработка сайта-визитки</a>
+                                                    <p class="services-more__description drop-descr">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок.<a href="development" class="services-more">подробнее</a></p>
                                                 </li>
                                                 <li><i class="fa fa-square"></i>
-                                                    <a href="">Разработка портала под ключ</a>
-                                                    <p class="services-more__description drop-descr">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
+                                                    <a class="services-drop" href="">Разработка портала под ключ</a>
+                                                    <p class="services-more__description drop-descr">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.<a href="development" class="services-more">подробнее</a></p>
                                                 </li>
                                             </ul>
                                         </div>

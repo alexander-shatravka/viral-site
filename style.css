@@ -6329,15 +6329,24 @@ body.scroll-off{
 	float: left;
 }
 
+.chooseUs .services-more {
+	display: block;
+	color: #cc0000;
+	text-transform: uppercase;
+	font-size: 12px;
+	margin: 5px 0 0 0px;
+}
+
 .services-more__description.drop-descr {
-	height: 0;
+	height: auto;
 	overflow: hidden;
-	transition: height 0.3s;
+	max-height: 0;
+	transition: max-height 0.3s;
 }
 
 .services-more__description.drop-descr.show{
-	height: 50px;
-	transition: height 0.3s;
+	max-height: 100px;
+	transition: max-height 0.3s;
 }
 
 .chooseUs_title li a {
