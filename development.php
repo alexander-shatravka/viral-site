@@ -27,7 +27,9 @@
             </div>
             <div class="media-block__media">
                 <div class="media">
-                
+                    <video class="media" autoplay>
+                        <source src="video/web_development.mp4" autoplay="autoplay">
+                    </video>
                 </div>
             </div>
         </div>
