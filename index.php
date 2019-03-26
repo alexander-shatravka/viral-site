@@ -188,10 +188,10 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-lg-5 col-sm-5 col-md-5">
-                                        <div class="chose_img">
-                                            <img src="images/c3.jpg" alt="">
-                                        </div>
+                                    <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
+                                        <video  preload="auto" autoplay="true" loop="true" muted="muted">
+                                            <source src="video/web_development.mp4">
+                                        </video>
                                     </div>
                                 </div>
                             </div>

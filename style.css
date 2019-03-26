@@ -6314,6 +6314,16 @@ body.scroll-off{
 	padding: 0 0 50px;
 }
 
+.chooseUs .services-video-holder{
+	display: flex;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+	overflow: hidden;
+	height: 450px;
+	width: calc(41.6666666667% - 15px);
+}
+
 .chooseUs_title {
 	margin: 0;
 	padding: 0;
