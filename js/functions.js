@@ -314,6 +314,13 @@ function initAnchors() {
  	});
 }
 
+// function transparentClass(){
+// 	if(document.URL.indexOf("foo_page.html") >= 0){ 
+		
+// 	}
+// }
+// transparentClass()
+
 // sticky header init
 function initStickyHeader() {
 	var win = jQuery(window),
@@ -329,11 +336,13 @@ function initStickyHeader() {
 				if (flag){
 					flag = false;
 					header.addClass(stickyClass);
+					header.removeClass('transparent');
 				}
 			} else {
 				if (!flag) {
 					flag = true;
 					header.removeClass(stickyClass);
+					header.addClass('transparent');
 				}
 			}
 
