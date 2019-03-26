@@ -314,17 +314,23 @@ function initAnchors() {
  	});
 }
 
-// function transparentClass(){
-// 	if(document.URL.indexOf("foo_page.html") >= 0){ 
-		
-// 	}
-// }
-// transparentClass()
+function initServicePages() {
+	var main = jQuery('main');
+	if (main.hasClass('development') || main.hasClass('marketing') || main.hasClass('design')) {
+		jQuery('#header').addClass('transparent');
+		return true;
+	} else {
+		return false;
+	}
+}
 
 // sticky header init
 function initStickyHeader() {
+	var initPages = initServicePages();
+
 	var win = jQuery(window),
 		stickyClass = 'sticky';
+		transparentClass = 'transparent';
 
 	jQuery('#header.sticky-header').each(function() {
 		var header = jQuery(this);
@@ -336,13 +342,19 @@ function initStickyHeader() {
 				if (flag){
 					flag = false;
 					header.addClass(stickyClass);
-					header.removeClass('transparent');
+
+					if (initPages) {
+						header.removeClass(transparentClass);
+					}
 				}
 			} else {
 				if (!flag) {
 					flag = true;
 					header.removeClass(stickyClass);
-					header.addClass('transparent');
+
+					if (initPages) {
+						header.addClass(transparentClass);
+					}
 				}
 			}
 
@@ -350,6 +362,10 @@ function initStickyHeader() {
 				'..767': {
 					on: function() {
 						header.removeClass(stickyClass);
+
+						if (initPages) {
+							header.addClass(transparentClass);
+						}
 					}
 				}
 			});
