@@ -1552,7 +1552,7 @@ a:focus {
 }
 
 .visual .slide .image img{
-	height: calc(100% - 80px)!important;
+	height: calc(100vh - 180px)!important;
 }
 
 .visual .slideshow {
