@@ -1056,6 +1056,30 @@ a:focus {
 	height: 90px;
 }
 
+
+
+#header.transparent {
+	background: transparent;
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+	border-bottom: 2px solid rgba(255, 255, 255, .5);
+}
+
+#header.transparent .navbar-nav a {
+	color: #fff;
+}
+
+#header.transparent .navbar-nav .dropdown-menu a {
+	color: #000;
+}
+
+#header.transparent .align-right .search-area a {
+	color: #fff;
+}
+
+
+
 @media only screen and (max-width: 768px) {
 	#header {
 		height: 120px;
@@ -6580,9 +6604,15 @@ body.scroll-off{
 }
 
 .ready_2 .common_btn {
-	padding: 28px 42.5px;
+	padding: 28px 40px;
 	background: #fff;
 	color: #000;
+}
+
+@media (max-width: 1024px) and (min-width: 320px) {
+	.ready_2 .common_btn {
+		padding: 28px 20px;
+	}
 }
 
 .common_btn.red_bg:hover {
@@ -6592,6 +6622,7 @@ body.scroll-off{
 .common_btn span {
 	position: relative;
 	z-index: 2;
+	line-height: 1em;
 }
 
 .common_btn:after {
@@ -6945,4 +6976,246 @@ body.scroll-off{
 
 .fa-play {
 	content: "\f04b";
+}
+
+
+
+
+
+.pageBanner {
+	position: relative;
+	min-height: 465px;
+	background: url(images/8.jpg) no-repeat center center / cover;
+	padding-top: 224px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.banner_content {
+	position: relative;
+}
+
+.banner_content h4 {
+	color: #fff;
+	font-size: 18px;
+	line-height: 36px;
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+	margin: 0 0 12px;
+}
+
+.banner_content h4 a {
+	text-decoration: none;
+	color: #fff;
+	display: inline-block;
+}
+
+.banner_content h2 {
+	font-size: 70px;
+	line-height: 1;
+	font-weight: 700;
+	letter-spacing: 2.8px;
+	margin: 0;
+	color: #FFF;
+	text-transform: uppercase;
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.banner_content h2 {
+		font-size: 36px;
+		line-height: 1.2;
+	}
+}
+
+.commonSection {
+	padding: 120px 0;
+	position: relative;
+}
+
+.service_detail {
+	padding-bottom: 0;
+}
+
+.serviceArea {
+	position: relative;
+}
+
+.serviceArea img {
+	width: 100%;
+	height: auto;
+	margin-bottom: 57px;
+}
+
+.serviceArea h2 {
+	text-transform: uppercase;
+	color: #222232;
+	line-height: .8;
+	font-size: 50px;
+	letter-spacing: 2px;
+	margin-bottom: 34px;
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.serviceArea h2 {
+    font-size: 32px;
+		line-height: 1.2;
+	}
+}
+
+.serviceArea p {
+	margin: 0 0 31px;
+}
+
+.serviceArea .gaping {
+	padding: 24px 0 0;
+}
+
+.serviceArea .gaping img {
+	margin-bottom: 52px;
+}
+
+.serviceArea h3 {
+	line-height: .8;
+	text-transform: uppercase;
+	letter-spacing: 1.2px;
+	color: #000000;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.serviceArea h3 {
+    margin-bottom: 30px;
+		line-height: 1.2;
+	}
+}
+
+.serviceArea ul {
+	margin: 0;
+	padding: 0;
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.serviceArea ul {
+		margin: 0 0 30px;
+	}
+}
+
+.serviceArea ul li {
+	list-style: none;
+	display: inline-block;
+	line-height: 32px;
+	font-size: 16px;
+}
+
+.serviceArea ul li i {
+	color: #cc0000;
+	margin-right: 10px;
+	line-height: 36px;
+}
+
+.fa-check-square:before {
+	content: "\f14a";
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.sidebar {
+		margin-top: 50px;
+	}
+}
+
+.sidebar .widget {
+	position: relative;
+	margin-bottom: 30px;
+}
+
+.sidebar .widget_title {
+	font-size: 18px;
+	text-transform: uppercase;
+	line-height: .8;
+	letter-spacing: 0.72px;
+	margin: 0 0 -2px;
+	padding: 23px 48px 24px;
+	border: 2px solid #f4f4f4;
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.sidebar .widget_title {
+		padding-left: 28px;
+	}
+}
+
+.meipaly_categorie_widget {
+	position: relative;
+	background: #f4f4f4;
+	padding: 43px 50px 44px;
+}
+
+.meipaly_categorie_widget ul {
+	margin: 0;
+	padding: 0;
+}
+
+.meipaly_categorie_widget ul li {
+	list-style: none;
+	display: block;
+	margin: 0 0 12px;
+	padding: 0 !important;
+}
+
+.meipaly_categorie_widget ul li::after {
+	content: none !important;
+}
+
+.meipaly_categorie_widget ul li + li {
+	border-top: none !important;
+}
+
+.meipaly_categorie_widget ul li a {
+	display: inline-block;
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: 700;
+	color: #818181;
+}
+
+.meipaly_services_help {
+	position: relative;
+	background: url(images/s3.jpg) no-repeat center center / cover;
+	padding: 47px 50px 47px;
+}
+
+@media (max-width: 767px) and (min-width: 320px) {
+	.meipaly_services_help, .meipaly_post_widget, .meipaly_tagcloude_widget, .meipaly_categorie_widget {
+    padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+.meipaly_services_help h4 {
+	font-size: 18px;
+	color: #ffffff;
+	letter-spacing: 0.72px;
+	text-transform: uppercase;
+	margin: 0 0 40px;
+}
+
+.meipaly_services_help p {
+	color: #aaaaaa;
+	margin: 0 0 25px;
+	padding-right: 5px;
+}
+
+.meipaly_services_help h2 {
+	font-size: 30px;
+	color: #ffffff;
+	letter-spacing: 1.2px;
+	text-transform: uppercase;
+	margin: 0 0 0;
+}
+
+.development .ready_2 {
+	margin: 0 0 -90px 0;
 }
