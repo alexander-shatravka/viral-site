@@ -6421,20 +6421,23 @@ body.scroll-off{
 
 @media screen and (min-width: 768px) {
 	.wh_choose ul li {
-		padding-right: 15%;
+		padding-right: 20%;
 		position: relative;
 	}
 
 	.wh_choose ul li .services-more{
 		position: absolute;
+		width: 17%;
+		text-align: left;
 		right: 0;
 		bottom: 0;
+		font-weight: 700
 	}
 }
 
 .wh_choose ul li a{
 	color: #000;
-	font-weight: 500;
+	font-weight: 600;
 }
 
 .fa {
