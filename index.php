@@ -475,7 +475,7 @@
             <div class="container-fluid ">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 video_content">
-                    <div data-icon=">" class="video_icon"><i class="fas fa-play"></i></div>
+                    <div data-icon=">" class="video_icon"><i class="fa fa-play"></i></div>
                     <h3>WATCH OUR VIDEOREEL</h3>
                     </div>
                 </div>

@@ -6935,3 +6935,7 @@ body.scroll-off{
 .video_separator:hover .video_hover_solid {
 	opacity: 0.5;
 }
+
+.fa-play {
+	content: "\f04b";
+}
