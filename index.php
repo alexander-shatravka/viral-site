@@ -70,38 +70,41 @@
 
             <section class="commonSection featured">
                 <div class="max-container features-info">
+                    <div class="features_img">
+                        <img src="images/5.jpg" alt="">
+                        <!-- <div class="img_details">
+                            <h4>Total design freedom<br> for everyone.</h4>
+                        </div> -->
+                    </div>
                     <div class="features_content">
-                        <h4 class="sub_title">our core features</h4>
-                        <h2 class="sec_title">real experience</h2>
-                        <p class="sec_desc">
+                        <!-- <h4 class="sub_title">our core features</h4> -->
+                        <h2 class="sec_title">Миссия и ценности</h2>
+                        <!-- <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while offering our employees the best training.
-                        </p>
+                        </p> -->
                         <div class="singleFeature">
                             <div class="f_count">01</div>
-                            <h3>No Coding Skills Require</h3>
+                            <h3>Видение</h3>
                             <p>
-                                There are many variations of passages of lorem ipsum available, but the majority have suffered.
+                            Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                            Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
                             </p>
                         </div>
                         <div class="singleFeature">
                             <div class="f_count">02</div>
-                            <h3>Online Documentation</h3>
+                            <h3>Миссия</h3>
                             <p>
-                                There are many variations of passages of lorem ipsum available, but the majority have suffered.
+                            Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
                             </p>
                         </div>
                         <div class="singleFeature">
                             <div class="f_count">03</div>
-                            <h3>SEO Optimized</h3>
+                            <h3>Ценности</h3>
                             <p>
-                                There are many variations of passages of lorem ipsum available, but the majority have suffered.
+                            Порядочность - это основное наше требование к себе.
+                            положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                            Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
                             </p>
-                        </div>
-                    </div>
-                    <div class="features_img">
-                        <img src="images/5.jpg" alt="">
-                        <div class="img_details">
-                            <h4>Total design freedom<br> for everyone.</h4>
                         </div>
                     </div>
                 </div>
@@ -194,7 +197,7 @@
                     </div>
                 </div>
                 <!-- work info -->
-                <div class="info work">
+                <!-- <div class="info work">
                     <div class="img-frame">
                         <div class="img-area" id="masonry-container">
                             <div class="item work-i work-w work-b wow fadeInUp" data-wow-delay="0.2s">
@@ -204,9 +207,9 @@
                                         <div class="c2">
                                             <strong class="title">Arigato</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-arigato"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-arigato"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -219,9 +222,9 @@
                                         <div class="c2">
                                             <strong class="title">Cashyou</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-cashyou"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-cashyou"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -234,9 +237,9 @@
                                         <div class="c2">
                                             <strong class="title">Time4machine</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-time4machine"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-time4machine"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -249,9 +252,9 @@
                                         <div class="c2">
                                             <strong class="title">Bus4you</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-bus4you"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-bus4you"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -264,9 +267,9 @@
                                         <div class="c2">
                                             <strong class="title">Carte Noire</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-carte-noire"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-carte-noire"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -279,9 +282,9 @@
                                         <div class="c2">
                                             <strong class="title">Creditgarant</strong>
                                             <p>Branding Identity</p>
-                                            <ul class="icons">
+                                            <ul class="icons"> -->
                                                 <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-creditgarant"><i class="fa fa-eye"></i> <span>attach</span></a></li>
+                                                <!-- <li><a href="portfolio-creditgarant"><i class="fa fa-eye"></i> <span>attach</span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -293,18 +296,18 @@
                         <h2 class="tild">ПОРТФОЛИО</h2>
                         <span class="num">02</span>
                         <ul class="filter">
-                            <li class="active"><a href="#">Все работы</a></li>
+                            <li class="active"><a href="#">Все работы</a></li> -->
                             <!-- <li><a href="#" data-filter=".work-p">Video Production</a></li> -->
-                            <li><a href="#" data-filter=".work-b">Дизайн</a></li>
+                            <!-- <li><a href="#" data-filter=".work-b">Дизайн</a></li>
                             <li><a href="#" data-filter=".work-w">Маркетинг</a></li>
                             <li><a href="#" data-filter=".work-m">Разработка</a></li> 
                             <li><a href="#" data-filter=".work-i">Фото.Видео</a></li>
                         </ul>
                         <a href="#" class="btn-contact more">Связаться</a>
                     </div>
-                </div>
+                </div> -->
                 <!-- service info -->
-                <div class="info service-area">
+                <!-- <div class="info service-area">
                     <div class="img-frame wow fadeInLeft" data-wow-delay="0.2s">
                         <h2 class="tild">НАШИ УСЛУГИ</h2>
                         <span class="num">03</span>
@@ -377,7 +380,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <!-- testimonial info -->
                 <div class="info testimonial">
                     <div class="txt-frame wow fadeInLeft" data-wow-delay="0.2s">
@@ -446,42 +449,50 @@
                     <!-- <div class="container"> -->
                         <div class="row">
                             <div class="col-lg-12 text-center">
-                                <h4 class="sub_title">our benefits</h4>
-                                <h2 class="sec_title">why choose us</h2>
-                                <p class="sec_desc">
+                                <!-- <h4 class="sub_title">our benefits</h4> -->
+                                <h2 class="sec_title">Наши Услуги</h2>
+                                <!-- <p class="sec_desc">
                                     We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div id="tabs">
                             <div class="row">
                                 <div class="col-lg-12 col-sm-12">
                                     <ul class="chooseUs_title">
-                                        <li class="active"><a href="#tes_tab_1" data-toggle="tab" aria-expanded="true">Latest technology</a></li>
-                                        <li class=""><a href="#tes_tab_2" data-toggle="tab" aria-expanded="false">awesome support</a></li>
-                                        <li class=""><a href="#tes_tab_3" data-toggle="tab" aria-expanded="false">1 click demo install</a></li>
+                                        <li class="active"><a href="#marketing-tab" data-toggle="tab" aria-expanded="true">Маркетинг</a></li>
+                                        <li class=""><a href="#design-tab" data-toggle="tab" aria-expanded="false">Дизайн</a></li>
+                                        <li class=""><a href="#development-tab" data-toggle="tab" aria-expanded="false">Разработка</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="tab-content clearfix">
-                                    <div class="tab-pane fade active in" id="tes_tab_1">
+                                    <div class="tab-pane fade active in" id="marketing-tab">
                                         <div class="col-lg-7 col-sm-7 col-md-7">
                                             <div class="wh_choose">
                                                 <p>
-                                                    There are many variations of passages of lorem ipsum available, but the majority have 
-                                                    suffered alteration in some form, by injected humour, or randomised words 
-                                                    which don't look even slightly believable. If you are going to use a 
-                                                    passage of Lorem Ipsum, you need to be sure there isn't anything
-                                                    embarrassing hidden in the middle of text. 
+                                                    Интернет-маркетинг на сегодняшний день играет огромную роль в повышении эффективности бизнеса. Нельзя отказываться от возможностей, которые может дать бизнесу маркетинг в Интернете. 
                                                 </p>
                                                 <ul>
-                                                    <li><i class="fa fa-check-square"></i>Self-contained, state-of-the-art time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>Scalability of up to 500 employees per time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>The ability to connect up to 32 time clocks</li>
-                                                    <li><i class="fa fa-check-square"></i>Employee self-enrollment</li>
-                                                    <li><i class="fa fa-check-square"></i>Payroll integration</li>
-                                                    <li><i class="fa fa-check-square"></i>Built-in backup camera to verify failed punches</li>
+                                                    <li><i class="fa fa-check-square"></i><a href="">SEO</a>
+                                                        <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i><a href="">PPC</a>
+                                                        <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">SMM</a>
+                                                        <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Комплексные аудиты</a>
+                                                        <p class="services-more__description">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Youtube продвижение</a>
+                                                        <p class="services-more__description">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -491,7 +502,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="tes_tab_2">
+                                    <div class="tab-pane fade" id="design-tab">
                                         <div class="col-lg-5 col-sm-5 col-md-5">
                                             <div class="chose_img">
                                                 <img src="images/c2.jpg" alt="">
@@ -507,33 +518,61 @@
                                                     embarrassing hidden in the middle of text. 
                                                 </p>
                                                 <ul>
-                                                    <li><i class="fa fa-check-square"></i>Self-contained, state-of-the-art time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>Scalability of up to 500 employees per time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>The ability to connect up to 32 time clocks</li>
-                                                    <li><i class="fa fa-check-square"></i>Employee self-enrollment</li>
-                                                    <li><i class="fa fa-check-square"></i>Payroll integration</li>
-                                                    <li><i class="fa fa-check-square"></i>Built-in backup camera to verify failed punches</li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Редизайн сайта</a>
+                                                        <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн адаптивного сайта</a>
+                                                        <p class="services-more__description">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн лендингов</a>
+                                                        <p class="services-more__description">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн корпоративного сайта</a>
+                                                        <p class="services-more__description">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Индивидуальный дизайн сайта</a>
+                                                        <p class="services-more__description">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Дизайн интернет-магазина</a>
+                                                        <p class="services-more__description">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="tes_tab_3">
+                                    <div class="tab-pane fade" id="development-tab">
                                         <div class="col-lg-7 col-sm-7 col-md-7">
                                             <div class="wh_choose">
                                                 <p>
-                                                    There are many variations of passages of lorem ipsum available, but the majority have 
-                                                    suffered alteration in some form, by injected humour, or randomised words 
-                                                    which don't look even slightly believable. If you are going to use a 
-                                                    passage of Lorem Ipsum, you need to be sure there isn't anything
-                                                    embarrassing hidden in the middle of text. 
+                                                Решив создать качественный сайт через профессиональную веб-студию, вам нужно заранее подумать о конкретных задачах будущего интернет-проекта. Дело в том, что исходя из целей, которых вы планируете достичь посредством сайта, можно придумывать соответствующий дизайн, разрабатывать подходящий функционал, навигационную систему и другие компоненты. Так, например, сайт-визитка компании будет в значительной степени отличаться от сайта, который планируется использовать как самостоятельный интернет-проект для геймеров. 
                                                 </p>
                                                 <ul>
-                                                    <li><i class="fa fa-check-square"></i>Self-contained, state-of-the-art time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>Scalability of up to 500 employees per time clock</li>
-                                                    <li><i class="fa fa-check-square"></i>The ability to connect up to 32 time clocks</li>
-                                                    <li><i class="fa fa-check-square"></i>Employee self-enrollment</li>
-                                                    <li><i class="fa fa-check-square"></i>Payroll integration</li>
-                                                    <li><i class="fa fa-check-square"></i>Built-in backup camera to verify failed punches</li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка корпоративного сайта</a>
+                                                        <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка интернет-магазина</a>
+                                                        <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка landing page</a>
+                                                        <p class="services-more__description">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка сайта-визитки</a>
+                                                        <p class="services-more__description">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
+                                                    </li>
+                                                    <li><i class="fa fa-check-square"></i>
+                                                        <a href="">Разработка портала под ключ</a>
+                                                        <p class="services-more__description">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -627,7 +666,7 @@
                         <h2 class="sec_title white">Let's Get Your Project Started!</h2>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3 text-right">
-                        <a class="common_btn red_bg" href="contact.html"><span>Contact with us</span></a>
+                        <a class="common_btn red_bg btn-contact" href="contact.html"><span>Contact with us</span></a>
                     </div>
                 </div>
             </div>

@@ -195,7 +195,7 @@
 							<input type="search" placeholder="Search">
 						</div> -->
 						<a href="#" class="mail"><i class="icon-mail"><span>mail</span></i></a>
-						<a href="#" class="btn-contact">Связаться с нами</a>
+						<a href="#" class="btn-contact"><span>Связаться с нами</span></a>
 					</div>
 				</div>
 			</div>

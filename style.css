@@ -1257,13 +1257,13 @@ a:focus {
 }
 
 .align-right .search-area .btn-contact {
-	/* position: absolute; */
+	position: relative;
 	right: 0;
 	top: 2px;
 	display: block;
 	height: 40px;
 	width: 160px;
-	border: 1px solid #000;
+	background: #cc0000;
 	line-height: 37px;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -1271,10 +1271,38 @@ a:focus {
 	text-align: center;
 	transition: border-color 0.3s, color 0.3s;
 }
-.align-right .search-area .btn-contact:hover{
+
+.align-right .search-area .btn-contact span{
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 100%;
+	transform: translate(-50%,-50%);
+	color: #fff;
+	z-index: 2;
+}
+
+.align-right .search-area .btn-contact::after {
+	content: '';
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 0;
+	background: #222;
+	z-index: 1;
+	transition: width 0.5s;
+}
+.align-right .search-area .btn-contact:hover:after {
+	width: 100%;
+}
+
+/* .align-right .search-area .btn-contact:hover{
 	text-decoration: none;
 	border-color: #CC0000;
-}
+} */
 
 .align-right .btn-contact.mobile {
 	display: none!important;
@@ -2341,7 +2369,7 @@ h2.tild, span.num  {
 
 .info .services li h3 {
 	margin: 0 0 20px;
-	font-size: 16px;
+	font-size: 13px;
 	line-height: 18px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -2356,8 +2384,8 @@ h2.tild, span.num  {
 
 .info .services li h3 i {
 	padding: 0;
-	margin: 0 13px 0 0;
-	min-width: 50px;
+	margin: 0 8px 0 0;
+	min-width: 40px;
 	font-size: 20px;
 	line-height: 20px;
 	border-right: 1px solid #e5e5e5;
@@ -5005,7 +5033,6 @@ body.scroll-off{
 	position: fixed;
 	line-height: 47px;
 	text-align: center;
-	border-radius: 50%;
 	background: #252525;
 	-webkit-transition: all .6s ease;
 	transition: all .6s ease;
@@ -6121,11 +6148,12 @@ body.scroll-off{
 }
 
 .commonSection {
-	padding: 100px 0;
+	padding: 0;
 	position: relative;
 }
 
 .features_content {
+	width: 40%;
 	/* padding-right: 30px; */
 	order: 2;
 	/* width: 40%; */
@@ -6161,13 +6189,17 @@ body.scroll-off{
 	margin-bottom: 56px;
 }
 
+.singleFeature:first-child {
+	margin-bottom: 0px;
+}
+
 .singleFeature:after {
 	position: absolute;
 	left: 24px;
-	top: 58px;
+	top: 35px;
 	content: '';
 	width: 2px;
-	height: 95px;
+	height: 100%;
 	background: #000;
 }
 
@@ -6183,13 +6215,14 @@ body.scroll-off{
 	position: absolute;
 	left: 0;
 	top: 0;
-	color: #fff;
+	color: #cc0000;
 	text-align: center;
-	padding: 18px 0;
+	font-size: 18px;
+	padding-top: 2px;
 	width: 50px;
 	height: 48px;
 	line-height: .8;
-	background: #000;
+	font-weight: 900;
 }
 
 .singleFeature h3 {
@@ -6198,7 +6231,7 @@ body.scroll-off{
 	letter-spacing: 0.72px;
 	color: #000;
 	text-transform: uppercase;
-	margin: 0 0 29px;
+	margin: 0 0 20px;
 }
 
 .singleFeature p {
@@ -6213,9 +6246,9 @@ body.scroll-off{
 	order: 1;
 }
 
-/* .features_img img {
-	width: 100%;
-} */
+.features_img img {
+	height:  100%;
+}
 
 .img_details {
 	background: #cc0000;
@@ -6276,7 +6309,9 @@ body.scroll-off{
 	}
 }
 
-
+.chooseUs {
+	padding: 100px 0;
+}
 
 .chooseUs_title {
 	margin: 0;
@@ -6304,10 +6339,11 @@ body.scroll-off{
 	width: 100%;
 	text-align: center;
 	text-transform: uppercase;
+	transition: background-color 0.3s;
 }
 
 .chooseUs_title li:hover a, .chooseUs_title li.active a {
-	background: #000;
+	background: #cc0000;
 	color: #fff;
 	text-decoration: none;
 	outline: 0;
@@ -6352,7 +6388,12 @@ body.scroll-off{
 	padding: 0;
 	list-style: none;
 	display: block;
-	line-height: 36px;
+	line-height: 1.5;
+}
+
+.wh_choose ul li a{
+	color: #000;
+	font-weight: 500;
 }
 
 .fa {
@@ -6406,6 +6447,7 @@ body.scroll-off{
 
 
 .ready_2 {
+	padding: 80px 0;
 	position: relative;
 	background: #cc0000;
 	overflow:hidden;
