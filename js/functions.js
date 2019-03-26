@@ -22,6 +22,7 @@ jQuery(function(){
 	initStickyAside();
 	initSlick();
 	initSliderOffers();
+	initDescrDrop();
 	// initPhoneMask();
 	// initchangeCursorPosition();
 });
@@ -38,6 +39,14 @@ jQuery(window).on('load', function() {
 
 function initSlick(){
 	$('.blog-slider').slick();
+}
+
+function initDescrDrop(){
+	$('.chooseUs li .services-drop').click(function(e){
+		e.preventDefault();
+		$('.chooseUs li .drop-descr').removeClass('show');	
+		$(this).parent().find('.drop-descr').toggleClass('show');
+	});
 }
 
 function initSliderOffers(){
