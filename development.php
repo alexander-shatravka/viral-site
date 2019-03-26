@@ -5,8 +5,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="banner_content text-center">
-                        <h4><a href="#">home</a> - Services</h4>
-                        <h2>Service Detail</h2>
+                        <h4><a href="#">Web</a> Development</h4>
+                        <h2>Разработка</h2>
                     </div>
                 </div>
             </div>

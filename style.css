@@ -1548,6 +1548,11 @@ a:focus {
 .visual {
 	overflow: hidden;
 	margin: 0 0 80px;
+	transform: translateY(20px);
+}
+
+.visual .slide .image img{
+	height: calc(100vh - 180px)!important;
 }
 
 .visual .slideshow {
@@ -6345,12 +6350,19 @@ body.scroll-off{
 	justify-content: center;
 	overflow: hidden;
 	height: 450px;
-	width: calc(41.6666666667% - 15px);
+	border-left: 15px solid #fff;
+	border-right: 15px solid #fff;
 }
 
 .chooseUs .services-video-holder video{
 	height: 450px;
 	width: auto;
+}
+
+@media screen and (max-width: 768px) {
+	.chooseUs .services-video-holder{
+		margin-top: 15px;
+	}
 }
 
 .chooseUs_title {
@@ -6620,7 +6632,7 @@ body.scroll-off{
 
 .common_btn:after {
 	content: "";
-	width: 4px;
+	width: 0px;
 	height: 100%;
 	position: absolute;
 	right: 0;
