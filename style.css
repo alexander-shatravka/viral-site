@@ -7043,7 +7043,7 @@ body.scroll-off{
 	padding-bottom: 0;
 }
 
-.service_detail #tabs {
+/* .service_detail #tabs {
 	display: flex;
 }
 
@@ -7067,7 +7067,7 @@ body.scroll-off{
 	.service_detail #tabs .col-lg-8 {
 		order: 2;
 	}
-}
+} */
 
 .serviceArea {
 	position: relative;
@@ -7249,4 +7249,241 @@ body.scroll-off{
 
 .development .ready_2 {
 	margin: 0 0 -90px 0;
+}
+
+
+
+.js-down-section {
+	position: relative;
+}
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.grid>* {
+	min-width: 0;
+	min-height: 1px;
+	box-sizing: border-box;
+}
+
+._col-1 {
+	flex-basis: 8.33333%;
+	width: 8.33333%;
+	max-width: 8.33333%;
+}
+
+.title {
+	line-height: 1.2em;
+	font-weight: 700;
+	color: #000;
+}
+
+.title--decor {
+	height: .625rem;
+	width: 1.875rem;
+	margin: .125rem 0;
+	background-color: #000;
+}
+
+@media only screen and (min-width: 480px) {
+	.title--decor {
+		margin: .2rem 0;
+	}
+}
+
+.title--section {
+	font-size: .875rem;
+	letter-spacing: .5px;
+	max-width: 250px;
+}
+
+._justify-center {
+	justify-content: center!important;
+}
+
+.link-block {
+	display: block;
+	text-decoration: none;
+	position: relative;
+	transition: color .2s ease;
+	color: inherit;
+}
+
+.link-block--black {
+	color: #000;
+}
+
+.reset {
+	border-top: 1px solid transparent;
+}
+
+.link-block__number, .link-block__title {
+	transition: .2s ease;
+	font-size: 1.25rem;
+	text-transform: uppercase;
+}
+
+.link-block__title {
+	line-height: 1.2em;
+	padding-bottom: 2px;
+	font-weight: 700;
+}
+
+.link-block__title--big {
+	font-size: 1.875rem;
+	text-transform: none;
+}
+
+.reset__def {
+	margin-top: -.235em;
+	margin-bottom: -.252em;
+}
+
+@media only screen and (min-width: 1025px) {
+	.link-block__title--big {
+    font-size: 3.6vw;
+		margin-left: -.07em;
+	}
+}
+
+.link-block__text {
+	font-size: 1rem;
+	line-height: 1.5em;
+	transition: .2s ease;
+	opacity: .7;
+	overflow: hidden;
+	max-height: 10.3em;
+}
+
+.link-block__arrow {
+	display: block;
+	vertical-align: top;
+	position: relative;
+	transition: width .3s ease;
+	height: 0;
+	padding: .5rem 0;
+	width: 2.5rem;
+	border-top: 2px solid;
+	transform: translateZ(0);
+}
+
+.link-block__arrow:before {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 100%;
+	height: 100%;
+	content: "";
+}
+
+.link-block__arrow:after {
+	content: "";
+	position: absolute;
+	top: -1px;
+	left: 100%;
+	margin-left: -6px;
+	border: 2px solid;
+	border-bottom-width: 0;
+	border-left-width: 0;
+	width: 8px;
+	height: 8px;
+	transform: rotate(45deg);
+	transform-origin: top right;
+}
+
+
+
+.development .services-more__item {
+	display: inline-block;
+	margin: 0 2% 20px 0;
+	width: 47%;
+	margin-bottom: 50px;
+	text-align: left;
+	vertical-align: text-top;
+}
+
+.development .services-more__item:nth-child(2n) {
+	margin-right: 0;
+}
+
+@media screen and (max-width: 768px) {
+	.development .services-more__item {
+    width: 100%;
+    margin: 0;
+		margin-bottom: 20px;
+	}
+}
+
+.services-more__item a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.development .services-more__title {
+	margin: 0 0 10px 0;
+	text-transform: uppercase;
+	color: #000;
+	font-size: 24px;
+	line-height: 26px;
+	font-weight: 700;
+	transition: 0.5s;
+}
+
+.development .services-more__description {
+	margin: 0 0 10px;
+	font-size: 14px;
+	line-height: 18px;
+	transition: 0.5s;
+}
+
+.development .services-more__item:hover .services-more__title {
+	color: #cc0000;
+}
+
+.development .services-more__item:hover .services-more__description {
+	color: #cc0000;
+}
+.development .services-more__container {
+	display: block;
+	position: relative;
+	transition: width .3s ease;
+	height: 0;
+	padding: .5rem 0;
+	width: 2.5rem;
+	border-top: 2px solid;
+	transform: translateZ(0);
+}
+
+.development .arrow1 {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 100%;
+	height: 100%;
+	content: "";
+}
+
+.development .arrow2 {
+	content: "";
+	position: absolute;
+	top: -1px;
+	left: 100%;
+	margin-left: -6px;
+	border: 2px solid;
+	border-bottom-width: 0;
+	border-left-width: 0;
+	width: 8px;
+	height: 8px;
+	transform: rotate(45deg);
+	transform-origin: top right;
+}
+
+.development .services-more__item:hover .services-more__container {
+	width: 6.25rem;
+	color: #cc0000;
 }
