@@ -4118,8 +4118,9 @@ body.scroll-off{
 
 .sidebar .categories a {
 	text-decoration: none;
+	text-transform: uppercase;
 	color: #000;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 18px;
 	-webkit-transition: all ease .5s;
 	transition: all ease .5s;
@@ -7167,13 +7168,14 @@ body.scroll-off{
 }
 
 .sidebar .widget_title {
-	font-size: 18px;
+	font-size: 40px;
 	text-transform: uppercase;
 	line-height: .8;
 	letter-spacing: 0.72px;
 	margin: 0 0 -2px;
-	padding: 23px 48px 24px;
+	padding: 0 48px 24px;
 	color: #000;
+	font-weight: 700;
 	/* border: 2px solid #f4f4f4; */
 }
 
@@ -7347,3 +7349,11 @@ body.scroll-off{
 	width: 6.25rem;
 	color: #cc0000;
 }
+
+
+
+/* .services-more__item.SMM::before {
+	position: absolute;
+	width: 
+	content: url(images/services-icon/Social-Media.png);
+} */
