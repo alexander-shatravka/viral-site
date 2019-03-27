@@ -94,7 +94,7 @@
                     <div class="serviceArea">
                         <div class="services-more">
                             <ul class="services-more__list">
-                                <li class="services-more__item">
+                                <li class="services-more__item SEO">
                                     <a href="#SEO">
                                         <h3 class="services-more__title">SEO</h3>
                                         <p class="services-more__description">Наша главная задача - помогать клиентам развивать свой бизнес в интернете и SEO-продвижение один из наиболее эффективных инструментов в выполнении этой задачи.</p>
@@ -104,7 +104,7 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item PPC">
                                     <a href="#PPC">
                                         <h3 class="services-more__title">PPC</h3>
                                         <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p>
@@ -124,7 +124,7 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item audit">
                                     <a href="#audit">
                                         <h3 class="services-more__title">Комлексные аудиты</h3>
                                         <p class="services-more__description">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p>
@@ -134,7 +134,7 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item youtube">
                                     <a href="#Youtube">
                                         <h3 class="services-more__title">Youtube Продвижение</h3>
                                         <p class="services-more__description">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p>

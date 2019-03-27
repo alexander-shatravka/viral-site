@@ -7262,8 +7262,8 @@ body.scroll-off{
 
 .services-more__item {
 	display: inline-block;
-	margin: 0 2% 20px 0;
-	width: 47%;
+	margin: 0 4% 20px 0;
+	width: 46%;
 	margin-bottom: 50px;
 	text-align: left;
 	vertical-align: text-top;
@@ -7352,8 +7352,66 @@ body.scroll-off{
 
 
 
-/* .services-more__item.SMM::before {
+.services-more__item {
+	position: relative;
+}
+
+.services-more__item.SMM::before {
 	position: absolute;
-	width: 
-	content: url(images/services-icon/Social-Media.png);
-} */
+	bottom: 0;
+	right: 0;
+	width: 50px;
+	height: 50px;
+	content: "";
+	background: url(images/services-icon/Social-Media.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.SEO::before {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 50px;
+	height: 50px;
+	content: "";
+	background: url(images/services-icon/Seo-Planing.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.PPC::before {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 50px;
+	height: 50px;
+	content: "";
+	background: url(images/services-icon/Pay-Per-Click.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.audit::before {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 50px;
+	height: 50px;
+	content: "";
+	background: url(images/services-icon/Global-Solution.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.youtube::before {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 50px;
+	height: 50px;
+	content: "";
+	background: url(images/services-icon/Video-Marketing.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
