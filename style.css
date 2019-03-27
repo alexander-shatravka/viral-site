@@ -1125,6 +1125,9 @@ a:focus {
 	-ms-transform: translateY(90px); /* IE 9 */
 	-webkit-transform: translateY(90px); /* Safari */
 	transform: translateY(90px);
+	-webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.1);
+	box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.1);
 }
 
 .max-container {
@@ -6582,13 +6585,11 @@ body.scroll-off{
 	font-weight: 400;
 	background: #000000;
 	color: #fff;
-	height: 70px;
+	height: 50px;
 	text-transform: uppercase;
 	text-align: center;
 	text-decoration: none;
-	padding: 28px 45.5px;
 	display: inline-block;
-	line-height: .8;
 	letter-spacing: 1.6px;
 	position: relative;
 	outline: none;
@@ -6604,12 +6605,8 @@ body.scroll-off{
 	outline: 0;
 }
 
-.common_btn.red_bg {
-	padding: 28px 40.5px;
-}
-
 .ready_2 .common_btn {
-	padding: 28px 40px;
+	padding: 15px 30px;
 	background: #fff;
 	color: #000;
 }
@@ -7035,7 +7032,7 @@ body.scroll-off{
 }
 
 .commonSection {
-	padding: 120px 0;
+	padding: 50px 0;
 	position: relative;
 }
 
