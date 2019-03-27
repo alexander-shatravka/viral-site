@@ -371,7 +371,7 @@
         </div>
     </section>
         <!-- info holder -->
-        <div class="info-holder">
+        <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
                 <div class="max-container">
                     <div id="tabs">
@@ -469,50 +469,77 @@
             </div> -->
         <!-- </div> -->
     <!-- </section> -->
-
-            <section class="commonSection featured">
-                <div class="max-container features-info">
-                    <div class="features_img">
-                        <img src="images/5.jpg" alt="">
-                        <!-- <div class="img_details">
-                            <h4>Total design freedom<br> for everyone.</h4>
-                        </div> -->
-                    </div>
-                    <div class="features_content">
-                        <!-- <h4 class="sub_title">our core features</h4> -->
-                        <h2 class="sec_title">Миссия и ценности</h2>
-                        <!-- <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while offering our employees the best training.
-                        </p> -->
-                        <div class="singleFeature">
-                            <div class="f_count">01</div>
-                            <h3>Видение</h3>
-                            <p>
-                            Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                            Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                            </p>
-                        </div>
-                        <div class="singleFeature">
-                            <div class="f_count">02</div>
-                            <h3>Миссия</h3>
-                            <p>
-                            Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                            </p>
-                        </div>
-                        <div class="singleFeature">
-                            <div class="f_count">03</div>
-                            <h3>Ценности</h3>
-                            <p>
-                            Порядочность - это основное наше требование к себе.
-                            положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                            Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
+    <section class="commonSection featured">
+        <div class="max-container features-info">
+            <div class="features_img">
+                <img src="images/5.jpg" alt="">
+                <div class="img_details">
+                    <h4>Total design freedom<br> for everyone.</h4>
+                </div> 
             </div>
-            
+            <div class="features_content">
+                <!-- <h4 class="sub_title">our core features</h4> -->
+                <h2 class="sec_title">Миссия и ценности</h2>
+                <div class="singleFeature">
+                    <div class="f_count">01</div>
+                    <h3>Видение</h3>
+                    <p>
+                    Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                    Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                    </p>
+                </div>
+                <div class="singleFeature">
+                    <div class="f_count">02</div>
+                    <h3>Миссия</h3>
+                    <p>
+                    Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                    </p>
+                </div>
+                <div class="singleFeature">
+                    <div class="f_count">03</div>
+                    <h3>Ценности</h3>
+                    <p>
+                    Порядочность - это основное наше требование к себе.
+                    положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                    Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="partners-section">
+        <div class="max-container">
+            <h4 class="">НАШИ ПАРТНЕРЫ</h4>
+            <div class="services-more__container partner-prev">
+                <div class="services-more__arrow1 arrow1"></div>
+                <div class="services-more__arrow2 arrow2"></div>
+            </div>
+            <div class="partner-slider">
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-1.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-1.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
+            </div>  
+            <div class="services-more__container partner-next">
+                <div class="services-more__arrow1 arrow1"></div>
+                <div class="services-more__arrow2 arrow2"></div>
+            </div>
+        </div>
+    </section>
+    </div> 
                 <!-- work info -->
                 <!-- <div class="info work">
                     <div class="img-frame">
@@ -936,8 +963,7 @@
 </div>
 </div>
 
-
-                
+          
         <section class="commonSection ready_2">
             <div class="max-container">
                 <div class="row">
@@ -970,10 +996,6 @@
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-2"><img src="images/teams/member2.jpg" alt="img01"><h6>Jonny Biggle</h6><span>Project Manager</span></a></div>
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-3"><img src="images/teams/member3.jpg" alt="img01"><h6>Anna mc Jones</h6><span>Creative Director</span></a></div>
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-4"><img src="images/teams/member4.jpg" alt="img01"><h6>Betty Kovalsky</h6><span>Web Designer</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-5"><img src="images/teams/member5.jpg" alt="img01"><h6>Matthew Novak</h6><span>Front-end developer</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-6"><img src="images/teams/member6.jpg" alt="img01"><h6>Curtis Phillips</h6><span>Back-end Developer</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-7"><img src="images/teams/member7.jpg" alt="img01"><h6>Joahna White</h6><span>SEO Specialist</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-8"><img src="images/teams/member8.jpg" alt="img01"><h6>Kate Williams</h6><span>New Bussiness</span></a></div>
                     </div>	
                 </div>       
             </div>    

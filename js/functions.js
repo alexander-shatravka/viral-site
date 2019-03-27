@@ -39,6 +39,45 @@ jQuery(window).on('load', function() {
 
 function initSlick(){
 	$('.blog-slider').slick();
+	
+	if($(window).width() < 768){
+        $('.partner-slider').slick({
+            autoplay: false,
+            vertical: false,
+            speed	: 1000,
+            autoplay: true,
+            autoplaySpeed: 2000,
+            infinite: false,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            dots: false,
+            arrows: true,
+            draggable: true,
+            pauseOnFocus: false,
+            pauseOnHover: false,
+            pauseOnClick: false,
+        })
+    }
+
+    $('.partner-slider').slick({
+        autoplay: false,
+        vertical: false,
+        speed	: 1000,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        infinite: false,
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        dots: false,
+        arrows: true,
+        draggable: true,
+        pauseOnFocus: false,
+        pauseOnHover: false,
+        pauseOnClick: false,
+        prevArrow: $('.partner-prev'),
+        nextArrow: $('.partner-next'),
+    })
+
 }
 
 function initDescrDrop(){

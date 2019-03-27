@@ -7594,3 +7594,50 @@ body.scroll-off{
 .tech {
 	justify-content: space-between;
 }
+
+.partners-section{
+	padding: 100px 0;
+}
+
+.partners-section .max-container{
+	position: relative;
+}
+
+.partners-section h4{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.partners-section .partner-slider{
+	padding: 50px 50px 0;
+} 
+
+.partners-section .partner-item {
+	display: flex;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.partners-section .partner-item img{
+	filter: grayscale(100%);
+	transition: filter 0.3s;
+}
+
+.partners-section .partner-item img:hover{
+	filter: grayscale(0%);
+	transition: filter 0.7s;
+}
+
+.partner-prev {
+	position: absolute;
+	transform: rotate(180deg);
+	left: 15px;
+	top: 95px;
+}
+
+.partner-next {
+	position: absolute;
+	right: 15px;
+	top: 95px;
+}
