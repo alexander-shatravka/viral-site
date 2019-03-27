@@ -32,6 +32,8 @@
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- include the site bootstrap stylesheet -->
 	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<link rel="stylesheet" href="css/helpers.css">
 	<!-- include the font awesome stylesheet -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- for services pages -->
