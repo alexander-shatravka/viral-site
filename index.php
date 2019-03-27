@@ -66,7 +66,7 @@
     <!-- <div class="max-container"> -->
 
     <section class="commonSection service_detail">
-        <div class="container">
+        <div class="max-container">
             <div id="tabs" class="row">
                 <div class="col-lg-4 col-sm-4 sidebar">
                     <aside class="widget categories">
@@ -114,7 +114,7 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item SMM">
                                     <a href="#SMM">
                                         <h3 class="services-more__title">SMM</h3>
                                         <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p>

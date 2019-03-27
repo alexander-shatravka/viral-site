@@ -263,9 +263,9 @@ a.button {
     text-decoration: none;
 }
 
-.services-more__item:nth-child(3n) {
+/* .services-more__item:nth-child(3n) {
     margin: 0;
-}
+} */
 
 .services-more__title {
     margin: 0 0 20px 0;
