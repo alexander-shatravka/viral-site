@@ -7448,10 +7448,9 @@ body.scroll-off{
 	border-top: 1px solid transparent;
 }
 
-.title--big {
-	font-size: 1.625rem;
-	line-height: 1em;
-	flex-wrap: wrap;
+.tech-title {
+	font-size: 40px;
+	font-weight: bold;
 }
 
 .reset__big {
@@ -7492,7 +7491,7 @@ body.scroll-off{
 }
 
 .text-b16 {
-	font-size: 1rem;
+	font-size: 14px;
 	line-height: 1.5em;
 	color: rgba(0,0,0,.7);
 }
@@ -7605,7 +7604,7 @@ body.scroll-off{
 
 .partners-section h4{
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 40px;
 }
 
 .partners-section .partner-slider{
@@ -7617,11 +7616,13 @@ body.scroll-off{
 	align-content: center;
 	align-items: center;
 	justify-content: center;
+	height: 60px;
 }
 
 .partners-section .partner-item img{
 	filter: grayscale(100%);
 	transition: filter 0.3s;
+	cursor: pointer;
 }
 
 .partners-section .partner-item img:hover{
@@ -7633,11 +7634,20 @@ body.scroll-off{
 	position: absolute;
 	transform: rotate(180deg);
 	left: 15px;
-	top: 95px;
+	top: 110px;
+	z-index: 999;
+	cursor: pointer;
 }
 
 .partner-next {
 	position: absolute;
 	right: 15px;
-	top: 95px;
+	top: 110px;
+	z-index: 999;
+	cursor: pointer;
+}
+
+.partner-prev:hover, .partner-next:hover{
+	width: 4.25rem;
+	color: #cc0000;
 }

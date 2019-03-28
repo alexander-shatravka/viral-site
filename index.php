@@ -733,7 +733,7 @@
 
 <div class="_col-11 _md-col-7 _xl-col-7">
 <div class="reset _mb-md _def-mb-def">
-<div class="title title--big reset__big is-anim"><span><span class="lt-anim">Т</span><span class="lt-anim">Е</span><span class="lt-anim">Х</span><span class="lt-anim">Н</span><span class="lt-anim">О</span><span class="lt-anim">Л</span><span class="lt-anim">О</span><span class="lt-anim">Г</span><span class="lt-anim">И</span><span class="lt-anim">И</span></span></div>
+<h4 class="tech-title">ТЕХНОЛОГИИ</h4>
 </div>
 <div class="_col-9 _md-show">
 <div class="reset">
