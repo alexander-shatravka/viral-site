@@ -40,7 +40,7 @@ jQuery(window).on('load', function() {
 function initSlick(){
 	$('.blog-slider').slick();
 	
-	// if($(window).width() < 768){
+// if($(window).width() < 768){
     //     $('.partner-slider').slick({
     //         autoplay: false,
     //         vertical: false,
