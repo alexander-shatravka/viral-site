@@ -10,7 +10,7 @@
                     <div class="caption">
                         <div class="text">
                             <span class="txt">VIRAL</span>
-                            <h1><span class="icon">#</span><span class="light">Full <span class="for-mobile">Cycle</span></span> <span class="add for-desc">Cycle</span> <span class="add2">Marketing</span></h1>
+                            <h1><span class="icon">#</span><span class="light">Full Cycle</span> <span class="add2">Marketing</span></h1>
                         </div>
                     </div>
                     <div class="image">

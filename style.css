@@ -1554,10 +1554,6 @@ a:focus {
 	transform: translateY(20px);
 }
 
-.visual .slide .image img{
-	height: calc(100vh - 180px)!important;
-}
-
 .visual .slideshow {
 	overflow: hidden;
 	position: relative;
@@ -1637,12 +1633,16 @@ a:focus {
 	transform: scale(0);
 	-webkit-transition: all .6s ease .8s;
 	transition: all .6s ease .8s;
+
+	/* height: calc(100vh - 180px)!important; */
+	/* overflow: hidden; */
 }
 
 .visual .slide .image img {
-	display: block;
+	/* display: block; */
 	width: 100%;
-	height: auto;
+	/* height: auto; */
+	height: calc(100vh - 180px)!important;
 }
 
 .visual .slide .caption,
