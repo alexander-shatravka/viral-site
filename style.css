@@ -7037,7 +7037,9 @@ body.scroll-off{
 	padding-bottom: 0;
 }
 
-
+.ui-tabs-active a{
+	color: #cc0000!important;
+}
 
 .development .service_detail #tabs {
 	display: flex;
@@ -7215,7 +7217,8 @@ body.scroll-off{
 .meipaly_services_help {
 	position: relative;
 	background: url(images/s3.jpg) no-repeat center center / cover;
-	padding: 47px 50px 47px;
+	padding: 50px 50px;
+	width: 100%;
 }
 
 @media (max-width: 767px) and (min-width: 320px) {
@@ -7343,71 +7346,50 @@ body.scroll-off{
 	color: #cc0000;
 }
 
-
-
-/* .services-more__item {
+.services-more__item{
 	position: relative;
+	padding-left: 80px;
 }
 
-.services-more__item.SMM::before {
+.services-more__item::before{
+	position: relative;
 	position: absolute;
 	bottom: 0;
-	right: 0;
+	left: 0;
 	width: 50px;
 	height: 50px;
 	content: "";
+}
+
+.services-more__item.SMM::before {
 	background: url(images/services-icon/Social-Media.png) no-repeat;
 	background-size: contain;
 	z-index: -1;
 }
 
 .services-more__item.SEO::before {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	width: 50px;
-	height: 50px;
-	content: "";
 	background: url(images/services-icon/Seo-Planing.png) no-repeat;
 	background-size: contain;
 	z-index: -1;
 }
 
 .services-more__item.PPC::before {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	width: 50px;
-	height: 50px;
-	content: "";
 	background: url(images/services-icon/Pay-Per-Click.png) no-repeat;
 	background-size: contain;
 	z-index: -1;
 }
 
 .services-more__item.audit::before {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	width: 50px;
-	height: 50px;
-	content: "";
 	background: url(images/services-icon/Global-Solution.png) no-repeat;
 	background-size: contain;
 	z-index: -1;
 }
 
 .services-more__item.youtube::before {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	width: 50px;
-	height: 50px;
-	content: "";
 	background: url(images/services-icon/Video-Marketing.png) no-repeat;
 	background-size: contain;
 	z-index: -1;
-} */
+}
 
 
 
@@ -7619,6 +7601,8 @@ body.scroll-off{
 	filter: grayscale(100%);
 	transition: filter 0.3s;
 	cursor: pointer;
+	height: 50px;
+	width: auto;
 }
 
 .partners-section .partner-item img:hover{

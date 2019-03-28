@@ -76,16 +76,7 @@
                                 <li><a href="#Marketing">Маркетинг</a></li>
                                 <li><a href="#Design">Дизайн</a></li>
                                 <li><a href="#Development">Разработка</a></li>
-                                <li><a href="#SEO">SEO &amp; Content Writting</a></li>
-                                <li><a href="#App">App Development</a></li>
                             </ul>
-                        </div>
-                    </aside>
-                    <aside class="widget categories">
-                        <div class="meipaly_services_help">
-                            <h4>need meipaly help?</h4>
-                            <p>Prefer speaking with a human to filling out a form? call corporate office and we will connect you with a team member who can help.</p>
-                            <h2>666 888 000</h2>
                         </div>
                     </aside>
                 </div>
@@ -95,9 +86,9 @@
                         <div class="services-more">
                             <ul class="services-more__list">
                                 <li class="services-more__item SEO">
-                                    <a href="#SEO">
+                                    <a href="marketing#seo">
                                         <h3 class="services-more__title">SEO</h3>
-                                        <p class="services-more__description">Наша главная задача - помогать клиентам развивать свой бизнес в интернете и SEO-продвижение один из наиболее эффективных инструментов в выполнении этой задачи.</p>
+                                        <!-- <p class="services-more__description">Наша главная задача - помогать клиентам развивать свой бизнес в интернете и SEO-продвижение один из наиболее эффективных инструментов в выполнении этой задачи.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -105,9 +96,9 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item PPC">
-                                    <a href="#PPC">
+                                    <a href="marketing#PPC">
                                         <h3 class="services-more__title">PPC</h3>
-                                        <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p>
+                                        <!-- <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -115,9 +106,9 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item SMM">
-                                    <a href="#SMM">
+                                    <a href="marketing#SMM">
                                         <h3 class="services-more__title">SMM</h3>
-                                        <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p>
+                                        <!-- <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -125,9 +116,9 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item audit">
-                                    <a href="#audit">
+                                    <a href="marketing#audit">
                                         <h3 class="services-more__title">Комлексные аудиты</h3>
-                                        <p class="services-more__description">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p>
+                                        <!-- <p class="services-more__description">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -135,9 +126,9 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item youtube">
-                                    <a href="#Youtube">
+                                    <a href="marketing#Youtube">
                                         <h3 class="services-more__title">Youtube Продвижение</h3>
-                                        <p class="services-more__description">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p>
+                                        <!-- <p class="services-more__description">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -276,100 +267,17 @@
                         </div>
                     </div>
                 </div>
-
-                <div id="SEO" class="col-lg-8 col-sm-8">
-                    <div class="serviceArea">
-                        <img src="images/s1.jpg" alt="">
-                        <h2>Graphic Designing4</h2>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a 
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting, 
-                            remaining essentially unchanged. 
-                        </p>
-                        <div class="row gaping">
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <img src="images/s2.jpg" alt="">
-                            </div>
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <h3>planning &amp; strategy</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                <ul>
-                                    <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
-                                    <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
-                                    <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
-                                    <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
-                                    <li><i class="fa fa-check-square"></i>Customer engagement matters</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and 
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                            It has survived not only five centuries, but also the leap into electronic typesetting,
-                            remaining essentially unchanged.
-                        </p>
-                        <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-                            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
-                            to make a type specimen book. It has survived not only five centuries, but also the leap into electronic 
-                            typesetting, remaining essentially unchanged.
-                        </p>
-                    </div>
-                </div>
-
-                <div id="App" class="col-lg-8 col-sm-8">
-                    <div class="serviceArea">
-                        <img src="images/s1.jpg" alt="">
-                        <h2>Graphic Designing5</h2>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a 
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting, 
-                            remaining essentially unchanged. 
-                        </p>
-                        <div class="row gaping">
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <img src="images/s2.jpg" alt="">
-                            </div>
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <h3>planning &amp; strategy</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                <ul>
-                                    <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
-                                    <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
-                                    <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
-                                    <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
-                                    <li><i class="fa fa-check-square"></i>Customer engagement matters</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and 
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                            It has survived not only five centuries, but also the leap into electronic typesetting,
-                            remaining essentially unchanged.
-                        </p>
-                        <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-                            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
-                            to make a type specimen book. It has survived not only five centuries, but also the leap into electronic 
-                            typesetting, remaining essentially unchanged.
-                        </p>
-                    </div>
-                </div>
-
+            </div>
+    </section>
+    <div class="widget categories">
+        <div class="meipaly_services_help">
+            <div class="max-container">
+                <h4>need meipaly help?</h4>
+                <p>Prefer speaking with a human to filling out a form? call corporate office and we will connect you with a team member who can help.</p>
+                <h2>666 888 000</h2>
             </div>
         </div>
-    </section>
+    </div>
         <!-- info holder -->
         <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
@@ -515,8 +423,8 @@
                 <div class="services-more__arrow2 arrow2"></div>
             </div>
             <div class="partner-slider">
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-1.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
                 <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
                 <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
                 <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
