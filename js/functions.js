@@ -55,7 +55,9 @@ function initSlick(){
             draggable: true,
             pauseOnFocus: false,
             pauseOnHover: false,
-            pauseOnClick: false,
+			pauseOnClick: false,
+			prevArrow: $('.partner-prev'),
+        	nextArrow: $('.partner-next'),
         })
     }
 

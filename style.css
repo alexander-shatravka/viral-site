@@ -7634,7 +7634,7 @@ body.scroll-off{
 	position: absolute;
 	transform: rotate(180deg);
 	left: 15px;
-	top: 125px;
+	top: 130px;
 	z-index: 999;
 	cursor: pointer;
 	padding: 0;
@@ -7643,7 +7643,7 @@ body.scroll-off{
 .partner-next {
 	position: absolute;
 	right: 15px;
-	top: 125px;
+	top: 130px;
 	z-index: 999;
 	cursor: pointer;
 	padding: 0;
