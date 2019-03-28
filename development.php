@@ -110,31 +110,48 @@
                                 <img src="images/s2.jpg" alt="">
                             </div>
                             <div class="col-lg-6 col-sm-12 col-md-6">
-                                <h3>planning &amp; strategy</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <h3>Landing &amp; Page</h3>
                                 <ul>
-                                    <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
-                                    <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
-                                    <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
-                                    <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
-                                    <li><i class="fa fa-check-square"></i>Customer engagement matters</li>
+                                    <li><i class="fa fa-check-square"></i>Почему лучше заказать сайт в web-студии Viral</li>
+                                    <li><i class="fa fa-check-square"></i>Цена лендинга в Viral</li>
+                                    <li><i class="fa fa-check-square"></i>Лендинг за неделю</li>
+                                    <li><i class="fa fa-check-square"></i>Поддержка стадии после разработки студией Viral</li>
+                                    <li><i class="fa fa-check-square"></i>Почему разработку заказывают в студии Viral</li>
                                 </ul>
                             </div>
                         </div>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and 
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                            It has survived not only five centuries, but also the leap into electronic typesetting,
-                            remaining essentially unchanged.
-                        </p>
-                        <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-                            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
-                            to make a type specimen book. It has survived not only five centuries, but also the leap into electronic 
-                            typesetting, remaining essentially unchanged.
-                        </p>
+                        <div class="service-text">
+                            <p align="justify"><strong>Л</strong><strong>ендинг</strong> это одностраничный сайт, призванный продать какой-нибудь товар или услугу. Сайт выглядит ярко, привлекает к себе внимание, содержит все необходимое для заказа. Качественный <strong>лендинг пейдж</strong>показывает конверсию на уровне 70%(!), что многими расценивается как идеальный вариант.</p>
+                            <p align="justify">В нашей компании можно <strong>заказать лендинг</strong> на выгодных условиях. В фирме трудятся только профессионалы, знающие, что такое правильное <strong>создание лендинг пейдж</strong>. Здесь важно буквально все: дизайн, текст, сам материал. Пренебрежение хотя бы одним фактором приводит к потери клиента и снижению конверсии.</p>
+                            <h2 align="center">Почему лучше заказать сайт в web-студии Viral</h2>
+                            <p align="justify">Мы предлагаем <strong>создать лендинг</strong> по привлекательной цене. Также у нас работают только первоклассные специалисты, гарантирующие высокое качество произведенного продукта. Другие причины того, почему <strong>создание landing page</strong> надо доверить нам:</p>
+                            <ol>
+                            <li>
+                            <p align="justify"><strong><em>Оперативность</em></strong>. Мы знаем: если клиент решил <strong>заказать лендинг пейдж</strong>, ему не терпится начать зарабатывать. Поэтому компания обеспечивает крайне быстрое изготовление сайта.</p>
+                            </li>
+                            <li>
+                            <p align="justify"><strong><em>Индивидуальный</em></strong> подход. Если вы решили <strong>заказать landing page</strong> именно у нас, то получаете внимательное и ответственное отношение к бизнесу. В частности, для одностраничного сайта крайне важен внешний вид. Дизайн это то, что бросается в глаза посетителю. Поэтому при заказе <strong>landing page в Киеве</strong> именно у нас вы гарантированно получаете качественный дизайн.</p>
+                            </li>
+                            <li>
+                            <p align="justify"><strong><em>Сервис</em></strong>. Мы знаем: клиента интересует не только <strong>разработка landing page</strong>, но и уровень сервиса. Именно поэтому у нас работают только вежливые сотрудники, а к каждому клиенту прикрепляется личный менеджер. Таким образом упрощается <strong>разработка лендинг пейдж</strong> и создаются все условия для интересного сотрудничества.</p>
+                            </li>
+                            </ol>
+                            <p align="justify">Дополнительную информацию о том, почему <strong>лендинг пейдж заказать</strong> следует именно в нашей компании получите по телефону у консультантов. Также связаться можно альтернативным способом. Мы всегда рады рассказать о том, как происходит <strong>разработка лендинга</strong> именно у нас.</p>
+                            <h2 align="center">Цена лендинга в Viral</h2>
+                            <p align="justify">Если вы решили <strong>лендинг заказать</strong> в нашей компании, наверняка вас интересует стоимость одностраничника. Она слагается из нескольких факторов. Прежде всего, сколько стоит <strong>продающий лендинг</strong>определяется дизайном и текстовым наполнением.</p>
+                            <p align="justify">Если <strong>landing page заказать</strong> в нашей компании, ничто не мешает использовать стандартный шаблон. В этом случае <strong>разработка лендингов</strong> заметно удешевляется. Однако, и максимальной конверсии, скорее всего, не будет.</p>
+                            <p align="justify">Чтобы <strong>создать landig page</strong> и получить при этом максимальный результат надо хорошо продумать дизайн. Он должен быть уникальным и отражать потребности ваших клиентов. Мы предлагаем именно такой <strong>заказать landig page </strong><strong>в</strong><strong> </strong><strong>К</strong><strong>иев</strong><strong>е</strong>.</p>
+                            <h2 align="center">Лендинг за неделю</h2>
+                            <p align="justify">У нас можно <strong>заказать лендинг пейдж </strong><strong>в</strong><strong> Киев</strong><strong>е</strong> и он будет готов спустя неделю. Уникальное предложение, которое позволяет начать зарабатывать фактически немедленно на <strong>landig page </strong><strong>в</strong><strong> </strong><strong>У</strong><strong>краин</strong><strong>е</strong>. Все, что для этого надо — обратиться к нам. Специалисты скажут <strong>склько стоит лендинг пейдж</strong>в вашем случае и немедленно начнут его делать.</p>
+                            <p align="justify">Самое главное в том, чтобы <strong>лендинг пейдж </strong><strong>в</strong><strong> Украин</strong><strong>е</strong> внешне соответствовал потребностям клиента. Посетитель, который заходит на ресурс должен ясно и четко отдавать себе отчет в том, что это сайт для него. У нас <strong>разработка лендинга </strong><strong>в</strong><strong> Киев</strong><strong>е</strong> делается только проверенными мастерами своего дела, которые точно знают потребности клиентов.</p>
+                            <p align="justify">Не менее важен текст. Читая, пользователь должен захотеть купить сразу же и не раздумывая. Если вам нужен <strong>лендинг пейдж на заказ</strong>, то тем более нужен продающий текст. Он в полной мере продающий, который апеллирует к человеческим потребностям. Мы готовы предложить именно такой текст на ваш <strong>лендинг пейдж стоимость</strong> которого остается доступной для большинства.</p>
+                            <h2 align="center">Поддержка стадии после разработки студией <em>Viral</em></h2>
+                            <p align="justify"><em>Вы получаете </em><strong>landig page разработка</strong>которого полностью завершена. Но это не значит, что работа завершена. Напротив, теперь главным становится попасть на верхние позиции поисковых систем. Для этого нужно качественное продвижение, а заодно работа с контекстной рекламой.</p>
+                            <p align="justify">Использование контекста это эффективный способ привлечь посетителей. Хороший лендинг обеспечивает высокую конверсию. Идеальный вариант для любителей быстрых доходов.</p>
+                            <h2 align="center">Почему разработку заказывают в студии Viral</h2>
+                            <p align="justify">Мы работаем на рынке создания и продвижения сайтов не первый год. За это время успели зарекомендовать себя как надежных партнеров. Мы предлагаем действительно качественный продукт, при этом в короткий срок.</p>
+                            <p align="justify">Чтобы заказать услугу достаточно позвонить по указанному на сайте номеру телефона. Также допускается воспользоваться альтернативными способами связи. Наши специалисты всегда рады ответить на любые интересующие вопросы. Заказывайте <strong>landing page</strong>в нашей студии и начните зарабатывать немедленно!</p>
+                        </div>
                     </div>
                 </div>
 
@@ -145,31 +162,44 @@
                                 <img src="images/s2.jpg" alt="">
                             </div>
                             <div class="col-lg-6 col-sm-12 col-md-6">
-                                <h3>planning &amp; strategy</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <h3>Интернет &amp; Магазин</h3>
+                                <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> -->
                                 <ul>
-                                    <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
-                                    <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
-                                    <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
-                                    <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
-                                    <li><i class="fa fa-check-square"></i>Customer engagement matters</li>
+                                    <li><i class="fa fa-check-square"></i>Как создать сайт интернет-магазина?</li>
+                                    <li><i class="fa fa-check-square"></i>Визуальная оболочка интернет-магазина</li>
+                                    <li><i class="fa fa-check-square"></i>Закажите разработку интернет-магазина под ключ</li>
                                 </ul>
                             </div>
                         </div>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and 
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                            It has survived not only five centuries, but also the leap into electronic typesetting,
-                            remaining essentially unchanged.
-                        </p>
-                        <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-                            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
-                            to make a type specimen book. It has survived not only five centuries, but also the leap into electronic 
-                            typesetting, remaining essentially unchanged.
-                        </p>
+                        <div class="service-text">
+                        <p>Интернет-магазины приносят большую прибыль своим владельцам, но популярность ресурса во многом зависит от удобства интерфейса, скорости работы и многих других технических параметров. Воспользовавшись нашими услугами по созданию интернет-магазина, Вы получите стильный, удобный и быстрый ресурс, продвижение которого не составит проблем.</p>
+                        <h2><strong>Как создать сайт интернет-магазина?</strong></h2>
+                        <p>Интернет-магазины имеют принципиальные отличия от других ресурсов. Они касаются как архитектуры сайта, так и дополнительного функционала:</p>
+                        <ul>
+                        <li><strong>Функция онлайн-оплаты</strong>. Конечно, Вы можете просто оставить контактный телефон с расчетом на то, что клиенты будут звонить и заказывать доставку с оплатой на месте. Но это неудобно. Портал потеряет часть продаж только потому, что покупателям хочется пользоваться оплатой Webmoney, Яндекс.Деньги или международной платежной системой PayU.</li>
+                        <li><strong>Карточки товаров</strong>. Разметка блоков карточек товаров должна предусматривать размещение детальной информации о продукте. Отдельный блок технических характеристик, место для фотографии, краткое описание, отзывы и многое другое.</li>
+                        <li><strong>Страница для публикации контента</strong>. Чтобы поведенческие факторы работали на пользу продвижению, нужно вливать в новоиспеченный сайт много контента. Это могут быть обзоры на товары интернет-магазина и другие полезные материалы. Главное — привлечение трафика. Разработчик должен предусмотреть страницу для этих целей и продумать удобный способ публикации контента.</li>
+                        </ul>
+                        <p><em>Обратите внимание! Для разработки порталов часто используются специальные платформы, позволяющие реализовать эти функции. Особенно распространено создание интернет-магазинов на opencart.</em></p>
+                        <p>Отдельная часть работ посвящена проработке пользовательского интерфейса. Клиенты уже привыкли добавлять интересующие продукты в “список желаемого”, отслеживать изменения в цене, пользоваться системой фильтров и сортировки предложения. Обязательно нужно  добавить блок недавно просмотренных карточек товара. Так потенциальный покупатель сможет быстро продолжить покупку, без надобности заново искать понравившийся продукт.</p>
+                        <p style="text-align: center;"><strong>Чем быстрее пользователь может совершить покупку, тем с большей вероятностью он ее все-таки совершит</strong></p>
+                        <p>Кроме того, важен интерфейс администратора. Зачем заказывать разработку интернет-магазина, если все равно придется тратить время на изучение HTML, чтобы добавить карточку товара? Хороший разработчик предусматривает простой способ создания и редактирования карточек товара и прочих обновляющихся страниц и разделов.</p>
+                        <h2><strong>Визуальная оболочка интернет-магазина</strong></h2>
+                        <p>Основная задача любого интернет-магазина - продать товар потребителю. Компания, которая занимается созданием интернет-магазинов с нуля, должна разработать портал с продающим дизайном.</p>
+                        <p>Красивые интернет-магазины реализуют товар быстрее. Если ресурс работает на широкую аудиторию, используются однотонные цвета и универсальная цветовая палитра, мягкие формы блоков. В результате уникальный дизайн перерастет в узнаваемый.</p>
+                        <p>Важно расположение страниц и блоков. Оно должно повторять маркетинговую модель AIDA (Внимание, Интерес, Желание, Действие). Грубо говоря, непозволительно надоедать пользователю кнопкой “купить”, пока он не познакомиться с описанием товара и не почувствует желание купить его.</p>
+                        <p><em>Обратите внимание! Хороший разработчик интернет-магазина знает, как сформировать продающую архитектуру сайта, сохранив юзабилити на высоком уровне.</em></p>
+                        <h2><strong>Закажите разработку интернет-магазина под ключ</strong></h2>
+                        <p>Разработка интернет-магазина - это большой пласт работы. Один человек не сможет справится с ней, даже если имеет большой опыт в этой узкой сфере. Команды же часто совершают ошибки из-за недостатка опыта и плохого проект-менеджмента.</p>
+                        <p>Закажите создание интернет-магазина в Киеве, Харькове и других городах Украины по доступной цене. Воспользовавшись нашими услугами, Вы можете быть уверены в качестве результатов. Мы отличаемся:</p>
+                        <ul>
+                        <li><strong>Узкими специалистами в каждой отрасли.</strong> Над проектом работают разработчики, маркетологи, дизайнеры и профессиональные менеджеры. Здесь нет “универсальных мастеров”.</li>
+                        <li><strong>Фиксированными ценами</strong>. По статистике 42% фрилансеров выбиваются из первоначальной цены создания интернет магазина. Они просто не понимают принципов ценообразование и эффективного менеджмента. Заказчик при этом привлекается низкой ценой, но в итоге сильно переплачивает. С нами такого не случается.</li>
+                        <li><strong>Профессиональным подходом.</strong> Нам важно, как портал будет функционировать после сдачи заказа. Устареет ли он технически? А морально? Есть ли что-то, что помешает продвижению?Создание и раскрутка интернет-магазина непосредственно связаны.</li>
+                        <li><strong>Точным соблюдением сроков.</strong> Каждый день промедления - это упущенная выгода для нашего заказчика. Мы понимаем это, поэтому гарантируем точное соблюдение дедлайнов.</li>
+                        </ul>
+                        <p><em>Свяжитесь с нами, чтобы описать свои пожелания относительно будущего ресурса. Мы займемся созданием интернет-магазина под ключ сразу после утверждения технического задания. Результат и цены Вас приятно удивят.</em></p>
+                        </div>
                     </div>
                 </div>
 
@@ -181,30 +211,59 @@
                             </div>
                             <div class="col-lg-6 col-sm-12 col-md-6">
                                 <h3>planning &amp; strategy</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> -->
                                 <ul>
-                                    <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
-                                    <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
-                                    <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
-                                    <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
-                                    <li><i class="fa fa-check-square"></i>Customer engagement matters</li>
+                                    <li><i class="fa fa-check-square"></i>Почему web-студия Viral</li>
+                                    <li><i class="fa fa-check-square"></i>Стоимость разработки в web-студии Viral</li>
+                                    <li><i class="fa fa-check-square"></i>Разработка сайтов за месяц</li>
+                                    <li><i class="fa fa-check-square"></i>Поддержка и продвижение в Viral</li>
+                                    <li><i class="fa fa-check-square"></i>Почему разработку заказывают в Viral</li>
                                 </ul>
                             </div>
                         </div>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and 
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                            It has survived not only five centuries, but also the leap into electronic typesetting,
-                            remaining essentially unchanged.
-                        </p>
-                        <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-                            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
-                            to make a type specimen book. It has survived not only five centuries, but also the leap into electronic 
-                            typesetting, remaining essentially unchanged.
-                        </p>
+                        <div class="service-text">
+                            <p align="justify" style="font-weight: normal;">В нашей компании выгодная <strong>цена сайта визитки</strong>. Мы предлагаем <strong>сайты визитки</strong> всем желающим. Речь идет о небольшом ресурсе, который предоставляет информацию о заказчике в интернете.</p>
+                            <p align="justify" style="font-weight: normal;">Обычно <strong>заказать сайт визитку</strong> требуется представителям свободных профессий: фотографам, дизайнерам, фрилансерам. В то же время, услуга востребована небольшими компаниями, которые хотят найти новых клиентов. Сайт отличается небольшим количеством страниц и лаконичностью.</p>
+                            <h2 align="center">Почему web-студия Viral</h2>
+                            <p align="justify">Мы знаем, как правильно <strong>создать сайт визитку</strong> и как сделать ее узнаваемой пользователями и поисковыми системами. У компании трудятся профессионалы высокого уровня с большим опытом работы. Среди других преимуществ:</p>
+                            <ol>
+                            <li>
+                            <p align="justify"><strong><em>Оперативность</em></strong>. Мы предлагаем быстрое <strong>создание сайта визитки</strong>. Почти мгновенно вы получаете полностью рабочий инструмент привлечения новых клиентов через интернет.</p>
+                            </li>
+                            <li>
+                            <p align="justify"><strong><em>Качество</em></strong>. Наши <strong>сайт визитки в Киеве</strong> узнаваемы. Они любимы пользователями, которые находят их через поиск и удобны в управлении для своих владельцев. Поэтому к нам обращаются.</p>
+                            </li>
+                            <li>
+                            <p align="justify"><strong><em>Поддержка</em></strong>. <strong>Закажите сайт визитк</strong>, который должен приносить прибыль. При необходимости возьмемся за поддержку и продвижение ресурса в глобальной сети интернет. Также можем рассказать заказчику о том, <strong>что такое сайт визитка</strong> и как им правильно управлять чтобы ресурс приносил максимальную выгоду.</p>
+                            </li>
+                            </ol>
+                            <p align="justify">О других причинах <strong>сделать сайт визитку</strong> в нашей компании узнайте у консультантов по телефону. Сотрудники расскажут, как с нашей помощью получить <strong>недорого сайт визитку</strong> и предоставят другую информацию. В компании трудится вежливый персонал, всегда готовый прийти на помощь.</p>
+                            <h2 align="center">Стоимость разработки в web-студии Viral</h2>
+                            <p align="justify">Мы предлагаем <strong></strong><strong>недорогое с</strong><strong>оздание сайта визитки</strong> и гарантируем действительно низкие цены. Чтобы <strong>разработка сайта визитки</strong> была приемлема по цене для наших клиентов, мы используем удобные CMS. С их помощью <strong>разработка сайт визитк</strong><strong>и</strong> многократно упрощается, а клиент получает возможность получить инструмент по еще более привлекательной цене.</p>
+                            <p align="justify">Итак, <strong>сколько стоит сайт визитка</strong>? Стоимость зависит от дополнительных факторов. Например, если нужно <strong>заказать визитки </strong><strong>в</strong><strong> </strong><strong>Х</strong><strong>арьков</strong><strong>е</strong> без наполнения контентом и продвижения, стоимость снижается. Но лучше <strong>разработать визитку</strong> вместе с наполнением и продвижением. В этом случае инструмент гарантированно привлечет новых клиентов.</p>
+                            <p align="justify">Также стоимость <strong>создани</strong><strong>я</strong><strong> сайта визитки </strong><strong>в</strong><strong> </strong><strong>К</strong><strong>иев</strong><strong>е</strong> зависит от количества страниц и уровня сложности. Чем меньше контента, тем дешевле будет <strong>создание сайтов визиток</strong>. Однако, не стоит заказывать <strong>создание сайта визитки, цена</strong> которых ниже в ущерб качеству. Помните: <strong>создание сайта визитки </strong><strong>в</strong><strong> </strong><strong>Х</strong><strong>арьков</strong><strong>е</strong> нужно прежде всего для привлечения новых клиентов. Исходя из этой цели следует определять какой должна быть <strong>разработка сайта визитки </strong><strong>в</strong><strong> </strong><strong>Х</strong><strong>арьков</strong><strong>е</strong>.</p>
+                            <p align="justify">Другой фактор, от которого зависит сколько будет стоить <strong>изготовление сайта визитки </strong><strong>в</strong><strong> </strong><strong>К</strong><strong>иев</strong><strong>е</strong> — дизайн. Уникальный дизайн, который будет таковым также для поисковых систем стоит дороже. Однако, при прочих равных лучше <strong>создать сайт визитку </strong><strong>в</strong><strong> </strong><strong>К</strong><strong>иев</strong><strong>е</strong> с уникальным дизайном.</p>
+                            <h2 align="center">Разработка сайтов за месяц</h2>
+                            <p align="justify">Закажите <strong>создание сайта визитки с нуля </strong>всего за один месяц. В этот срок входит весь процесс от создания макета до наполнения и запуска. Мы гарантируем соблюдение сроком, поскольку с нами работают профессионалы с большим опытом работы.</p>
+                            <p><strong>Р</strong><strong>азработка сайта визитки в </strong><strong>О</strong><strong>дессе</strong> проходит в несколько этапов:</p>
+                            <ol>
+                            <li>
+                            <p align="justify"><strong><em>Создание</em></strong> макета. Это то, с чего начинается <strong>создание сайта визитки в Одессе</strong>. Клиенту предоставляется вариант того, как может выглядеть ресурс. Если он утверждается, процесс переходит на следующий этап.</p>
+                            </li>
+                            <li>
+                            <p align="justify"><em><strong>Верстка</strong></em>. Утвержденный макет переводится в программный кот.</p>
+                            </li>
+                            <li>
+                            <p align="justify"><em><strong>Наполнение</strong></em> контентом. Готовый сайт наполняется полезным содержимым.</p>
+                            </li>
+                            </ol>
+                            <p align="justify">На этом этапе вы можете получить полностью рабочий инструмент. Однако, все равно требуется <strong>раскрутка сайта визитки</strong>. Это нужно для достижения верхних позиций в выдачи поисковых систем.</p>
+                            <h2 align="center">Поддержка и продвижение в Viral</h2>
+                            <p align="justify">При необходимости мы будем поддерживать ваш сайт в требуемом состоянии и продвигать в поисковых системах. В этом случае клиенты будут приходить автоматически, поскольку именно вас будут находить в поиске. Услугу следует заказывать на регулярной основе для достижения желаемого эффекта.</p>
+                            <p align="justify">В компании работают специалисты внутренней и внешней оптимизации. Мы регулярно следим за обновлением алгоритмов яндекса и гугла. Нужные изменения вносятся оперативно.</p>
+                            <h2 align="center">Почему разработку заказывают в Viral</h2>
+                            <p align="justify">Мы предлагаем низкую стоимость на весь спектр услуг, связанных с созданием и продвижением сайтов. Мы соблюдаем сроки и после нас остаются только довольные клиенты. Именно поэтому с нами сотрудничают и нас рекомендуют друзьям. Только в Viral доступен <strong>сайт визитка цена</strong> которого ниже качества.</p>
+                        </div>
                     </div>
                 </div>
 
@@ -215,8 +274,8 @@
                                 <img src="images/s2.jpg" alt="">
                             </div>
                             <div class="col-lg-6 col-sm-12 col-md-6">
-                                <h3>planning &amp; strategy</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <h3>Сайт &amp; под ключ</h3>
+                                <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> -->
                                 <ul>
                                     <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
                                     <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
