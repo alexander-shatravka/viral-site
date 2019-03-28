@@ -426,13 +426,11 @@
                 <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-PKH.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-nussbaum.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
