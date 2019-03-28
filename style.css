@@ -8377,7 +8377,7 @@ textarea.input-form:focus{
 	align-items: center;
 	align-content: center;
 	flex-direction: row;
-	height: 500px;
+	height: 550px;
 	width: 100%;
 	/* padding: 50px 0; */
 }
@@ -8424,6 +8424,13 @@ textarea.input-form:focus{
 	top: 50%;
 }
 
+.side-text .singleFeature h3{
+	color: #fff;
+} 
+
+.side-text  .singleFeature:after {
+	background: #fff;
+}
 
 .case-section .prev-next-block {
 	position: absolute;

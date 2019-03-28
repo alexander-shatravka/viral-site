@@ -937,24 +937,60 @@
                         <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
                         <div class="side-text">
                             <h3>Arigato</h3>
-                            <ul>
-                                <li>- Neque porro quisquam est ia dolor sit amet, consectetur velit..</li>
-                                <li>- Neque porro quisquam est qui dolorem ipsum quia t..</li>
-                                <li>- Et qui dolorem ipsum quia dolor sit amet, adipisci velit..</li>
-                                <li>- Lam est qui dolorem ipsum quia dolor sit amesectetur, adipisci..</li>
-                            </ul>
+                            <div class="singleFeature">
+                                <div class="f_count">01</div>
+                                <h3>Задача</h3>
+                                <p>
+                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">02</div>
+                                <h3>Сроки</h3>
+                                <p>
+                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">03</div>
+                                <h3>Результат</h3>
+                                <p>
+                                Порядочность - это основное наше требование к себе.
+                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="case-item">
                         <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
                         <div class="side-text">
                             <h3>Cashyou</h3>
-                            <ul>
-                                <li>- Neque porro quisquam est ia dolor sit amet, consectetur velit..</li>
-                                <li>- Neque porro quisquam est qui dolorem ipsum quia t..</li>
-                                <li>- Et qui dolorem ipsum quia dolor sit amet, adipisci velit..</li>
-                                <li>- Lam est qui dolorem ipsum quia dolor sit amesectetur, adipisci..</li>
-                            </ul>
+                            <div class="singleFeature">
+                                <div class="f_count">01</div>
+                                <h3>Задача</h3>
+                                <p>
+                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">02</div>
+                                <h3>Сроки</h3>
+                                <p>
+                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">03</div>
+                                <h3>Результат</h3>
+                                <p>
+                                Порядочность - это основное наше требование к себе.
+                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
