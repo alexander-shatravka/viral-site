@@ -62,20 +62,16 @@ function initSlick(){
     // }
 
     $('.partner-slider').slick({
-        autoplay: false,
-        vertical: false,
+        autoplay: true,
         speed	: 1000,
         autoplay: true,
         autoplaySpeed: 5000,
-        infinite: false,
+        infinite: true,
         slidesToShow: 6,
         slidesToScroll: 1,
         dots: false,
         arrows: true,
-        draggable: true,
-        pauseOnFocus: false,
-        pauseOnHover: false,
-        pauseOnClick: false,
+        draggable: false,
         prevArrow: $('.partner-prev'),
         nextArrow: $('.partner-next'),
     })
