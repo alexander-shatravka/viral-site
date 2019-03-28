@@ -899,13 +899,13 @@
                 </div>
                 
                 <!-- MEMEBERS - GRID -->
-                <div class="row">
+                <div class="row members-row">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 " id="members">
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-1"><img src="images/teams/member1.jpg" alt="img01"><h6>John mc Cornick</h6><span>CEO</span></a></div>
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-2"><img src="images/teams/member2.jpg" alt="img01"><h6>Jonny Biggle</h6><span>Project Manager</span></a></div>
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-3"><img src="images/teams/member3.jpg" alt="img01"><h6>Anna mc Jones</h6><span>Creative Director</span></a></div>
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-4"><img src="images/teams/member4.jpg" alt="img01"><h6>Betty Kovalsky</h6><span>Web Designer</span></a></div>
-                    </div>	
+                    </div>
                 </div>       
             </div>    
         </section>
