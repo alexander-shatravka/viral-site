@@ -1125,6 +1125,9 @@ a:focus {
 	-ms-transform: translateY(90px); /* IE 9 */
 	-webkit-transform: translateY(90px); /* Safari */
 	transform: translateY(90px);
+	-webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.1);
+	box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.1);
 }
 
 .max-container {
@@ -6583,13 +6586,11 @@ body.scroll-off{
 	font-weight: 400;
 	background: #000000;
 	color: #fff;
-	height: 70px;
+	height: 50px;
 	text-transform: uppercase;
 	text-align: center;
 	text-decoration: none;
-	padding: 28px 45.5px;
 	display: inline-block;
-	line-height: .8;
 	letter-spacing: 1.6px;
 	position: relative;
 	outline: none;
@@ -6605,12 +6606,8 @@ body.scroll-off{
 	outline: 0;
 }
 
-.common_btn.red_bg {
-	padding: 28px 40.5px;
-}
-
 .ready_2 .common_btn {
-	padding: 28px 40px;
+	padding: 15px 30px;
 	background: #fff;
 	color: #000;
 }
@@ -6739,10 +6736,6 @@ body.scroll-off{
 	-moz-transition: all 0.35s ease-in-out;
 	-o-transition: all 0.35s ease-in-out;
 	transition: all 0.35s ease-in-out;
-}
-
-.item:hover > a::before {
-	border-width: 10px;
 }
 
 .item:hover > a::before {
@@ -7036,7 +7029,7 @@ body.scroll-off{
 }
 
 .commonSection {
-	padding: 120px 0;
+	padding: 50px 0;
 	position: relative;
 }
 
@@ -7451,10 +7444,9 @@ body.scroll-off{
 	border-top: 1px solid transparent;
 }
 
-.title--big {
-	font-size: 1.625rem;
-	line-height: 1em;
-	flex-wrap: wrap;
+.tech-title {
+	font-size: 40px;
+	font-weight: bold;
 }
 
 .reset__big {
@@ -7495,7 +7487,7 @@ body.scroll-off{
 }
 
 .text-b16 {
-	font-size: 1rem;
+	font-size: 14px;
 	line-height: 1.5em;
 	color: rgba(0,0,0,.7);
 }
@@ -7596,4 +7588,64 @@ body.scroll-off{
 
 .tech {
 	justify-content: space-between;
+}
+
+.partners-section{
+	padding: 100px 0;
+}
+
+.partners-section .max-container{
+	position: relative;
+}
+
+.partners-section h4{
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.partners-section .partner-slider{
+	padding: 50px 50px 0;
+} 
+
+.partners-section .partner-item {
+	display: flex;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	height: 60px;
+}
+
+.partners-section .partner-item img{
+	filter: grayscale(100%);
+	transition: filter 0.3s;
+	cursor: pointer;
+}
+
+.partners-section .partner-item img:hover{
+	filter: grayscale(0%);
+	transition: filter 0.7s;
+}
+
+.partner-prev {
+	position: absolute;
+	transform: rotate(180deg);
+	left: 15px;
+	top: 130px;
+	z-index: 999;
+	cursor: pointer;
+	padding: 0;
+}
+
+.partner-next {
+	position: absolute;
+	right: 15px;
+	top: 130px;
+	z-index: 999;
+	cursor: pointer;
+	padding: 0;
+}
+
+.partner-prev:hover, .partner-next:hover{
+	width: 4.25rem;
+	color: #cc0000;
 }

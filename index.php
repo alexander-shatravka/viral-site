@@ -371,7 +371,7 @@
         </div>
     </section>
         <!-- info holder -->
-        <div class="info-holder">
+        <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
                 <div class="max-container">
                     <div id="tabs">
@@ -384,171 +384,162 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="tab-content clearfix">
-                                <div class="tab-pane fade active in" id="marketing-tab">
-                                    <div class="col-lg-7 col-sm-7 col-md-7">
-                                        <div class="wh_choose">
-                                            <p>
-                                                Интернет-маркетинг на сегодняшний день играет огромную роль в повышении эффективности бизнеса. Нельзя отказываться от возможностей, которые может дать бизнесу маркетинг в Интернете. 
-                                            </p>
-                                            <ul>
-                                                <li><i class="fa fa-square"></i><a class="services-drop" href="">SEO</a>
-                                                    <p class="services-more__description drop-descr">Наша главная задача - помогать клиентам развивать свой бизнес в интернете и SEO-продвижение один из наиболее эффективных инструментов в выполнении этой задачи.<a href="marketing" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i><a class="services-drop" href="">PPC</a>
-                                                    <p class="services-more__description drop-descr">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.<a href="marketing" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">SMM</a>
-                                                    <p class="services-more__description drop-descr">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.<a href="marketing" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Комплексные аудиты</a>
-                                                    <p class="services-more__description drop-descr">Предлагаем максимально подробные SEO и PPC аудиты. Включает в себя перечень правок, рекомендации и реальную стоимость услуг.<a href="marketing" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Youtube продвижение</a>
-                                                    <p class="services-more__description drop-descr">Мы занимаемся съемкой и продвижением видео-роликов на Youtube. Так же можем оказать все сопутствующие услуги.<a href="marketing" class="services-more">подробнее</a></p>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
-                                        <video  preload="auto" autoplay="true" loop="true" muted="muted">
-                                            <source src="video/DIGITAL-MARKETING.mp4">
-                                        </video>
-                                    </div>
-                                </div>
-                                <div class="tab-pane fade" id="design-tab">
-                                    <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
-                                        <video  preload="auto" autoplay="true" loop="true" muted="muted">
-                                            <source src="video/DESIGN.mp4">
-                                        </video>
-                                    </div>
-                                    <div class="col-lg-7 col-sm-7 col-md-7">
-                                        <div class="wh_choose">
-                                            <p>
-                                                There are many variations of passages of lorem ipsum available, but the majority have 
-                                                suffered alteration in some form, by injected humour, or randomised words 
-                                                which don't look even slightly believable. If you are going to use a 
-                                                passage of Lorem Ipsum, you need to be sure there isn't anything
-                                                embarrassing hidden in the middle of text. 
-                                            </p>
-                                            <ul>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Редизайн сайта</a>
-                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!<a href="design" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Дизайн адаптивного сайта</a>
-                                                    <p class="services-more__description drop-descr">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.<a href="design" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Дизайн лендингов</a>
-                                                    <p class="services-more__description drop-descr">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.<a href="design" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Дизайн корпоративного сайта</a>
-                                                    <p class="services-more__description drop-descr">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.<a href="design" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Индивидуальный дизайн сайта</a>
-                                                    <p class="services-more__description drop-descr">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.<a href="design" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Дизайн интернет-магазина</a>
-                                                    <p class="services-more__description drop-descr">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.<a href="design" class="services-more">подробнее</a></p>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab-pane fade" id="development-tab">
-                                    <div class="col-lg-7 col-sm-7 col-md-7">
-                                        <div class="wh_choose">
-                                            <p>
-                                            Решив создать качественный сайт через профессиональную веб-студию, вам нужно заранее подумать о конкретных задачах будущего интернет-проекта. Дело в том, что исходя из целей, которых вы планируете достичь посредством сайта, можно придумывать соответствующий дизайн, разрабатывать подходящий функционал, навигационную систему и другие компоненты. Так, например, сайт-визитка компании будет в значительной степени отличаться от сайта, который планируется использовать как самостоятельный интернет-проект для геймеров. 
-                                            </p>
-                                            <ul>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Разработка корпоративного сайта</a>
-                                                    <p class="services-more__description drop-descr">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.<a href="development" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Разработка интернет-магазина</a>
-                                                    <p class="services-more__description drop-descr">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.<a href="development" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Разработка landing page</a>
-                                                    <p class="services-more__description drop-descr">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.<a href="development" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Разработка сайта-визитки</a>
-                                                    <p class="services-more__description drop-descr">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок.<a href="development" class="services-more">подробнее</a></p>
-                                                </li>
-                                                <li><i class="fa fa-square"></i>
-                                                    <a class="services-drop" href="">Разработка портала под ключ</a>
-                                                    <p class="services-more__description drop-descr">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.<a href="development" class="services-more">подробнее</a></p>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
-                                        <video  preload="auto" autoplay="true" loop="true" muted="muted">
-                                            <source src="video/WEB-DEV.mp4">
-                                        </video>
-                                    </div>
+                        <div class="tab-pane fade" id="design-tab">
+                            <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
+                                <video  preload="auto" autoplay="true" loop="true" muted="muted">
+                                    <source src="video/DESIGN.mp4">
+                                </video>
+                            </div>
+                            <div class="col-lg-7 col-sm-7 col-md-7">
+                                <div class="wh_choose">
+                                    <p>
+                                        There are many variations of passages of lorem ipsum available, but the majority have 
+                                        suffered alteration in some form, by injected humour, or randomised words 
+                                        which don't look even slightly believable. If you are going to use a 
+                                        passage of Lorem Ipsum, you need to be sure there isn't anything
+                                        embarrassing hidden in the middle of text. 
+                                    </p>
+                                    <ul>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Редизайн сайта</a>
+                                            <p class="services-more__description drop-descr">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!<a href="design" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Дизайн адаптивного сайта</a>
+                                            <p class="services-more__description drop-descr">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.<a href="design" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Дизайн лендингов</a>
+                                            <p class="services-more__description drop-descr">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.<a href="design" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Дизайн корпоративного сайта</a>
+                                            <p class="services-more__description drop-descr">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.<a href="design" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Индивидуальный дизайн сайта</a>
+                                            <p class="services-more__description drop-descr">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.<a href="design" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Дизайн интернет-магазина</a>
+                                            <p class="services-more__description drop-descr">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.<a href="design" class="services-more">подробнее</a></p>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                <!-- </div> -->
-            </section>
-
-            <section class="commonSection featured">
-                <div class="max-container features-info">
-                    <div class="features_img">
-                        <img src="images/5.jpg" alt="">
-                        <!-- <div class="img_details">
-                            <h4>Total design freedom<br> for everyone.</h4>
-                        </div> -->
-                    </div>
-                    <div class="features_content">
-                        <!-- <h4 class="sub_title">our core features</h4> -->
-                        <h2 class="sec_title">Миссия и ценности</h2>
-                        <!-- <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while offering our employees the best training.
-                        </p> -->
-                        <div class="singleFeature">
-                            <div class="f_count">01</div>
-                            <h3>Видение</h3>
-                            <p>
-                            Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                            Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                            </p>
-                        </div>
-                        <div class="singleFeature">
-                            <div class="f_count">02</div>
-                            <h3>Миссия</h3>
-                            <p>
-                            Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                            </p>
-                        </div>
-                        <div class="singleFeature">
-                            <div class="f_count">03</div>
-                            <h3>Ценности</h3>
-                            <p>
-                            Порядочность - это основное наше требование к себе.
-                            положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                            Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                            </p>
+                        <div class="tab-pane fade" id="development-tab">
+                            <div class="col-lg-7 col-sm-7 col-md-7">
+                                <div class="wh_choose">
+                                    <p>
+                                    Решив создать качественный сайт через профессиональную веб-студию, вам нужно заранее подумать о конкретных задачах будущего интернет-проекта. Дело в том, что исходя из целей, которых вы планируете достичь посредством сайта, можно придумывать соответствующий дизайн, разрабатывать подходящий функционал, навигационную систему и другие компоненты. Так, например, сайт-визитка компании будет в значительной степени отличаться от сайта, который планируется использовать как самостоятельный интернет-проект для геймеров. 
+                                    </p>
+                                    <ul>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Разработка корпоративного сайта</a>
+                                            <p class="services-more__description drop-descr">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.<a href="development" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Разработка интернет-магазина</a>
+                                            <p class="services-more__description drop-descr">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.<a href="development" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Разработка landing page</a>
+                                            <p class="services-more__description drop-descr">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.<a href="development" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Разработка сайта-визитки</a>
+                                            <p class="services-more__description drop-descr">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок.<a href="development" class="services-more">подробнее</a></p>
+                                        </li>
+                                        <li><i class="fa fa-square"></i>
+                                            <a class="services-drop" href="">Разработка портала под ключ</a>
+                                            <p class="services-more__description drop-descr">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.<a href="development" class="services-more">подробнее</a></p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-5 col-sm-5 col-md-5 services-video-holder chose_img">
+                                <video  preload="auto" autoplay="true" loop="true" muted="muted">
+                                    <source src="video/WEB-DEV.mp4">
+                                </video>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </section>
+            </div> -->
+        <!-- </div> -->
+    <!-- </section> -->
+    <section class="commonSection featured">
+        <div class="max-container features-info">
+            <div class="features_img">
+                <img src="images/5.jpg" alt="">
+                <div class="img_details">
+                    <h4>Total design freedom<br> for everyone.</h4>
+                </div> 
             </div>
-            
+            <div class="features_content">
+                <!-- <h4 class="sub_title">our core features</h4> -->
+                <h2 class="sec_title">Миссия и ценности</h2>
+                <div class="singleFeature">
+                    <div class="f_count">01</div>
+                    <h3>Видение</h3>
+                    <p>
+                    Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                    Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                    </p>
+                </div>
+                <div class="singleFeature">
+                    <div class="f_count">02</div>
+                    <h3>Миссия</h3>
+                    <p>
+                    Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                    </p>
+                </div>
+                <div class="singleFeature">
+                    <div class="f_count">03</div>
+                    <h3>Ценности</h3>
+                    <p>
+                    Порядочность - это основное наше требование к себе.
+                    положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                    Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="partners-section">
+        <div class="max-container">
+            <h4 class="">НАШИ ПАРТНЕРЫ</h4>
+            <div class="services-more__container partner-prev">
+                <div class="services-more__arrow1 arrow1"></div>
+                <div class="services-more__arrow2 arrow2"></div>
+            </div>
+            <div class="partner-slider">
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-1.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-1.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
+            </div>  
+            <div class="services-more__container partner-next">
+                <div class="services-more__arrow1 arrow1"></div>
+                <div class="services-more__arrow2 arrow2"></div>
+            </div>
+        </div>
+    </section>
+    </div> 
                 <!-- work info -->
                 <!-- <div class="info work">
                     <div class="img-frame">
@@ -742,7 +733,7 @@
 
 <div class="_col-11 _md-col-7 _xl-col-7">
 <div class="reset _mb-md _def-mb-def">
-<div class="title title--big reset__big is-anim"><span><span class="lt-anim">Т</span><span class="lt-anim">Е</span><span class="lt-anim">Х</span><span class="lt-anim">Н</span><span class="lt-anim">О</span><span class="lt-anim">Л</span><span class="lt-anim">О</span><span class="lt-anim">Г</span><span class="lt-anim">И</span><span class="lt-anim">И</span></span></div>
+<h4 class="tech-title">ТЕХНОЛОГИИ</h4>
 </div>
 <div class="_col-9 _md-show">
 <div class="reset">
@@ -972,8 +963,7 @@
 </div>
 </div>
 
-
-                
+          
         <section class="commonSection ready_2">
             <div class="max-container">
                 <div class="row">
@@ -1006,10 +996,6 @@
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-2"><img src="images/teams/member2.jpg" alt="img01"><h6>Jonny Biggle</h6><span>Project Manager</span></a></div>
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-3"><img src="images/teams/member3.jpg" alt="img01"><h6>Anna mc Jones</h6><span>Creative Director</span></a></div>
                     <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-4"><img src="images/teams/member4.jpg" alt="img01"><h6>Betty Kovalsky</h6><span>Web Designer</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-5"><img src="images/teams/member5.jpg" alt="img01"><h6>Matthew Novak</h6><span>Front-end developer</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-6"><img src="images/teams/member6.jpg" alt="img01"><h6>Curtis Phillips</h6><span>Back-end Developer</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-7"><img src="images/teams/member7.jpg" alt="img01"><h6>Joahna White</h6><span>SEO Specialist</span></a></div>
-                    <div class="item effect"><a href="#" class="md-trigger" data-modal="modal-8"><img src="images/teams/member8.jpg" alt="img01"><h6>Kate Williams</h6><span>New Bussiness</span></a></div>
                     </div>	
                 </div>       
             </div>    
