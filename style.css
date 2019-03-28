@@ -8415,7 +8415,7 @@ textarea.input-form:focus{
 .side-text{
 	background:#252525;
 	height: 100%;
-	padding: 30px 40px;
+	padding: 60px 40px;
 	color: #fff;	
 	width: 60%;
 }
@@ -8426,10 +8426,15 @@ textarea.input-form:focus{
 
 .side-text .singleFeature h3{
 	color: #fff;
+	font-weight: 900;
 } 
 
 .side-text  .singleFeature:after {
 	background: #fff;
+}
+
+.side-text  .singleFeature {
+	margin-bottom: 50px;
 }
 
 .case-section .prev-next-block {

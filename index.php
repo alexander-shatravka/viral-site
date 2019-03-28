@@ -936,7 +936,7 @@
                     <div class="case-item">
                         <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
                         <div class="side-text">
-                            <h3>Arigato</h3>
+                            <!-- <h3>Arigato</h3> -->
                             <div class="singleFeature">
                                 <div class="f_count">01</div>
                                 <h3>Задача</h3>
@@ -966,7 +966,7 @@
                     <div class="case-item">
                         <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
                         <div class="side-text">
-                            <h3>Cashyou</h3>
+                            <!-- <h3>Cashyou</h3> -->
                             <div class="singleFeature">
                                 <div class="f_count">01</div>
                                 <h3>Задача</h3>
