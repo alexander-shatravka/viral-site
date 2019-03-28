@@ -1,5 +1,5 @@
 <?php include 'top.php';?>
-<main id="main" role="main" class="development">
+<main id="main" role="main" class="marketing">
     <section class="pageBanner">
         <div class="container">
             <div class="row">

@@ -1,174 +1,171 @@
 <?php include 'top.php';?>
-<div class="promo add">
-    <div class="max-container">
-        <div class="img">
-            <img src="http://placehold.it/1770x240" alt="image description">
-        </div>
-        <div class="holder">
-            <div class="frame">
-                <div class="box">
-                    <div class="heading">
-                        <h1>Blog Detail</h1>
-                        <h2>Blog List</h2>
+<main id="main" role="main" class="blog blogs-pages">
+    <section class="pageBanner">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="banner_content text-center">
+                        <h4><a href="#">home</a> - Blog</h4>
+                        <h2>Статья</h2>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-<main id="main" role="main">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12 content">
-                <!-- post -->
-                <div class="post detail wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="image-box">
-                        <div class="blog-slider">
-                            <div class="slide">
-                                <a href="#"><img src="http://placehold.it/1170x655" alt="image description"></a>
-                                <span class="btn-play"><i class="icon-music"></i></span>
-                            </div>
-                            <div class="slide">
-                                <a href="#"><img src="http://placehold.it/1170x655" alt="image description"></a>
-                                <span class="btn-play"><i class="icon-music"></i></span>
-                            </div>
-                            <div class="slide">
-                                <a href="#"><img src="http://placehold.it/1170x655" alt="image description"></a>
-                                <span class="btn-play"><i class="icon-music"></i></span>
-                            </div>
+    </section>
+
+    <!-- Blog Detail Section -->
+    <section class="commonSection blogDetails">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-sm-8">
+                    <div class="single_blog">
+                        <div class="blog_thumb">
+                            <img src="images/blog/7.jpg" alt=""/>
                         </div>
-                        <time datetime="2016-08-06 20:00">
-                            <span class="date">08</span>
-                            <span class="month">june</span>
-                        </time>
-                    </div>
-                    <!-- text-area -->
-                    <div class="text-area">
-                        <h2>Music</h2>
-                        <h3>We love the look of these beautiful</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore aliqua. Ut enim enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-                    </div>
-                    <!-- blockquote -->
-                    <div class="blockquote" style="background-image: url(http://placehold.it/1170x305);">
-                        <div class="frame">
-                            <div class="box-t">
-                                <div class="box-c">
-                                    <blockquote>
-                                        <q>
-                                            <i class="icon-quote-left"></i>
-                                            <span>I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what’s next.</span>
-                                        </q>
-                                        <cite>STEVE JOBS</cite>
-                                    </blockquote>
-                                </div>
-                            </div>
+                        <div class="blog_headings">
+                            <span class="blog_date">20 nov</span>
+                            <h2>Become the best sale marketer</h2>
+                            <p class="blog_metas">
+                                <a href="#">By layerdrops</a>-<a href="#">30 Likes</a>-<a href="#">2 Comments</a>
+                            </p>
                         </div>
-                    </div>
-                    <div class="txts">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    </div>
-                    <!-- social -->
-                    <ul class="social">
-                        <li><span class="num">12</span> Comments</li>
-                        <li>
-                            <ul class="social-networks">
-                                <li><a href="#" class="facebook"><i class="icon-facebook"></i><span>facebook</span></a></li>
-                                <li><a href="#" class="twitter"><i class="icon-twitter"></i><span>twitter</span></a></li>
-                                <li><a href="#" class="instagram"><i class="icon-instagram"></i><span>instagram</span></a></li>
-                                <li><a href="#" class="pinterest-circled"><i class="icon-pinterest-circled"></i><span>pinterest-circled</span></a></li>
-                            </ul>
-                        </li>
-                        <li>By <span class="name">Kawhi Leonard</span></li>
-                    </ul>
-                </div>
-                <!-- comment -->
-                <div class="comment wow fadeInUp" data-wow-delay="0.2s">
-                    <h3>2 comments</h3>
-                    <ol>
-                        <li>
-                            <div class="box">
-                                <div class="imgs">
-                                    <a href="#"><img src="http://placehold.it/70x70" alt="image description"></a>
-                                </div>
-                                <div class="txt">
-                                    <div class="head-area">
-                                        <div class="head">
-                                            <time datetime="2016-08-06 20:00">Juanary 10,2016</time>
-                                            <h4><a href="#">Kawhi leonard</a></h4>
-                                        </div>
-                                        <a href="#" class="reply">reply</a>
-                                    </div>
-                                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.</p>
-                                </div>
-                            </div>
+                        <div class="blog_details">
+                            <p>
+                                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, 
+                                by injected humour, or randomised words which don't look even slightly believable. If you are going to use a 
+                                passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. 
+                                All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the 
+                                first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
+                                of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is
+                                therefore always free from repetition, injected humour, or non-characteristic words etc.
+                            </p>
+                            <p>
+                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 
+                                'Content here, content here', making it look like readable English. Many desktop publishing packages and web 
+                                page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover
+                                many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, 
+                                sometimes on purpose injected humour and the like.
+                            </p>
+                        </div>
+                        <div class="blog_tagitems">
+                            <span>Tags:</span><a href="#">Business</a>, <a href="#">Agency</a>, <a href="#">Digital</a>, <a href="#">Technology</a>
+                        </div>
+                        <div class="post_author">
+                            <img src="images/blog/8.jpg" alt="">
+                            <h3><a href="#">Christine Eve</a></h3>
+                            <p>
+                                Lorem Ipsum is simply dummy text of the rinting and typesetting been the industry standard dummy text ever sincer nullam condimentum purus.
+                            </p>
+                            <a href="#">View all posts</a>
+                        </div>
+                        <div class="comment_area">
+                            <h3>2 Comments</h3>
                             <ol>
                                 <li>
-                                    <div class="box">
-                                        <div class="imgs">
-                                            <a href="#"><img src="http://placehold.it/70x70" alt="image description"></a>
+                                    <div class="single-comment">
+                                        <img src="images/blog/9.jpg" alt="">
+                                        <div class="authorDetails">
+                                            <h5><a href="#">David Martin</a></h5>
+                                            <span>20 Nov, 2018   -   4:00 pm</span>
                                         </div>
-                                        <div class="txt">
-                                            <div class="head-area">
-                                                <div class="head">
-                                                    <time datetime="2016-08-06 20:00">Juanary 10,2016</time>
-                                                    <h4><a href="#">Louis Frank</a></h4>
-                                                </div>
-                                                <a href="#" class="reply">reply</a>
-                                            </div>
-                                            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.</p>
+                                        <div class="comment">
+                                            <p>
+                                                Lorem Ipsum is simply dummy text of the rinting and typesetting been the
+                                                industry standard dummy text ever sincer condimentum purus. 
+                                                In non ex at ligula fringilla lobortis et not the aliquet.
+                                            </p>
                                         </div>
+                                        <a class="common_btn red_bg" href="#"><span>Reply</span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="single-comment">
+                                        <img src="images/blog/10.jpg" alt="">
+                                        <div class="authorDetails">
+                                            <h5><a href="#">Jessica Brown</a></h5>
+                                            <span>20 Nov, 2018   -   4:00 pm</span>
+                                        </div>
+                                        <div class="comment">
+                                            <p>
+                                                Lorem Ipsum is simply dummy text of the rinting and typesetting been the
+                                                industry standard dummy text ever sincer condimentum purus. 
+                                                In non ex at ligula fringilla lobortis et not the aliquet.
+                                            </p>
+                                        </div>
+                                        <a class="common_btn red_bg" href="#"><span>Reply</span></a>
                                     </div>
                                 </li>
                             </ol>
-                        </li>
-                        <li>
-                            <div class="box">
-                                <div class="imgs">
-                                    <a href="#"><img src="http://placehold.it/70x70" alt="image description"></a>
-                                </div>
-                                <div class="txt">
-                                    <div class="head-area">
-                                        <div class="head">
-                                            <time datetime="2016-08-06 20:00">Juanary 10,2016</time>
-                                            <h4><a href="#">Kawhi leonard</a></h4>
-                                        </div>
-                                        <a href="#" class="reply">reply</a>
+                        </div>
+                        <div class="commentForm">
+                            <h3>Leave a Comment</h3>
+                            <form action="#" method="post">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <input required="" class="input-form" type="text" name="name" placeholder="Your Name">
                                     </div>
-                                    <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore.</p>
+                                    <div class="col-lg-6">
+                                        <input required="" class="input-form" type="email" name="email" placeholder="Email Address">
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <textarea required="" class="input-form" name="comment" placeholder="Write Message"></textarea>
+                                    </div>
                                 </div>
-                            </div>
-                        </li>
-                    </ol>
-                </div>
-                <!-- comment-form -->
-                <div class="comment-form wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="wpcf7">
-                        <form action="#" class="wpcf7-form" enctype="multipart/form-data">
-                            <h3>LEAVE A COMMENT</h3>
-                            <div class="column">
-                                <div class="rows">
-                                    <span class="wpcf7-form-control-wrap text-field-required">
-                                        <input type="text" name="text-field-required" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" placeholder="Name">
-                                    </span>
-                                </div>
-                                <div class="rows">
-                                    <span class="wpcf7-form-control-wrap Emailfield">
-                                        <input type="email" name="Emailfield" value="" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email email-class wpcf7-use-title-as-watermark" size="12" placeholder="Email">
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="column">
-                                <span class="wpcf7-form-control-wrap textarea">
-                                    <textarea name="textarea" class="wpcf7-form-control wpcf7-textarea textarea-class wpcf7-use-title-as-watermark" rows="9" cols="39" placeholder="Your Comment"></textarea>
-                                </span>
-                            </div>
-                            <input type="submit" value="SEND MESSAGES">
-                        </form>
+                                <a class="common_btn red_bg" href="#"><span>Send Message</span></a>
+                            </form>
+                        </div>
                     </div>
+                </div>
+                <div class="col-lg-4 col-sm-4 sidebar">
+                    <aside class="widget search-widget">
+                        <form method="post" action="#" class="searchform">
+                            <input type="search" placeholder="Search here..." name="s" id="s">
+                        </form>
+                    </aside>
+                    <aside class="widget recent_posts">
+                        <h3 class="widget_title">Latest Posts</h3>
+                        <div class="meipaly_post_widget">
+                            <div class="mpw_item">
+                                <img src="images/blog/11.jpg" alt="">
+                                <a href="#">basic rules of running web agency</a>
+                            </div>
+                            <div class="mpw_item">
+                                <img src="images/blog/11.jpg" alt="">
+                                <a href="#">Introducing latest mopaly features</a>
+                            </div>
+                            <div class="mpw_item">
+                                <img src="images/blog/13.jpg" alt="">
+                                <a href="#">become the best sale marketer</a>
+                            </div>
+                        </div>
+                    </aside>
+                    <aside class="widget categories">
+                        <h3 class="widget_title">Categories</h3>
+                        <div class="meipaly_categorie_widget">
+                            <ul>
+                                <li><a href="#">Business</a></li>
+                                <li><a href="#">Introductions</a></li>
+                                <li><a href="#">One Page Template</a></li>
+                                <li><a href="#">Parallax Effects</a></li>
+                                <li><a href="#">New Technologies</a></li>
+                                <li><a href="#">Video Backgrounds</a></li>
+                            </ul>
+                        </div>
+                    </aside>
+                    <aside class="widget">
+                        <h3 class="widget_title">Tags:</h3>
+                        <div class="meipaly_tagcloude_widget">
+                            <a href="#">Business,</a> <a href="#">Agency,</a> <a href="#">Digital,</a> <a href="#">Technology,</a>
+                            <a href="#">Parallax,</a> <a href="#">Innovative,</a> <a href="#">Professional,</a>
+                            <a href="#">Experience,</a>
+                        </div>
+                    </aside>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
+    <!-- Blog Detail Section -->
+
 </main>
 <?php include 'bottom.php';?>
