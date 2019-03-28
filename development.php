@@ -53,16 +53,6 @@
 
                 <div id="Development" class="col-lg-8 col-sm-8">
                     <div class="serviceArea">
-                        <img src="images/s1.jpg" alt="">
-                        <h2>Graphic Designing</h2>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a 
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting, 
-                            remaining essentially unchanged. 
-                        </p>
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
                                 <img src="images/s2.jpg" alt="">
@@ -98,16 +88,6 @@
 
                 <div id="Designing" class="col-lg-8 col-sm-8">
                     <div class="serviceArea">
-                        <img src="images/s1.jpg" alt="">
-                        <h2>Graphic Designing2</h2>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a 
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting, 
-                            remaining essentially unchanged. 
-                        </p>
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
                                 <img src="images/s2.jpg" alt="">
@@ -143,16 +123,6 @@
 
                 <div id="Marketing" class="col-lg-8 col-sm-8">
                     <div class="serviceArea">
-                        <img src="images/s1.jpg" alt="">
-                        <h2>Graphic Designing3</h2>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a 
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting, 
-                            remaining essentially unchanged. 
-                        </p>
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
                                 <img src="images/s2.jpg" alt="">
@@ -188,16 +158,6 @@
 
                 <div id="SEO" class="col-lg-8 col-sm-8">
                     <div class="serviceArea">
-                        <img src="images/s1.jpg" alt="">
-                        <h2>Graphic Designing4</h2>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a 
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting, 
-                            remaining essentially unchanged. 
-                        </p>
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
                                 <img src="images/s2.jpg" alt="">
@@ -233,16 +193,6 @@
 
                 <div id="App" class="col-lg-8 col-sm-8">
                     <div class="serviceArea">
-                        <img src="images/s1.jpg" alt="">
-                        <h2>Graphic Designing5</h2>
-                        <p>
-                            Need something changed or is there something not quite working the way you envisaged? Is your van a 
-                            little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting, 
-                            remaining essentially unchanged. 
-                        </p>
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
                                 <img src="images/s2.jpg" alt="">
