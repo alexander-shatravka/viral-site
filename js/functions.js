@@ -67,7 +67,7 @@ function initSlick(){
         autoplay: true,
         autoplaySpeed: 5000,
         infinite: true,
-        slidesToShow: 6,
+        slidesToShow: 5,
         slidesToScroll: 1,
         dots: false,
         arrows: true,

@@ -7642,13 +7642,21 @@ body.scroll-off{
 	padding: 50px 50px 0;
 } 
 
+.partners-section {
+	user-select: none;
+}
+
+.partners-section *{
+	user-select: none;
+}
+
 .partners-section .partner-item {
 	display: flex;
 	align-content: center;
 	align-items: center;
 	justify-content: center;
-	height: 60px;
-	width: auto!important;
+	/* height: 60px; */
+	/* width: auto!important; */
 	padding: 0 50px;
 }
 
@@ -7679,7 +7687,7 @@ body.scroll-off{
 	position: absolute;
 	right: 15px;
 	top: 130px;
-	z-index: 999;
+	z-index: 9;
 	cursor: pointer;
 	padding: 0;
 }
@@ -7687,4 +7695,18 @@ body.scroll-off{
 .partner-prev:hover, .partner-next:hover{
 	width: 4.25rem;
 	color: #cc0000;
+}
+
+.partner-prev::before, .partner-next::before{
+	content: '';
+	display: block;
+	cursor: pointer;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	background: transparent;
+	height: 30px;
+	width: 50px;
+	z-index: 9;
 }
