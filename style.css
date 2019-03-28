@@ -7634,17 +7634,19 @@ body.scroll-off{
 	position: absolute;
 	transform: rotate(180deg);
 	left: 15px;
-	top: 110px;
+	top: 125px;
 	z-index: 999;
 	cursor: pointer;
+	padding: 0;
 }
 
 .partner-next {
 	position: absolute;
 	right: 15px;
-	top: 110px;
+	top: 125px;
 	z-index: 999;
 	cursor: pointer;
+	padding: 0;
 }
 
 .partner-prev:hover, .partner-next:hover{
