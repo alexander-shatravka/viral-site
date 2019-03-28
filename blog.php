@@ -26,8 +26,8 @@
                                 </div>
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">26 NOV</a>
-                                    <h2><a href="blog_single.html">basic rules of running web  agency business</a></h2>
-                                    <a class="learnM" href="blog_single.html">Learn More</a>
+                                    <h2><a href="blog_single.html">6 ошибок юзабилити сайта</a></h2>
+                                    <a class="learnM" href="blog_single.html">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 </div>
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">20 NOV</a>
-                                    <h2><a href="blog_single.html">Become the best sale marketer</a></h2>
-                                    <a class="learnM" href="blog_single.html">Learn More</a>
+                                    <h2><a href="blog_single.html">Видеореклама в сети Интернет</a></h2>
+                                    <a class="learnM" href="blog_single.html">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -50,8 +50,8 @@
                                 </div>
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">16 NOV</a>
-                                    <h2><a href="blog_single.html">Introducing latest mopaly features</a></h2>
-                                    <a class="learnM" href="blog_single.html">Learn More</a>
+                                    <h2><a href="blog_single.html">Разработка сайта в веб-студии</a></h2>
+                                    <a class="learnM" href="blog_single.html">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -62,8 +62,8 @@
                                 </div>
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">10 NOV</a>
-                                    <h2><a href="blog_single.html">a deep understanding of our audience</a></h2>
-                                    <a class="learnM" href="blog_single.html">Learn More</a>
+                                    <h2><a href="blog_single.html">Преимущества интернет-маркетинга</a></h2>
+                                    <a class="learnM" href="blog_single.html">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">9 NOV</a>
                                     <h2><a href="blog_single.html">We build and activate brands insight</a></h2>
-                                    <a class="learnM" href="blog_single.html">Learn More</a>
+                                    <a class="learnM" href="blog_single.html">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">7 NOV</a>
                                     <h2><a href="blog_single.html">experiences that connect with people</a></h2>
-                                    <a class="learnM" href="blog_single.html">Learn More</a>
+                                    <a class="learnM" href="blog_single.html">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -115,15 +115,15 @@
                         <div class="meipaly_post_widget">
                             <div class="mpw_item">
                                 <img src="images/blog/11.jpg" alt="">
-                                <a href="#">basic rules of running web agency</a>
+                                <a href="#">6 ошибок юзабилити сайта</a>
                             </div>
                             <div class="mpw_item">
                                 <img src="images/blog/11.jpg" alt="">
-                                <a href="#">Introducing latest mopaly features</a>
+                                <a href="#">Видеореклама в сети Интернет</a>
                             </div>
                             <div class="mpw_item">
                                 <img src="images/blog/13.jpg" alt="">
-                                <a href="#">become the best sale marketer</a>
+                                <a href="#">Разработка сайта в веб-студии</a>
                             </div>
                         </div>
                     </aside>
