@@ -1,4 +1,4 @@
-<?php include 'top.php';?>
+<?php include 'top-article.php';?>
 <main id="main" role="main" class="blog blogs-pages">
     <section class="pageBanner">
         <div class="container">
@@ -6,7 +6,7 @@
                 <div class="col-lg-12">
                     <div class="banner_content text-center">
                         <h4><a href="#">home</a> - Blog</h4>
-                        <h2>Статья</h2>
+                        <h2>Разработка сайта в веб-студии</h2>
                     </div>
                 </div>
             </div>
@@ -20,39 +20,35 @@
                 <div class="col-lg-8 col-sm-8">
                     <div class="single_blog">
                         <div class="blog_thumb">
-                            <img src="images/blog/7.jpg" alt=""/>
+                            <img src="../images/blog/7.jpg" alt=""/>
                         </div>
                         <div class="blog_headings">
                             <span class="blog_date">20 nov</span>
-                            <h2>Become the best sale marketer</h2>
+                            <h2>Преимущества интернет-маркетинга</h2>
                             <p class="blog_metas">
                                 <a href="#">By layerdrops</a>-<a href="#">30 Likes</a>-<a href="#">2 Comments</a>
                             </p>
                         </div>
                         <div class="blog_details">
-                            <p>
-                                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, 
-                                by injected humour, or randomised words which don't look even slightly believable. If you are going to use a 
-                                passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. 
-                                All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the 
-                                first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
-                                of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is
-                                therefore always free from repetition, injected humour, or non-characteristic words etc.
-                            </p>
-                            <p>
-                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 
-                                'Content here, content here', making it look like readable English. Many desktop publishing packages and web 
-                                page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover
-                                many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, 
-                                sometimes on purpose injected humour and the like.
-                            </p>
+                        <h2>Проектирование</h2>
+                        <h3>Разработка сайта в веб-студии</h3>
+                        <p>Если вам нужен качественный сайт для решения ваших личных задач или задач компании, то нужно обратиться к профессиональным разработчикам сайтов. Но как правильно заказать сайт? И как происходит разработка сайта в веб-студии?</p>
+<ol>
+<li>Решив создать качественный сайт через профессиональную веб-студию, вам нужно заранее подумать о конкретных задачах будущего интернет-проекта. Дело в том, что исходя из целей, которых вы планируете достичь посредством сайта, можно придумывать соответствующий дизайн, разрабатывать подходящий функционал, навигационную систему и другие компоненты. Так, например, сайт-визитка компании будет в значительной степени отличаться от сайта, который планируется использовать как самостоятельный интернет-проект для геймеров.</li>
+<li>Продумав концепцию будущего сайта и его цели, необходимо составить для специалистов техническое задание, которым они будут руководствоваться при выполнении работ. Техническое задание - это ваши требования, ваши пожелания и рекомендации. В ТЗ должны быть указаны цели интернет-проекта, целевая аудитория, требования к дизайну и функционалу. Кроме этого, нельзя забывать о необходимости предоставления фото, логотипа, лозунгов, цветовой атрибутики компании и других элементов, которые нужно включить в веб-дизайн.</li>
+<li>Далее вы заключите официальный договор с профессиональной веб-студией. Именно этот документ призван регулировать отношения между вами и разработчиками сайта.</li>
+<li>Изначально веб-дизайнеры занимаются созданием эскиза сайта, который впоследствии будет отправлен вам на проверку. Вы можете своевременно внести любые изменения в дизайн, может высказать свои предпочтения по поводу каждого элемента эскиза. Только после утверждения вами веб-дизайна сайтом смогут заняться верстальщики.</li>
+<li>Верстка сайта – процесс трудоемкий, с его помощью эскиз превращается в рабочий интернет-ресурс. Верстальщик разделяет каждый элемент эскиза, делает его полностью рабочим, способным выполнять свою функцию.</li>
+<li>Веб-программисты занимаются созданием и подключением функциональных модулей, необходимых для реализации вашего интернет-проекта.</li>
+<li>Наполнение сайта с последующим тестированием его работы – это последний этап, которому уделяется особое внимание.</li>
+</ol>
+<p>Именно так в настоящее время ведется разработка сайта в веб-студии. Обращайтесь к специалистам, имеющим достаточный опыт и положительные отзывы от благодарных клиентов.</p>
                         </div>
                         <div class="blog_tagitems">
                             <span>Tags:</span><a href="#">Business</a>, <a href="#">Agency</a>, <a href="#">Digital</a>, <a href="#">Technology</a>
                         </div>
                         <div class="post_author">
-                            <img src="images/blog/8.jpg" alt="">
+                            <img src="../images/blog/8.jpg" alt="">
                             <h3><a href="#">Christine Eve</a></h3>
                             <p>
                                 Lorem Ipsum is simply dummy text of the rinting and typesetting been the industry standard dummy text ever sincer nullam condimentum purus.
@@ -64,7 +60,7 @@
                             <ol>
                                 <li>
                                     <div class="single-comment">
-                                        <img src="images/blog/9.jpg" alt="">
+                                        <img src="../images/blog/9.jpg" alt="">
                                         <div class="authorDetails">
                                             <h5><a href="#">David Martin</a></h5>
                                             <span>20 Nov, 2018   -   4:00 pm</span>
@@ -81,7 +77,7 @@
                                 </li>
                                 <li>
                                     <div class="single-comment">
-                                        <img src="images/blog/10.jpg" alt="">
+                                        <img src="../images/blog/10.jpg" alt="">
                                         <div class="authorDetails">
                                             <h5><a href="#">Jessica Brown</a></h5>
                                             <span>20 Nov, 2018   -   4:00 pm</span>
@@ -127,15 +123,15 @@
                         <h3 class="widget_title">Latest Posts</h3>
                         <div class="meipaly_post_widget">
                             <div class="mpw_item">
-                                <img src="images/blog/11.jpg" alt="">
+                                <img src="../images/blog/11.jpg" alt="">
                                 <a href="#">basic rules of running web agency</a>
                             </div>
                             <div class="mpw_item">
-                                <img src="images/blog/11.jpg" alt="">
+                                <img src="../images/blog/11.jpg" alt="">
                                 <a href="#">Introducing latest mopaly features</a>
                             </div>
                             <div class="mpw_item">
-                                <img src="images/blog/13.jpg" alt="">
+                                <img src="../images/blog/13.jpg" alt="">
                                 <a href="#">become the best sale marketer</a>
                             </div>
                         </div>
@@ -168,4 +164,4 @@
     <!-- Blog Detail Section -->
 
 </main>
-<?php include 'bottom.php';?>
+<?php include 'bottom-article.php';?>
