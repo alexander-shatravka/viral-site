@@ -6739,10 +6739,6 @@ body.scroll-off{
 }
 
 .item:hover > a::before {
-	border-width: 10px;
-}
-
-.item:hover > a::before {
 	border-color: #f90706;
 }
 
