@@ -144,60 +144,60 @@
                     <div class="serviceArea">
                         <div class="services-more">
                             <ul class="services-more__list">
-                                <li class="services-more__item">
+                                <li class="services-more__item redesign">
                                     <a href="#tabs-1">
                                         <h3 class="services-more__title">Редизайн сайта</h3>
-                                        <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p>
+                                        <!-- <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item adaptive">
                                     <a href="#tabs-2">
                                         <h3 class="services-more__title">Дизайн адаптивного сайта</h3>
-                                        <p class="services-more__description">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p>
+                                        <!-- <p class="services-more__description">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item landings">
                                     <a href="#tabs-3">
                                         <h3 class="services-more__title">Дизайн лендингов</h3>
-                                        <p class="services-more__description">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p>
+                                        <!-- <p class="services-more__description">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item e-commerce">
                                     <a href="#tabs-4">
                                         <h3 class="services-more__title">Дизайн корпоративного сайта</h3>
-                                        <p class="services-more__description">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p>
+                                        <!-- <p class="services-more__description">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item individual">
                                     <a href="#tabs-5">
                                         <h3 class="services-more__title">Индивидуальный дизайн сайта</h3>
-                                        <p class="services-more__description">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p>
+                                        <!-- <p class="services-more__description">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item online-market">
                                     <a href="#tabs-6">
                                         <h3 class="services-more__title">Дизайн интернет-магазина</h3>
-                                        <p class="services-more__description">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p>
+                                        <!-- <p class="services-more__description">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -211,52 +211,52 @@
 
                 <div id="Development" class="col-lg-8 col-sm-8">
                     <div class="serviceArea">
-                        <div class="services-more">
+                        <div class="services-more ">
                             <ul class="services-more__list">
-                                <li class="services-more__item">
+                                <li class="services-more__item e-commerce">
                                     <a href="#tabs-1">
                                         <h3 class="services-more__title">Разработка корпоративного сайта</h3>
-                                        <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p>
+                                        <!-- <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item online-market">
                                     <a href="#tabs-2">
                                         <h3 class="services-more__title">Разработка интернет-магазина</h3>
-                                        <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p>
+                                        <!-- <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item landings">
                                     <a href="#tabs-3">
                                         <h3 class="services-more__title">Разработка landing page</h3>
-                                        <p class="services-more__description">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p>
+                                        <!-- <p class="services-more__description">Мы разрабатываем продающие одностраничные сайты с сложными элементами (калькуляторы, онлайн звонки и пр). РРС в подарок.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item site-visit">
                                     <a href="#tabs-4">
                                         <h3 class="services-more__title">Разработка сайта-визитки</h3>
-                                        <p class="services-more__description">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p>
+                                        <!-- <p class="services-more__description">Получите расчёт цены + бесплатный макет Вашего будущего сайта! Не используем конструкторы. Поэтапная оплата. Хостинг в подарок. </p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
                                     </a>
                                 </li>
-                                <li class="services-more__item">
+                                <li class="services-more__item site-key">
                                     <a href="#tabs-5">
                                         <h3 class="services-more__title">Разработка портала под ключ</h3>
-                                        <p class="services-more__description">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p>
+                                        <!-- <p class="services-more__description">Создаем удобные, функциональные и эффектные порталы. Разработка порталов под ключ. Учитываем все пожелания заказчика.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -269,7 +269,7 @@
                 </div>
             </div>
     </section>
-    <div class="widget categories">
+    <!-- <div class="widget categories">
         <div class="meipaly_services_help">
             <div class="max-container">
                 <h4>need meipaly help?</h4>
@@ -277,7 +277,7 @@
                 <h2>666 888 000</h2>
             </div>
         </div>
-    </div>
+    </div> -->
         <!-- info holder -->
         <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
@@ -425,21 +425,22 @@
             <div class="partner-slider">
                 <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-1.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-13.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-3.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-8.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-11.png?v=1553702434" alt=""></div>
-                <div class= "partner-item"><img src="https://wezom.com.ua/Media/assets/images/clients/client-9.png?v=1553702434" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
             </div>  
             <div class="services-more__container partner-next">
                 <div class="services-more__arrow1 arrow1"></div>

@@ -7356,6 +7356,7 @@ body.scroll-off{
 	position: absolute;
 	bottom: 0;
 	left: 0;
+	top: 0;
 	width: 50px;
 	height: 50px;
 	content: "";
@@ -7391,7 +7392,59 @@ body.scroll-off{
 	z-index: -1;
 }
 
+.services-more__item.SMM::before {
+	background: url(images/services-icon/Social-Media.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
 
+.services-more__item.redesign::before {
+	background: url(images/services-icon/Creative-Service.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.adaptive::before {
+	background: url(images/services-icon/Web-Design.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.landings::before {
+	background: url(images/services-icon/Favorites.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.e-commerce::before {
+	background: url(images/services-icon/Order.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.individual::before {
+	background: url(images/services-icon/Page-Quality.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.online-market::before {
+	background: url(images/services-icon/Store.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.site-visit::before {
+	background: url(images/services-icon/Content.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
+
+.services-more__item.site-key::before {
+	background: url(images/services-icon/Content-Management.png) no-repeat;
+	background-size: contain;
+	z-index: -1;
+}
 
 .section {
 	position: relative;
