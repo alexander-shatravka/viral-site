@@ -62,17 +62,19 @@ function initSlick(){
 	// }
 	$('.case-slider').slick({
         autoplay: true,
-        speed	: 1000,
+        speed	: 300,
         autoplay: false,
         autoplaySpeed: 5000,
         infinite: true,
         slidesToShow: 1,
         slidesToScroll: 1,
-        dots: false,
+		dots: false,
+		fade: true,
         arrows: true,
         draggable: false,
         prevArrow: $('.case-prev'),
-        nextArrow: $('.case-next'),
+		nextArrow: $('.case-next'),
+		cssEase: 'ease-in-out',
     });
 	
 
