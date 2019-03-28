@@ -7083,7 +7083,7 @@ body.scroll-off{
 	text-transform: uppercase;
 	color: #222232;
 	line-height: .8;
-	font-size: 50px;
+	font-size: 30px;
 	letter-spacing: 2px;
 	margin-bottom: 34px;
 }
@@ -7417,7 +7417,7 @@ body.scroll-off{
 }
 
 .services-more__item.e-commerce::before {
-	background: url(images/services-icon/Order.png) no-repeat;
+	background: url(images/services-icon/Page-Quality.png	) no-repeat;
 	background-size: contain;
 	z-index: -1;
 }
