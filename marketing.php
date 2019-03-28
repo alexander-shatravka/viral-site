@@ -146,6 +146,7 @@
                 </div>
 
                 <div id="PPC" class="col-lg-8 col-sm-8">
+
                     <div class="serviceArea">
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
@@ -208,6 +209,7 @@
                 </div>
 
                 <div id="SMM" class="col-lg-8 col-sm-8">
+
                     <div class="serviceArea">
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
@@ -218,6 +220,7 @@
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                 <ul>
                                     <li><i class="fa fa-check-square"></i>Предпроектный анализ</li>
+
                                     <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
                                     <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
                                     <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
@@ -298,6 +301,7 @@
                 </div>
 
                 <div id="audit" class="col-lg-8 col-sm-8">
+
                     <div class="serviceArea">
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
@@ -309,6 +313,7 @@
                                 <ul>
                                     <li><i class="fa fa-check-square"></i>Комплексный аудит сайта включает в себя</li>
                                     <li><i class="fa fa-check-square"></i>Что входит в стоимость?</li>
+
                                     <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
                                     <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
                                     <li><i class="fa fa-check-square"></i>Customer engagement matters</li>
@@ -365,6 +370,7 @@
                 </div>
 
                 <div id="Youtube" class="col-lg-8 col-sm-8">
+
                     <div class="serviceArea">
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
@@ -396,6 +402,7 @@
                         </div>
                     </div>
                 </div>
+
 
             </div>
         </div>

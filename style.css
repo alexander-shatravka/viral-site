@@ -7088,6 +7088,10 @@ body.scroll-off{
 	position: relative;
 }
 
+.serviceArea strong{
+	/* color: #cc0000; */
+}
+
 .serviceArea img {
 	width: 100%;
 	height: auto;
@@ -7097,8 +7101,9 @@ body.scroll-off{
 .serviceArea h2 {
 	text-transform: uppercase;
 	color: #222232;
-	line-height: .8;
-	font-size: 50px;
+	line-height: 1.2;
+	font-size: 22px;
+	color: #cc0000;
 	letter-spacing: 2px;
 	margin-bottom: 34px;
 }
@@ -7432,7 +7437,7 @@ body.scroll-off{
 }
 
 .services-more__item.e-commerce::before {
-	background: url(images/services-icon/Order.png) no-repeat;
+	background: url(images/services-icon/Page-Quality.png	) no-repeat;
 	background-size: contain;
 	z-index: -1;
 }
@@ -7657,12 +7662,22 @@ body.scroll-off{
 	padding: 50px 50px 0;
 } 
 
+.partners-section {
+	user-select: none;
+}
+
+.partners-section *{
+	user-select: none;
+}
+
 .partners-section .partner-item {
 	display: flex;
 	align-content: center;
 	align-items: center;
 	justify-content: center;
-	height: 60px;
+	/* height: 60px; */
+	/* width: auto!important; */
+	padding: 0 50px;
 }
 
 .partners-section .partner-item img{
@@ -7678,7 +7693,7 @@ body.scroll-off{
 	transition: filter 0.7s;
 }
 
-.partner-prev {
+.partner-prev, .case-prev {
 	position: absolute;
 	transform: rotate(180deg);
 	left: 15px;
@@ -7688,19 +7703,20 @@ body.scroll-off{
 	padding: 0;
 }
 
-.partner-next {
+.partner-next, .case-next {
 	position: absolute;
 	right: 15px;
-	top: 180px;
-	z-index: 999;
+	top: 130px;
+	z-index: 9;
 	cursor: pointer;
 	padding: 0;
 }
 
-.partner-prev:hover, .partner-next:hover{
+.partner-prev:hover, .partner-next:hover, .case-prev:hover, .case-next:hover{
 	width: 4.25rem;
 	color: #cc0000;
 }
+
 
 .members-row {
 	position: relative;
@@ -7744,4 +7760,59 @@ body.scroll-off{
 
 .members-row .slick-dots .slick-active button {
 	background: #cc0000;
+
+.partner-prev::before, .partner-next::before, .case-prev::before, .case-next::before{
+	content: '';
+	display: block;
+	cursor: pointer;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	background: transparent;
+	height: 30px;
+	width: 50px;
+	z-index: 9;
+}
+
+
+.case-section {
+	padding: 50px 100px;
+}
+
+.case-section .max-container{
+	position: relative;
+}
+
+.case-item {
+	display: flex!important;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	flex-direction: row;
+	height: 500px;
+}
+
+.case-column {
+	width: 30%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.case-column .case-logo{
+	width: 100%;
+	height: 100%;
+}
+
+.case-column:nth-child(2){
+	background: #C6C6C6;
+}
+
+.case-column:nth-child(3){
+	background: #cc0000;
+}
+
+.case-prev, .case-next {
+	top: 50%;
+
 }

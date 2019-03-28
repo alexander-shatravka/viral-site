@@ -426,13 +426,11 @@
                 <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-PKH.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-nussbaum.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
@@ -636,240 +634,234 @@
                 </div> -->
 
         
-                <div class="section _mb-md _def-mb-lg" id="web-tech">
-<div class="max-container">
-<div class="grid _mb-def _def-mb-lg">
-
-<div class="_col-11 _md-col-7 _xl-col-7">
-<div class="reset _mb-md _def-mb-def">
-<h4 class="tech-title">ТЕХНОЛОГИИ</h4>
-</div>
-<div class="_col-9 _md-show">
-<div class="reset">
-<div class="text-b16 reset__lg">Наши специалисты внимательно следят за развитием современных технологий. Они постоянно повышают знания в этой отрасли, чтобы быть в курсе всех тенденций в мире IT.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="grid section tech">
-
-<div class="_col-11 _def-col-1 _mb-md _def-mb-none">
-<div class="title-vertical title-vertical--bot-border">
-<div class="title-vertical__inner">ОБЛАЧНЫЕ <br class="_def-show">СЕРВИСЫ</div>
-</div>
-<div class="grid grid--hspace-xl grid--def-hspace-none">
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/amazon.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/amazon.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Amazon</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/parse.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/parse.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Parse</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/wowza.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/wowza.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Wowza</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/firebase.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/firebase.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Firebase</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="_col-11 _def-col-1 _mb-md _def-mb-none">
-<div class="title-vertical title-vertical--bot-border">
-<div class="title-vertical__inner">ПЛАТЕЖНЫЕ <br class="_def-show">СИСТЕМЫ</div>
-</div>
-<div class="grid grid--hspace-xl grid--def-hspace-none">
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/payment_wall.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/payment_wall.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Payment Wall</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/privat24.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/privat24.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Privat24</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/alipay.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/alipay.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Alipay</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/paypal.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/paypal.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">PayPal</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/liqpay.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/liqpay.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Liqpay</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="_col-11 _def-col-1 _mb-md _def-mb-none">
-<div class="title-vertical title-vertical--bot-border">
-<div class="title-vertical__inner">ГЕОЛОКАЦИЯ</div>
-</div>
-<div class="grid grid--hspace-xl grid--def-hspace-none">
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/google_maps.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/google_maps.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Google Maps</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/yandex_maps.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/yandex_maps.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Yandex Maps</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/baidu_maps.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/baidu_maps.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Baidu Maps</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/here_maps.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/here_maps.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Here Maps</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/mapbox.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/mapbox.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Mapbox</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/openweathermap.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/openweathermap.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Open Weather Map</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="_col-11 _def-col-1 _mb-md _def-mb-none">
-<div class="title-vertical title-vertical--bot-border">
-<div class="title-vertical__inner">ИНТЕГРАЦИЯ С <br class="_def-show">СОЦИАЛЬНЫМИ <br class="_def-show">СЕТЯМИ</div>
-</div>
-<div class="grid grid--hspace-xl grid--def-hspace-none">
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/facebook.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/facebook.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Facebook API</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/twitter.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/twitter.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Twitter API</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/vk.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/vk.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">VK API</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/wechat.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/wechat.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Wechat API</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="_col-11 _def-col-1 _mb-md _def-mb-none">
-<div class="title-vertical title-vertical--bot-border">
-<div class="title-vertical__inner">ИНТЕГРАЦИЯ СО <br class="_def-show">СТОРОННИМИ <br class="_def-show">СЕРВИСАМИ</div>
-</div>
-<div class="grid grid--hspace-xl grid--def-hspace-none">
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/google_play_services.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/google_play_services.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Google Play Services</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
- <div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/dropbox.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/dropbox.jpg?v=1551112162" alt="" data-loaded="true">
-</div>
-<div class="logos__text">DropBox API</div>
-</div>
-</div>
-<div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
-<div class="logos">
-<div class="logos__image _def-mb-ms">
-<img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/sabre.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/sabre.jpg?v=1551112163" alt="" data-loaded="true">
-</div>
-<div class="logos__text">Sabre API</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<div class="section _mb-md _def-mb-lg" id="web-tech">
+   <div class="max-container">
+      <div class="grid _mb-def _def-mb-lg">
+         <div class="_col-11 _md-col-7 _xl-col-7">
+            <div class="reset _mb-md _def-mb-def">
+               <h4 class="tech-title">ТЕХНОЛОГИИ</h4>
+            </div>
+            <div class="_col-9 _md-show">
+               <div class="reset">
+                  <div class="text-b16 reset__lg">Наши специалисты внимательно следят за развитием современных технологий. Они постоянно повышают знания в этой отрасли, чтобы быть в курсе всех тенденций в мире IT.</div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="grid section tech">
+         <div class="_col-11 _def-col-1 _mb-md _def-mb-none">
+            <div class="title-vertical title-vertical--bot-border">
+               <div class="title-vertical__inner">ОБЛАЧНЫЕ <br class="_def-show">СЕРВИСЫ</div>
+            </div>
+            <div class="grid grid--hspace-xl grid--def-hspace-none">
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/amazon.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/amazon.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Amazon</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/parse.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/parse.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Parse</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/wowza.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/wowza.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Wowza</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/firebase.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/firebase.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Firebase</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="_col-11 _def-col-1 _mb-md _def-mb-none">
+            <div class="title-vertical title-vertical--bot-border">
+               <div class="title-vertical__inner">ПЛАТЕЖНЫЕ <br class="_def-show">СИСТЕМЫ</div>
+            </div>
+            <div class="grid grid--hspace-xl grid--def-hspace-none">
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/payment_wall.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/payment_wall.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Payment Wall</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/privat24.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/privat24.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Privat24</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/alipay.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/alipay.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Alipay</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/paypal.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/paypal.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">PayPal</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/liqpay.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/liqpay.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Liqpay</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="_col-11 _def-col-1 _mb-md _def-mb-none">
+            <div class="title-vertical title-vertical--bot-border">
+               <div class="title-vertical__inner">ГЕОЛОКАЦИЯ</div>
+            </div>
+            <div class="grid grid--hspace-xl grid--def-hspace-none">
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/google_maps.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/google_maps.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Google Maps</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/yandex_maps.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/yandex_maps.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Yandex Maps</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/baidu_maps.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/baidu_maps.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Baidu Maps</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/here_maps.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/here_maps.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Here Maps</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/mapbox.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/mapbox.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Mapbox</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/openweathermap.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/openweathermap.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Open Weather Map</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="_col-11 _def-col-1 _mb-md _def-mb-none">
+            <div class="title-vertical title-vertical--bot-border">
+               <div class="title-vertical__inner">ИНТЕГРАЦИЯ С <br class="_def-show">СОЦИАЛЬНЫМИ <br class="_def-show">СЕТЯМИ</div>
+            </div>
+            <div class="grid grid--hspace-xl grid--def-hspace-none">
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/facebook.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/facebook.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Facebook API</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/twitter.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/twitter.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Twitter API</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/vk.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/vk.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">VK API</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/wechat.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/wechat.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Wechat API</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="_col-11 _def-col-1 _mb-md _def-mb-none">
+            <div class="title-vertical title-vertical--bot-border">
+               <div class="title-vertical__inner">ИНТЕГРАЦИЯ СО <br class="_def-show">СТОРОННИМИ <br class="_def-show">СЕРВИСАМИ</div>
+            </div>
+            <div class="grid grid--hspace-xl grid--def-hspace-none">
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/google_play_services.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/google_play_services.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Google Play Services</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/dropbox.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/dropbox.jpg?v=1551112162" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">DropBox API</div>
+                  </div>
+               </div>
+               <div class="_col-3 _ms-col-2 _def-col-12 _pb-md _def-pb-sm _def-pt-md">
+                  <div class="logos">
+                     <div class="logos__image _def-mb-ms">
+                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/sabre.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/sabre.jpg?v=1551112163" alt="" data-loaded="true">
+                     </div>
+                     <div class="logos__text">Sabre API</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
 </div>
 
           
@@ -930,6 +922,37 @@
                     <source src="video/video.webm" type="video/webm">
                     Your browser does not support the video tag. I suggest you upgrade your browser.
                 </video>
+            </div>
+        </section>
+
+        <section class="case-section">
+            <div class="max-container">
+                <h4 class="tech-title">КЕЙСЫ</h4>
+                <div class="services-more__container case-prev">
+                    <div class="services-more__arrow1 arrow1"></div>
+                    <div class="services-more__arrow2 arrow2"></div>
+                </div>
+                <div class="case-slider">
+                    <div class="case-item">
+                        <div class="case-column"><img class="case-logo" src="images/Portfolio-1page/B4Y-390-292-с.png" alt=""></div>
+                        <div class="case-column"><img src="" alt=""></div>
+                        <div class="case-column"><img src="" alt=""></div>
+                    </div>
+                    <div class="case-item">
+                        <div class="case-column"><img class="case-logo" src="images/Portfolio-1page/СY-780-292-c.png" alt=""></div>
+                        <div class="case-column"><img src="" alt=""></div>
+                        <div class="case-column"><img src="" alt=""></div>
+                    </div>
+                    <div class="case-item">
+                        <div class="case-column"><img src="" alt=""></div>
+                        <div class="case-column"><img src="" alt=""></div>
+                        <div class="case-column"><img src="" alt=""></div>
+                    </div>
+                </div>
+                <div class="services-more__container case-next">
+                    <div class="services-more__arrow1 arrow1"></div>
+                    <div class="services-more__arrow2 arrow2"></div>
+                </div>
             </div>
         </section>
     <!-- </div> -->
