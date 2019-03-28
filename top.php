@@ -38,6 +38,9 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- for services pages -->
 	<link rel="stylesheet" href="css/old-style.css">
+	<!-- for blogs pages -->
+	<!-- <link rel="stylesheet" href="css/theme.css"> -->
+
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="style.css">
 	<!-- include the site fonts stylesheet -->
