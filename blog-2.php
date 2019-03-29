@@ -25,8 +25,8 @@
                                     <img src="images/blog/1.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">Какая часть бюджета тратится в пустую?</a></h2>
+                                    <a class="lbid_date">28 мар</a>
+                                    <h2><a href="articles/budget">Какая часть бюджета тратится в пустую?</a></h2>
                                     <a class="learnM" href="articles/budget">Подробнее</a>
                                 </div>
                             </div>
@@ -37,8 +37,8 @@
                                     <img src="images/blog/2.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">НЕКЛАССИЧЕСКИЙ SMM: КАК ПРОДВИГАТЬ СООБЩЕСТВА</a></h2>
+                                    <a class="lbid_date">28 мар</a>
+                                    <h2><a href="articles/Non-classical-SMM">НЕКЛАССИЧЕСКИЙ SMM: КАК ПРОДВИГАТЬ СООБЩЕСТВА</a></h2>
                                     <a class="learnM" href="articles/Non-classical-SMM">Подробнее</a>
                                 </div>
                             </div>
@@ -49,8 +49,8 @@
                                     <img src="images/blog/3.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">МАКСИМАЛЬНОЕ ПРИСУТСТВИЕ В ЖИЗНИ ЦЕЛЕВОЙ АУДИТОРИИ</a></h2>
+                                    <a class="lbid_date">28 мар</a>
+                                    <h2><a href="articles/presence">МАКСИМАЛЬНОЕ ПРИСУТСТВИЕ В ЖИЗНИ ЦЕЛЕВОЙ АУДИТОРИИ</a></h2>
                                     <a class="learnM" href="articles/presence">Подробнее</a>
                                 </div>
                             </div>
@@ -61,8 +61,8 @@
                                     <img src="images/blog/4.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">КАК УВЕЛИЧИТЬ ОХВАТ ПОСТОВ В ФЕЙСБУКЕ</a></h2>
+                                    <a class="lbid_date">28 мар</a>
+                                    <h2><a href="articles/facebook-for-mobile-game">КАК УВЕЛИЧИТЬ ОХВАТ ПОСТОВ В ФЕЙСБУКЕ</a></h2>
                                     <a class="learnM" href="articles/facebook-for-mobile-game">Подробнее</a>
                                 </div>
                             </div>
@@ -73,8 +73,8 @@
                                     <img src="images/blog/5.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">КАК SAAS-КОМПАНИЯМ РАБОТАТЬ С КЛИЕНТАМИ</a></h2>
+                                    <a class="lbid_date">28 мар</a>
+                                    <h2><a href="articles/SaaS-companies">КАК SAAS-КОМПАНИЯМ РАБОТАТЬ С КЛИЕНТАМИ</a></h2>
                                     <a class="learnM" href="articles/SaaS-companies">Подробнее</a>
                                 </div>
                             </div>
