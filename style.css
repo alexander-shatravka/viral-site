@@ -3290,7 +3290,7 @@ body.scroll-off{
 	z-index: 9;
 }
 #shadow-bg.enable{
-	display: block;
+	display: block;	
 }
 
 .order-form-wrapper{
@@ -4688,12 +4688,6 @@ body.scroll-off{
 	width: 66.66%;
 }
 
-.masonry-holder .masonry li .img img {
-	display: block;
-	width: 100%;
-	height: auto;
-}
-
 .masonry-holder .masonry a {
 	text-decoration: none;
 }
@@ -6005,6 +5999,7 @@ body.scroll-off{
 
 .description-block .row h2 {
 	width: 35%;
+	padding-right: 50px;
 }
 
 .description-block .row .text{
@@ -6602,7 +6597,7 @@ body.scroll-off{
 	transition: color 0.3s;
 	cursor: pointer;
 	text-decoration: none;
-	z-index: 99;
+	z-index: 51;
 	position: relative;
 	font-size: 24px;
 	/* width: 100%; */
@@ -6794,6 +6789,27 @@ body.scroll-off{
 	border: none;
 	width: 100%;
 	cursor: pointer;
+}
+
+.portfolio .item .img {
+	position: relative;
+}
+
+.portfolio .item .img:after {
+	width: 100%;
+	content: '';
+	display: block;
+	position: absolute;
+	left: 50%;
+	bottom: 100px;
+	height: 50px;
+	z-index: 99;
+	background: transparent;
+	transform: translateX(-50%);
+	border-radius: 50%;
+	-webkit-box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
+box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 }
 
 .item > a::before {
@@ -7292,6 +7308,7 @@ body.scroll-off{
 .sidebar .widget {
 	position: relative;
 	margin-bottom: 30px;
+	padding-left: 16%;
 }
 
 .sidebar .widget_title {
@@ -8600,12 +8617,23 @@ textarea.input-form:focus{
 }
 
 /* portfolio page */
-
-.portfolio .item.coll3{
-	height: 250px;
+.portfolio .item .img{
+	position: relative;
 }
 
-.portfolio .item.coll3 .img{
-	height: 100%;
+.portfolio .item .img{
+	height: 365px;
+	width: 365px;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	background: #e5e5e5;
 }
+
+.portfolio .item .img img{
+	height: auto;
+	width: 200px;
+}
+
 
