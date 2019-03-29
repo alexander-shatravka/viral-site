@@ -25,9 +25,9 @@
                                     <img src="images/blog/1.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">6 ошибок юзабилити сайта</a></h2>
-                                    <a class="learnM" href="articles/usability-bugs">Подробнее</a>
+                                    <a href="#" class="lbid_date">28 мар</a>
+                                    <h2><a href="blog_single.html">Какая часть бюджета тратится в пустую?</a></h2>
+                                    <a class="learnM" href="articles/budget">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -37,9 +37,9 @@
                                     <img src="images/blog/2.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">Видеореклама в сети Интернет</a></h2>
-                                    <a class="learnM" href="articles/video-advertising">Подробнее</a>
+                                    <a href="#" class="lbid_date">28 мар</a>
+                                    <h2><a href="blog_single.html">НЕКЛАССИЧЕСКИЙ SMM: КАК ПРОДВИГАТЬ СООБЩЕСТВА</a></h2>
+                                    <a class="learnM" href="articles/Non-classical-SMM">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -49,9 +49,9 @@
                                     <img src="images/blog/3.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">Разработка сайта в веб-студии</a></h2>
-                                    <a class="learnM" href="articles/site-development">Подробнее</a>
+                                    <a href="#" class="lbid_date">28 мар</a>
+                                    <h2><a href="blog_single.html">МАКСИМАЛЬНОЕ ПРИСУТСТВИЕ В ЖИЗНИ ЦЕЛЕВОЙ АУДИТОРИИ</a></h2>
+                                    <a class="learnM" href="articles/presence">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -61,9 +61,9 @@
                                     <img src="images/blog/4.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">Преимущества интернет-маркетинга</a></h2>
-                                    <a class="learnM" href="articles/internet-marketing">Подробнее</a>
+                                    <a href="#" class="lbid_date">28 мар</a>
+                                    <h2><a href="blog_single.html">КАК УВЕЛИЧИТЬ ОХВАТ ПОСТОВ В ФЕЙСБУКЕ</a></h2>
+                                    <a class="learnM" href="articles/facebook-for-mobile-game">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -74,20 +74,8 @@
                                 </div>
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">МЕТОДИКА ПОСТРОЕНИЯ РЕКЛАМНЫХ СООБЩЕНИЙ</a></h2>
-                                    <a class="learnM" href="articles/advertising-messages">Подробнее</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-sm-12 col-md-6">
-                            <div class="latestBlogItem">
-                                <div class="lbi_thumb">
-                                    <img src="images/blog/6.jpg" alt="">
-                                </div>
-                                <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">3 ОШИБКИ, КОТОРЫЕ УНИЧТОЖАЮТ РЕКЛАМУ</a></h2>
-                                    <a class="learnM" href="articles/three-mistakes">Подробнее</a>
+                                    <h2><a href="blog_single.html">КАК SAAS-КОМПАНИЯМ РАБОТАТЬ С КЛИЕНТАМИ</a></h2>
+                                    <a class="learnM" href="articles/SaaS-companies">Подробнее</a>
                                 </div>
                             </div>
                         </div>
@@ -96,8 +84,8 @@
                         <div class="col-lg-12">
                             <div class="meipaly_paginations text-center">
                                 <a class="prev" href="#"><i class="fa fa-angle-left"></i></a>
-                                <span class="current">01</span>
-                                <a href="blog-2">02</a>
+                                <a href="blog">01</a>
+                                <span class="current">02</span>
                                 <a class="next" href="#"><i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>

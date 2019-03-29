@@ -32,10 +32,15 @@
 	<link rel="stylesheet" href="../css/animate.css">
 	<!-- include the site bootstrap stylesheet -->
 	<link rel="stylesheet" href="../css/bootstrap.css">
+
+	<link rel="stylesheet" href="../css/helpers.css">
 	<!-- include the font awesome stylesheet -->
 	<link rel="stylesheet" href="../css/font-awesome.min.css">
 	<!-- for services pages -->
 	<link rel="stylesheet" href="../css/old-style.css">
+	<!-- for blogs pages -->
+	<!-- <link rel="stylesheet" href="../css/theme.css"> -->
+
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="../style.css">
 	<!-- include the site fonts stylesheet -->
@@ -118,9 +123,9 @@
 								<li class="dropdown">
 									<a  class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Услуги <span class="caret"></span></a>
 									 <ul class="dropdown-menu custom-dropdown">
-										<li><a href="marketing">Маркетинг</a></li>
-										<li><a href="design">Дизайн</a></li>
-										<li><a href="development">Разработка</a></li>
+										<li><a href="../marketing">Маркетинг</a></li>
+										<li><a href="../design">Дизайн</a></li>
+										<li><a href="../development">Разработка</a></li>
 									 </ul>
 								</li>
 								<li class="dropdown">
@@ -190,14 +195,13 @@
 						</div><!-- /.container-fluid -->
 					</nav>
 					<div class="search-area">
-						<div class="search-box">
+						<!-- <div class="search-box">
 							<a class="search" href="#"><i class="icon-search"><span>search</span></i></a>
 							<input type="search" placeholder="Search">
-						</div>
+						</div> -->
 						<a href="#" class="mail"><i class="icon-mail"><span>mail</span></i></a>
-						<a href="#" class="btn-contact">Связаться с нами</a>
+						<a href="#" class="btn-contact"><span>Связаться с нами</span></a>
 					</div>
 				</div>
 			</div>
 		</header>
-		

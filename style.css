@@ -8406,9 +8406,9 @@ textarea.input-form:focus{
 /*----------------------------------------------------
 / 12. Blog Section
 ------------------------------------------------------*/
-.blog{
+/* .blog{
 	padding-bottom: 60px;
-}
+} */
 .latestBlogItem{
 	position: relative;
 	background: #fff;
@@ -8492,6 +8492,7 @@ textarea.input-form:focus{
 }
 .lbi_details .learnM:hover{
 	color: #cc0000;
+
 }
 
 .case-section {
@@ -8600,6 +8601,30 @@ textarea.input-form:focus{
 	border-right: 1px solid #fff;
 }
 
+/* .blog_details img {
+	display: block !important;
+} */
+.copyright a {
+ color: #cc0000c0;
+}
+
+.copyright a:hover,
+.copyright a:focus,
+.copyright a:active {
+	color: #cc0000;
+}
+
+.mpw_item {
+	padding-left: 0;
+}
+
+.blog_details {
+	text-align: center;
+}
+
+.blog_details :not(img) {
+	text-align: left;
+}
 
 .service-technologies .technologies-container {
 	display: flex;
@@ -8635,5 +8660,3 @@ textarea.input-form:focus{
 	height: auto;
 	width: 200px;
 }
-
-
