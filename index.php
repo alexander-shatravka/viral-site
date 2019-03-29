@@ -61,11 +61,11 @@
                     </ul>
                 </div>
             </div>
-            <div class="main-video-holder">
+            <!-- <div class="main-video-holder">
                 <video  preload="auto" autoplay="true" loop="true" muted="muted">
                     <source src="video/main-video.mp4">
                 </video>
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- <div class="max-container"> -->
