@@ -25,8 +25,8 @@
                                     <img src="images/blog/1.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">6 ошибок юзабилити сайта</a></h2>
+                                    <a class="lbid_date">29 мар</a>
+                                    <h2><a href="articles/usability-bugs">6 ошибок юзабилити сайта</a></h2>
                                     <a class="learnM" href="articles/usability-bugs">Подробнее</a>
                                 </div>
                             </div>
@@ -37,8 +37,8 @@
                                     <img src="images/blog/2.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">Видеореклама в сети Интернет</a></h2>
+                                    <a class="lbid_date">29 мар</a>
+                                    <h2><a href="articles/video-advertising">Видеореклама в сети Интернет</a></h2>
                                     <a class="learnM" href="articles/video-advertising">Подробнее</a>
                                 </div>
                             </div>
@@ -49,8 +49,8 @@
                                     <img src="images/blog/3.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">Разработка сайта в веб-студии</a></h2>
+                                    <a class="lbid_date">29 мар</a>
+                                    <h2><a href="articles/site-development">Разработка сайта в веб-студии</a></h2>
                                     <a class="learnM" href="articles/site-development">Подробнее</a>
                                 </div>
                             </div>
@@ -61,8 +61,8 @@
                                     <img src="images/blog/4.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">29 мар</a>
-                                    <h2><a href="blog_single.html">Преимущества интернет-маркетинга</a></h2>
+                                    <a class="lbid_date">29 мар</a>
+                                    <h2><a href="articles/internet-marketing">Преимущества интернет-маркетинга</a></h2>
                                     <a class="learnM" href="articles/internet-marketing">Подробнее</a>
                                 </div>
                             </div>
@@ -73,8 +73,8 @@
                                     <img src="images/blog/5.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">МЕТОДИКА ПОСТРОЕНИЯ РЕКЛАМНЫХ СООБЩЕНИЙ</a></h2>
+                                    <a class="lbid_date">28 мар</a>
+                                    <h2><a href="articles/advertising-messages">МЕТОДИКА ПОСТРОЕНИЯ РЕКЛАМНЫХ СООБЩЕНИЙ</a></h2>
                                     <a class="learnM" href="articles/advertising-messages">Подробнее</a>
                                 </div>
                             </div>
@@ -85,8 +85,8 @@
                                     <img src="images/blog/6.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
-                                    <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">3 ОШИБКИ, КОТОРЫЕ УНИЧТОЖАЮТ РЕКЛАМУ</a></h2>
+                                    <a class="lbid_date">28 мар</a>
+                                    <h2><a href="articles/three-mistakes">3 ОШИБКИ, КОТОРЫЕ УНИЧТОЖАЮТ РЕКЛАМУ</a></h2>
                                     <a class="learnM" href="articles/three-mistakes">Подробнее</a>
                                 </div>
                             </div>
