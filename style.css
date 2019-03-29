@@ -1566,7 +1566,7 @@ a:focus {
 	right: 0;
 	top: 0;
 	height: auto;
-	width: 1100px;
+	width: 60%;
 }
 .main-video-holder video{
 	height: calc(100vh - 180px)!important;
