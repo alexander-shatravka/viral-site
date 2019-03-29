@@ -1578,7 +1578,7 @@ a:focus {
 }
 
 .visual .slide .image img{
-	height: calc(100vh - 220px)!important;
+	height: calc(100vh - 200px)!important;
 	opacity: 1;
 	z-index: 3;
 }
@@ -1662,7 +1662,7 @@ a:focus {
 }
 
 .visual .slide .image {
-	width: 54.8%;
+	width: 52.8%;
 	opacity: 1;
 	-ms-transform: scale(0); /* IE 9 */
 	-webkit-transform: scale(0); /* Safari */
@@ -1873,7 +1873,7 @@ h2.tild, span.num  {
 }
 
 .info.team .img-frame {
-	width: 54.8%;
+	width: 53%;
 	vertical-align: top;
 }
 
@@ -6586,7 +6586,7 @@ body.scroll-off{
 	position: relative;
 	background: #cc0000;
 	overflow:hidden;
-	margin: 80px 0;
+	margin:0 0  80px 0;
 }
 
 .ready_2.black {
