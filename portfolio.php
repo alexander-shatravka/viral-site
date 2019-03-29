@@ -28,14 +28,14 @@
                     <!-- masonry -->
                     <ul class="porfolio masonry" id="masonry-container">
                         <li class="item work-w work-p work-a coll3">
-                            <div class="holder">
+                            <a href="portfolio-arigato" class="holder">
                                 <div class="img">
                                     <img alt="image description" src="http://placehold.it/365x270">
                                 </div>
                                 <div class="work-text">
                                     <span class="category-title">Design <h3 class="work-title">Argiato</h3></span>
                                 </div>
-                            </div>
+                            </a>
                         </li>
                         <li class="item work-i work-w work-a coll3">
                             <div class="holder">
@@ -43,7 +43,7 @@
                                     <img alt="image description" src="http://placehold.it/365x270">
                                 </div>
                                 <div class="work-text">
-                                    <span class="category-title">Design <h3 class="work-title">Argiato</h3></span>
+                                    <span class="category-title">Marketing <h3 class="work-title">Cashyou</h3></span>
                                 </div>
                             </div>
                         </li>
@@ -53,7 +53,7 @@
                                     <img alt="image description" src="http://placehold.it/365x270">
                                 </div>
                                 <div class="work-text">
-                                    <span class="category-title">Design <h3 class="work-title">Argiato</h3></span>
+                                    <span class="category-title">Development <h3 class="work-title">Bus4you</h3></span>
                                 </div>
                             </div>
                         </li>

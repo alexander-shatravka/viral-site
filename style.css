@@ -6891,7 +6891,7 @@ body.scroll-off{
 }
 
 .item:hover .img {
-	transform: rotate(5deg) scale(1.2);
+	transform: scale(1.2);
 }
 
 .item span h3{

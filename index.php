@@ -138,7 +138,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="service-technologies">
+                    <!-- <div class="service-technologies">
                         <h4 class="tech-title">ТЕХНОЛОГИИ</h4>
                         
                         <div class="technologies-container">
@@ -175,7 +175,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div id="Design" class="col-lg-8 col-sm-8">
@@ -307,7 +307,7 @@
                 </div>
             </div>
     </section>
-    <!-- <div class="widget categories">
+    <div class="widget categories">
         <div class="meipaly_services_help">
             <div class="max-container">
                 <h4>need meipaly help?</h4>
@@ -315,7 +315,7 @@
                 <h2>666 888 000</h2>
             </div>
         </div>
-    </div> -->
+    </div>
         <!-- info holder -->
         <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
