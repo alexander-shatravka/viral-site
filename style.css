@@ -1567,11 +1567,15 @@ a:focus {
 	top: 0;
 	height: auto;
 	width: 60%;
+	z-index: -1;
 }
 .main-video-holder video{
 	height: calc(100vh - 180px)!important;
 }
 
+.visual .slide .image {
+	z-index: 8;
+}
 
 .visual .slide .image img{
 	height: calc(100vh - 220px)!important;
@@ -1611,6 +1615,7 @@ a:focus {
 
 .visual .slide.slick-active .image {
 	/* height: ; */
+	z-index: -1;
 }
 
 .visual .slide.slick-active .box {
@@ -1620,6 +1625,13 @@ a:focus {
 	transform: rotate(0) translateX(0);
 	-webkit-transition: all .8s ease 1s;
 	transition: all .8s ease 1s;
+	z-index: 9;
+	position: absolute;
+}
+
+.visual .slide.slick-active .caption  {
+	z-index: 10;
+	position: relative;
 }
 
 .visual .slide.slick-active .caption h1 {
@@ -1674,7 +1686,7 @@ a:focus {
 .visual .slide .caption .text {
 	/* max-width: 80%;
 	padding: 0 0 0 100px; */
-	margin: 0;
+	margin: 0 0 0 16%;
 }
 
 .visual .slide .caption .txt {
@@ -1695,8 +1707,8 @@ a:focus {
 	margin: 0;
 	font-weight: 700;
 	text-transform: uppercase;
-	font-size: 80px;
-	line-height: 80px;
+	font-size: 60px;
+	line-height: 60px;
 	opacity: 0;
 	-ms-transform: translateY(50px); /* IE 9 */
 	-webkit-transform: translateY(50px); /* Safari */
