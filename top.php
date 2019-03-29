@@ -129,7 +129,7 @@
 									 </ul>
 								</li>
 								<li class="dropdown">
-									<a href="/portfolio" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Портфолио <!--<span class="caret"></span>--></a>
+									<a href="portfolio" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Портфолио <!--<span class="caret"></span>--></a>
 									 <!-- <ul class="dropdown-menu">
 										<li><a href="portfolio.html">Portfolio Free Style</a></li>
 										<li><a href="portfolio-grid.html">Portfolio 1 Column</a></li>

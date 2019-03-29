@@ -4588,7 +4588,7 @@ body.scroll-off{
 }
 
 .masonry-holder .links {
-	padding: 0 0 56px;
+	padding: 56px 0;
 }
 
 .masonry-holder .links li {
@@ -6697,6 +6697,7 @@ body.scroll-off{
 	display: block;
 	width: 25%;
 	float: left;
+	position: relative;
 }
 
 @media (max-width: 767px) {
@@ -6841,23 +6842,66 @@ body.scroll-off{
 	opacity: 1;
 }
 
+.item .work-txt {
+	width: 100%;
+	text-align: left;
+}
+
 .item span {
 	position: absolute;
-	bottom: -20px;
-	left: 0;
+	bottom: -100px;
+	left: 30px;
 	margin: 0;
 	width: 100%;
-	text-align: center;
-	text-transform: uppercase;
+	text-align: left;
 	opacity: 1;
 	font-family: 'familiar_probold', sans-serif;
 	text-transform: uppercase;
-	font-size: 20px;
-	line-height: 1em;
+	font-size: 14px;
+	/* line-height: 1em; */
 	color: #fff;
+	z-index: 3;
 
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
+	cursor: pointer;
+}
+
+
+.item .holder:before {
+	position: absolute;
+	left: 0;
+	top: 0;
+	content: '';
+	display: block;
+	width: 0;
+	height: 100%;
+	background: rgba(250, 0, 0, 0.5);
+	transition: width 0.5s ease-in-out;
+	z-index: 2;
+	cursor: pointer;
+}
+
+.item:hover .holder:before {
+	width: 100%;
+}
+
+.item .img {
+	transition: transform 0.5s;
+}
+
+.item:hover .img {
+	transform: rotate(5deg) scale(1.2);
+}
+
+.item span h3{
+	margin-top: 5px;
+	font-size: 24px;
+	transition: color 0.5s ease-in-out;
+}
+
+.item h3:hover{
+	color: #000;
 }
 
 @media (max-width: 800px) and (min-width: 320px) {
@@ -6871,8 +6915,9 @@ body.scroll-off{
 }
 
 .item:hover span {
-	-webkit-animation: animation_jump_over 1200ms linear both;
-	animation: animation_jump_over 1200ms linear both;
+	bottom: -50px;
+	-webkit-animation: animation_jump_over 2200ms linear both;
+	animation: animation_jump_over 2200ms linear both;
 	opacity: 1;
 }
 
@@ -6983,9 +7028,8 @@ body.scroll-off{
 
 .pageBanner {
 	position: relative;
-	min-height: 465px;
 	background: url(images/8.jpg) no-repeat center center / cover;
-	padding-top: 224px;
+	padding: 150px;
 }
 
 .text-center {
@@ -8467,3 +8511,30 @@ textarea.input-form:focus{
 .case-prev{
 	border-right: 1px solid #fff;
 }
+
+
+.service-technologies .technologies-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	align-content: center;
+	position: relative;
+}
+
+.service-technologies  .tech-title {
+	position: absolute;
+	left: -100%;
+	max-width: 300px;
+}
+
+/* portfolio page */
+
+.portfolio .item.coll3{
+	height: 250px;
+}
+
+.portfolio .item.coll3 .img{
+	height: 100%;
+}
+

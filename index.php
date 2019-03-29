@@ -138,6 +138,44 @@
                             </ul>
                         </div>
                     </div>
+                    <div class="service-technologies">
+                        <h4 class="tech-title">ТЕХНОЛОГИИ</h4>
+                        
+                        <div class="technologies-container">
+                            <div class="">
+                                <div class="logos">
+                                    <div class="logos__image _def-mb-ms">
+                                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/amazon.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/amazon.jpg?v=1551112162" alt="" data-loaded="true">
+                                    </div>
+                                    <div class="logos__text">Amazon</div>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="logos">
+                                    <div class="logos__image _def-mb-ms">
+                                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/parse.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/parse.jpg?v=1551112163" alt="" data-loaded="true">
+                                    </div>
+                                    <div class="logos__text">Parse</div>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="logos">
+                                    <div class="logos__image _def-mb-ms">
+                                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/wowza.jpg?v=1551112163" data-src="//wezom.com.ua/Media/assets/images/tech/wowza.jpg?v=1551112163" alt="" data-loaded="true">
+                                    </div>
+                                    <div class="logos__text">Wowza</div>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="logos">
+                                    <div class="logos__image _def-mb-ms">
+                                        <img class="lozad is-ready" src="//wezom.com.ua/Media/assets/images/tech/firebase.jpg?v=1551112162" data-src="//wezom.com.ua/Media/assets/images/tech/firebase.jpg?v=1551112162" alt="" data-loaded="true">
+                                    </div>
+                                    <div class="logos__text">Firebase</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <div id="Design" class="col-lg-8 col-sm-8">
