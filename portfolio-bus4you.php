@@ -1,14 +1,46 @@
 <?php include 'top.php';?>
 <main id="main" role="main">
-    <div class="container">
+<div class="container">
         <div class="description-block">
             <div class="row wow fadeInRight" data-wow-delay="0.2s" >
-                <h2>Title</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis </p>
+                <h2>Задача</h2>
+                <div class="text">
+                    <p><span style="font-weight: 400;">К нам обратился клиент, занимающийся регулярными пассажирскими перевозками из Харькова в Москву и обратно, с целью увеличить количество клиентов и, соответственно, продаж. То есть нам нужно было:</span></p>
+                    <ul>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Разработать логотип, создать сайт с удобным функционалом для пользователей</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Обеспечить ресурсу качественное отображение на любых устройствах &mdash; как десктопах, так и планшетах, смартфонах, с помощью адаптивной верстки</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Привлечь целевую аудиторию на сайт</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Увеличить конверсию</span></li>
+                    </ul>
+                    <p>&nbsp;</p>
+                    <p><span style="font-weight: 400;">До обращения к нам у клиента продажи совершались в телефонном режиме.</span></p>
+                    <p><span style="font-weight: 400;">К нам обратился клиент, занимающийся регулярными пассажирскими перевозками из Харькова в Москву и обратно, с целью увеличить количество клиентов и, соответственно, продаж. То есть нам нужно было:</span></p>
+                    <ul>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Разработать логотип, создать сайт с удобным функционалом для пользователей</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Обеспечить ресурсу качественное отображение на любых устройствах &mdash; как десктопах, так и планшетах, смартфонах, с помощью адаптивной верстки</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Привлечь целевую аудиторию на сайт</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Увеличить конверсию</span></li>
+                    </ul>
+                    <p>&nbsp;</p>
+                    <p><span style="font-weight: 400;">До обращения к нам у клиента продажи совершались в телефонном режиме.</span></p>
+                </div>
             </div>
             <div class="row wow fadeInLeft" data-wow-delay="0.2s" >
-                <h2>Very long title</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque </p>
+                <h2>Решение</h2>
+                <div class="text">
+                    <p><span style="font-weight: 400;">Мы сделали подробный анализ рынка, определили основных конкурентов. Проанализировали целевую аудиторию и конкурентов. Пришли к выводу, что большинство конкурентов получают лиды за счет поисковой оптимизации и поисковой рекламы в Яндекс и Гугл. </span></p>
+                    <h3><span style="font-weight: 400;">Сбор семантического ядра и разработка карты релевантности</span></h3>
+                    <p><span style="font-weight: 400;">Итак, еще на этапе составления технического задания сайта мы:</span></p>
+                    <ul>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Разработали семантическое ядро проекта</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Составили структуру сайта</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Перераспределили семантику по страницам сайта</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Составили техническое задание для страниц</span></li>
+                    <li style="font-weight: 400;"><span style="font-weight: 400;">Составили список seo-требований для программиста</span></li>
+                    </ul>
+                    <p>&nbsp;</p>
+                    <p><span style="font-weight: 400;">Весь этот процесс занял у нас немного времени, т.к. семантика оказалась не очень большая. В итоге, было собрано около 30-ти запросов.</span></p>
+                </div>
             </div>
         </div>
     </div>
@@ -22,18 +54,6 @@
             <img src="images/arigato-work-thin-1.png" alt="">
             <img src="images/arigato-work-thin-2.png" alt="">
             <img src="images/arigato-work-thin-3.png" alt="">
-        </div>
-    </div>
-    <div class="container">
-        <div class="description-block">	
-            <div class="row wow fadeInRight" data-wow-delay="0.2s" >
-                <h2>Title</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis </p>
-            </div>
-            <div class="row wow fadeInLeft" data-wow-delay="0.2s" >
-                <h2>Very long title</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque </p>
-            </div>
         </div>
     </div>
     </div>

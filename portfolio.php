@@ -1,171 +1,111 @@
 <?php include 'top.php';?>
 <main id="main" role="main">
+    <section class="pageBanner">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="banner_content text-center">
+                        <h4><a href="#">home</a> - Portfolio</h4>
+                        <h2>НАШИ РАБОТЫ</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
                 <!-- masonry-holder -->
                 <div class="masonry-holder">
                     <ul class="links filter">
-                        <!-- <li class="active"><a href="#">All</a></li> -->
-                        <li class="active"><a href="#" data-filter=".work-p">Photography</a></li>
-                        <li><a href="#" data-filter=".work-b">Branding</a></li>
-                        <li><a href="#" data-filter=".work-w">Web DesignMotion</a></li>
-                        <li><a href="#" data-filter=".work-m">Graphic</a></li>
-                        <li><a href="#" data-filter=".work-i">Illustration</a></li>
+                        <li class="active"><a href="#">Все работы</a></li>
+                        <li><a href="#" data-filter=".work-p">Дизайн</a></li>
+                        <li><a href="#" data-filter=".work-b">Маркетинг</a></li>
+                        <li><a href="#" data-filter=".work-w">Разработка</a></li>
+                        <li><a href="#" data-filter=".work-m">Фото Видео</a></li>
+                        <!-- <li><a href="#" data-filter=".work-i"></a></li> -->
                     </ul>
                     <!-- masonry -->
-                    <ul class="masonry" id="masonry-container">
+                    <ul class="portfolio masonry" id="masonry-container">
                         <li class="item work-w work-p work-a coll3">
-                            <div class="holder">
+                            <a href="portfolio-arigato" class="holder">
                                 <div class="img">
-                                    <img alt="image description" src="http://placehold.it/365x270">
+                                    <img alt="image description" src="images/cases-logo/arigato-logo.png">
                                 </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                <div class="work-text">
+                                    <span class="category-title">Design <h3 class="work-title">Argiato</h3></span>
                                 </div>
-                            </div>
+                            </a>
                         </li>
-                        <li class="item work-i work-w work-a onethird">
-                            <div class="holder">
+                        <li class="item work-i work-w work-a coll3">
+                            <a href="portfolio-cashyou" class="holder">
                                 <div class="img">
-                                    <img alt="image description" src="http://placehold.it/760x580">
+                                    <img alt="image description" src="images/cases-logo/CY-logo.png">
                                 </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                <div class="work-text">
+                                    <span class="category-title">Marketing <h3 class="work-title">Cashyou</h3></span>
                                 </div>
-                            </div>
+                            </a>
                         </li>
                         <li class="item work-m work-p work-a coll3">	
-                            <div class="holder">
+                            <a href="portfolio-bus4you" class="holder">
                                 <div class="img">
-                                    <img alt="image description" src="http://placehold.it/365x270">
+                                    <img alt="image description" src="images/cases-logo/B4Y-logo.png">
                                 </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                <div class="work-text">
+                                    <span class="category-title">Development <h3 class="work-title">Bus4you</h3></span>
                                 </div>
-                            </div>
+                            </a>
                         </li>
-                        <li class="item work-i work-b work-a onethird">
-                            <div class="holder">
+                        <li class="item work-i work-b work-a coll3">
+                            <a href="portfolio-arigato" class="holder">
                                 <div class="img">
-                                    <img alt="image description" src="http://placehold.it/760x270">
+                                    <img alt="image description" src="images/cases-logo/CG-logo.png">
                                 </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                <div class="work-text">
+                                    <span class="category-title">Development<h3 class="work-title">Credit Garant</h3></span>
                                 </div>
-                            </div>
+                            </a>
                         </li>
                         <li class="item work-m work-p work-a coll3">
                             <div class="holder">
                                 <div class="img">
-                                    <img alt="image description" src="http://placehold.it/365x270">
+                                    <img alt="image description" src="images/cases-logo/cave-logo.png">
                                 </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                <div class="work-text">
+                                    <span class="category-title">Design <h3 class="work-title">The Cave</h3></span>
                                 </div>
                             </div>
                         </li>
                         <li class="item work-i work-b work-a coll3">
-                            <div class="holder">
+                            <a href="portfolio-arigato" class="holder"> 
+                                <div class="img">
+                                    <img alt="image description" src="images/cases-logo/mechanism-logo.png">
+                                </div>
+                                <div class="work-text">
+                                    <span class="category-title">Development <h3 class="work-title">Mechanism</h3></span>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="item work-i work-b work-a coll3">	
+                            <a href="portfolio-arigato" class="holder">
                                 <div class="img">
                                     <img alt="image description" src="http://placehold.it/365x270">
                                 </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                <div class="work-text">
+                                    <span class="category-title">Design <h3 class="work-title">Argiato</h3></span>
                                 </div>
-                            </div>
-                        </li>
-                        <li class="item work-i work-b work-a onethird">	
-                            <div class="holder">
-                                <div class="img">
-                                    <img alt="image description" src="http://placehold.it/760x570">
-                                </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            </a>
                         </li>
                         <li class="item work-i work-b work-a coll3">
-                            <div class="holder">
+                            <a href="portfolio-arigato" class="holder">
                                 <div class="img">
                                     <img alt="image description" src="http://placehold.it/365x270">
                                 </div>
-                                <div class="caption">
-                                    <div class="c1">
-                                        <div class="c2">
-                                            <strong class="title">Amber Bottle</strong>
-                                            <p>Branding Identity</p>
-                                            <ul class="icons">
-                                                <!-- <li><a href="images/img1.jpg" class="lightbox"><i class="icon-resize-full-alt"></i> <span>resize</span></a></li> -->
-                                                <li><a href="portfolio-detail.html"><i class="icon-attach"></i> <span>attach</span></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                <div class="work-text">
+                                    <span class="category-title">Design <h3 class="work-title">Argiato</h3></span>
                                 </div>
-                            </div>
+                            </a>
                         </li>
                     </ul>
                     <a href="#" class="more">LOAD MORE</a>
