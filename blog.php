@@ -74,7 +74,7 @@
                                 </div>
                                 <div class="lbi_details">
                                     <a href="#" class="lbid_date">28 мар</a>
-                                    <h2><a href="blog_single.html">РЕДКАЯ МЕТОДИКА ПОСТРОЕНИЯ РЕКЛАМНЫХ СООБЩЕНИЙ</a></h2>
+                                    <h2><a href="blog_single.html">МЕТОДИКА ПОСТРОЕНИЯ РЕКЛАМНЫХ СООБЩЕНИЙ</a></h2>
                                     <a class="learnM" href="articles/advertising-messages">Подробнее</a>
                                 </div>
                             </div>
