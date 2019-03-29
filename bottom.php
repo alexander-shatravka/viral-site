@@ -101,9 +101,9 @@
 									
 									Какими бы ни были цели создания сайта, специалисты студии Viral обязательно вникнут в детали каждого проекта. Мы посвятим столько времени, сколько нужно, для выяснения всех задач. По итогам беседы с заказчиком мы назовем сроки выполнения заказа и приступим к разработке сайта.</p>
 								<div class="contact">
-									<address><span class="yellow">A :</span> No 40 Baria Sreet 133/2 NewYork City, <br>NY,  United States</address>
-									<span class="email"><span class="yellow">E: </span><a href="mailto:&#105;&#110;&#102;&#111;&#046;&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#105;&#110;&#102;&#111;&#046;&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a></span>
-									<span class="tel"><span class="yellow">P: </span><a href="tel:00123456789">(00) 123 456 789</a></span>
+									<address><span class="yellow">A :</span> пр. Науки 7 <br>Харьков,  Украина</address>
+									<span class="email"><span class="yellow">E: </span><a href="mailto:market@viral.com.ua">market@viral.com.ua</a></span>
+									<span class="tel"><span class="yellow">P: </span><a href="tel:+38 067 5795489">+38 067 5795489</a></span>
 								</div>
 							</div>
 							<ul class="testimonial">

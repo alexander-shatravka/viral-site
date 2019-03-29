@@ -6589,6 +6589,41 @@ body.scroll-off{
 	margin: 80px 0;
 }
 
+.ready_2.black {
+	background: #000;
+}
+
+.ready_2.black .tel{
+	color: #fff;
+	transition: color; 
+	display: block;
+	height: 100%;
+	width: 230px;
+	transition: color 0.3s;
+	cursor: pointer;
+	text-decoration: none;
+	z-index: 99;
+	position: relative;
+	font-size: 24px;
+	/* width: 100%; */
+}
+
+.ready_2.black .tel:hover{
+	color: #cc0000;
+}
+
+.ready_2.black p{
+	color: #fff;
+}
+
+.ready_2.black .common_btn.red_bg:after {
+	background: #000;
+}
+
+.ready_2.black .common_btn.red_bg:hover {
+	color: #fff;
+}
+
 .ready_2::after,
 .ready_2::before {
 	content: "";

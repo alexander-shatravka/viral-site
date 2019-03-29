@@ -139,7 +139,7 @@
 									 </ul> -->
 								</li>
 								<li class="dropdown">
-									<a href="/blog" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Блог <!--<span class="caret"></span>--></a>
+									<a href="blog" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Блог <!--<span class="caret"></span>--></a>
 									 <!-- <ul class="dropdown-menu">
 										<li>
 											<a href="blog.html">Blog Style1</a>
@@ -189,8 +189,8 @@
 										<li><a href="shortcodes4.html">Short Codes 4</a></li>
 									 </ul> 
 								</li> -->
-								<li><a href="/aboutus">О нас</a></li>
-								<li><a href="/contact">Контакты</a></li>
+								<li><a href="aboutus">О нас</a></li>
+								<li><a href="contact">Контакты</a></li>
 							</ul>
 						</div><!-- /.container-fluid -->
 					</nav>

@@ -312,15 +312,88 @@
                 </div>
             </div>
     </section>
-    <div class="widget categories">
-        <div class="meipaly_services_help">
-            <div class="max-container">
-                <h4>need meipaly help?</h4>
-                <p>Prefer speaking with a human to filling out a form? call corporate office and we will connect you with a team member who can help.</p>
-                <h2>666 888 000</h2>
+    <section class="commonSection ready_2 black meipaly_services_help">
+        <div class="max-container">
+            <div class="row">
+                <div class="col-lg-9 col-sm-8 col-md-9">
+                    <h2 class="sec_title white">Нужна помощь?</h2>
+                    <p>Предпочитаете поговорить с человеком, чтобы заполнить форму? Позвоните к нам в офис, и мы свяжем вас с членом команды, который может помочь</p>
+                    <a class="tel" href="tel:+38 067 5795489">+38 067 5795489</a>
+                </div>
             </div>
         </div>
-    </div>
+    </section>
+    <section class="case-section">
+            <div class="container">
+                <h4 class="tech-title">КЕЙСЫ</h4>
+                <div class="prev-next-block">
+                    <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
+                    <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
+                </div>
+                <div class="case-slider">
+                    <div class="case-item">
+                        <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
+                        <div class="side-text">
+                            <!-- <h3>Arigato</h3> -->
+                            <div class="singleFeature">
+                                <div class="f_count">01</div>
+                                <h3>Задача</h3>
+                                <p>
+                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">02</div>
+                                <h3>Сроки</h3>
+                                <p>
+                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">03</div>
+                                <h3>Результат</h3>
+                                <p>
+                                Порядочность - это основное наше требование к себе.
+                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="case-item">
+                        <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
+                        <div class="side-text">
+                            <!-- <h3>Cashyou</h3> -->
+                            <div class="singleFeature">
+                                <div class="f_count">01</div>
+                                <h3>Задача</h3>
+                                <p>
+                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">02</div>
+                                <h3>Сроки</h3>
+                                <p>
+                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                                </p>
+                            </div>
+                            <div class="singleFeature">
+                                <div class="f_count">03</div>
+                                <h3>Результат</h3>
+                                <p>
+                                Порядочность - это основное наше требование к себе.
+                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- info holder -->
         <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
@@ -420,7 +493,7 @@
             </div> -->
         <!-- </div> -->
     <!-- </section> -->
-    <section class="commonSection featured">
+    <!-- <section class="commonSection featured">
         <div class="max-container features-info">
             <div class="features_img">
                 <img src="images/5.jpg" alt="">
@@ -428,9 +501,9 @@
                     <h4>Total design freedom<br> for everyone.</h4>
                 </div> 
             </div>
-            <div class="features_content">
+            <div class="features_content">-->
                 <!-- <h4 class="sub_title">our core features</h4> -->
-                <h2 class="sec_title">Миссия и ценности</h2>
+                <!--<h2 class="sec_title">Миссия и ценности</h2>
                 <div class="singleFeature">
                     <div class="f_count">01</div>
                     <h3>Видение</h3>
@@ -457,7 +530,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="partners-section">
         <div class="max-container">
             <h4 class="">НАШИ ПАРТНЕРЫ</h4>
@@ -677,7 +750,7 @@
                 </div> -->
 
         
-<div class="section _mb-md _def-mb-lg" id="web-tech">
+<!-- <div class="section _mb-md _def-mb-lg" id="web-tech">
    <div class="max-container">
       <div class="grid _mb-def _def-mb-lg">
          <div class="_col-11 _md-col-7 _xl-col-7">
@@ -905,7 +978,7 @@
          </div>
       </div>
    </div>
-</div>
+</div> -->
 
           
         <section class="commonSection ready_2">
@@ -965,78 +1038,6 @@
                     <source src="video/video.webm" type="video/webm">
                     Your browser does not support the video tag. I suggest you upgrade your browser.
                 </video>
-            </div>
-        </section>
-
-        <section class="case-section">
-            <div class="container">
-                <h4 class="tech-title">КЕЙСЫ</h4>
-                <div class="prev-next-block">
-                    <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
-                    <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
-                </div>
-                <div class="case-slider">
-                    <div class="case-item">
-                        <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
-                        <div class="side-text">
-                            <!-- <h3>Arigato</h3> -->
-                            <div class="singleFeature">
-                                <div class="f_count">01</div>
-                                <h3>Задача</h3>
-                                <p>
-                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">02</div>
-                                <h3>Сроки</h3>
-                                <p>
-                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">03</div>
-                                <h3>Результат</h3>
-                                <p>
-                                Порядочность - это основное наше требование к себе.
-                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="case-item">
-                        <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
-                        <div class="side-text">
-                            <!-- <h3>Cashyou</h3> -->
-                            <div class="singleFeature">
-                                <div class="f_count">01</div>
-                                <h3>Задача</h3>
-                                <p>
-                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">02</div>
-                                <h3>Сроки</h3>
-                                <p>
-                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">03</div>
-                                <h3>Результат</h3>
-                                <p>
-                                Порядочность - это основное наше требование к себе.
-                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </section>
     <!-- </div> -->
