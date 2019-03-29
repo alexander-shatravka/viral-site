@@ -44,35 +44,35 @@
                         </div>
                         <p class="copyright">Copyright <a href="https://vc.ru/u/231463-stanislav-nalyovin">Stanislav Nalyovin</a></p>
                         <div class="blog_tagitems">
-                            <span>Tags:</span><a href="#">Business</a>, <a href="#">Agency</a>, <a href="#">Digital</a>, <a href="#">Technology</a>
+                            <span>Теги:</span><a href="#">Business</a>, <a href="#">Agency</a>, <a href="#">Digital</a>, <a href="#">Technology</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-4 sidebar">
                     <aside class="widget search-widget">
                         <form method="post" action="#" class="searchform">
-                            <input type="search" placeholder="Search here..." name="s" id="s">
+                            <input type="search" placeholder="Поиск..." name="s" id="s">
                         </form>
                     </aside>
                     <aside class="widget recent_posts">
-                        <h3 class="widget_title">Latest Posts</h3>
+                        <h3 class="widget_title">Последние статьи</h3>
                         <div class="meipaly_post_widget">
                             <div class="mpw_item">
-                                <img src="../images/blog/11.jpg" alt="">
-                                <a href="#">basic rules of running web agency</a>
+                                <!-- <img src="../images/blog/11.jpg" alt=""> -->
+                                <a href="#">6 ошибок юзабилити сайта</a>
                             </div>
                             <div class="mpw_item">
-                                <img src="../images/blog/11.jpg" alt="">
-                                <a href="#">Introducing latest mopaly features</a>
+                                <!-- <img src="../images/blog/11.jpg" alt=""> -->
+                                <a href="#">Видеореклама в сети Интернет</a>
                             </div>
                             <div class="mpw_item">
-                                <img src="../images/blog/13.jpg" alt="">
-                                <a href="#">become the best sale marketer</a>
+                                <!-- <img src="../images/blog/13.jpg" alt=""> -->
+                                <a href="#">Разработка сайта в веб-студии</a>
                             </div>
                         </div>
                     </aside>
                     <aside class="widget categories">
-                        <h3 class="widget_title">Categories</h3>
+                        <h3 class="widget_title">Категории</h3>
                         <div class="meipaly_categorie_widget">
                             <ul>
                                 <li><a href="#">Business</a></li>
@@ -85,7 +85,7 @@
                         </div>
                     </aside>
                     <aside class="widget">
-                        <h3 class="widget_title">Tags:</h3>
+                        <h3 class="widget_title">Теги:</h3>
                         <div class="meipaly_tagcloude_widget">
                             <a href="#">Business,</a> <a href="#">Agency,</a> <a href="#">Digital,</a> <a href="#">Technology,</a>
                             <a href="#">Parallax,</a> <a href="#">Innovative,</a> <a href="#">Professional,</a>

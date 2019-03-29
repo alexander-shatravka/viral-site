@@ -1,4 +1,4 @@
-		<?php include '../cookie.php';?>
+<?php include '../cookie.php';?>
 		<!-- footer of the page -->
 		<footer id="footer">
 			<div class="max-container">
@@ -123,7 +123,7 @@
 						<div class="order-form-wrapper f1">
 							<div class="wpcf7">
 								<form id='order-form-2' class="wpcf7-form f-contact-form">
-									<div class="btn-form-close"><img src="images/close-icon-dk.svg" alt=""></div>
+									<div class="btn-form-close"><img src="../images/close-icon-dk.svg" alt=""></div>
 									<h3>Мы будем рады услышать Вас</h3>
 									<div class="rows">
 										<span class="wpcf7-form-control-wrap text-field-required">
@@ -168,7 +168,7 @@
 				</div>
 			</div>
 		</footer>
-		<span id="back-top" class="fa fa-arrow-up"></span>
+		<span id="back-top" class="fa fa-angle-double-up"></span>
 	</div>
 	<script type="text/javascript">
 		if(localStorage['policy'] !== 'agree'){

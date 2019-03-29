@@ -8406,4 +8406,16 @@ textarea.input-form:focus{
 .copyright a:focus,
 .copyright a:active {
 	color: #cc0000;
- }
+}
+
+.mpw_item {
+	padding-left: 0;
+}
+
+.blog_details {
+	text-align: center;
+}
+
+.blog_details :not(img) {
+	text-align: left;
+}
