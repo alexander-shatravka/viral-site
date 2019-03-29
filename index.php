@@ -926,32 +926,37 @@
         </section>
 
         <section class="case-section">
-            <div class="max-container">
+            <div class="container">
                 <h4 class="tech-title">КЕЙСЫ</h4>
-                <div class="services-more__container case-prev">
-                    <div class="services-more__arrow1 arrow1"></div>
-                    <div class="services-more__arrow2 arrow2"></div>
+                <div class="prev-next-block">
+                    <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
+                    <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
                 </div>
                 <div class="case-slider">
                     <div class="case-item">
-                        <div class="case-column"><img class="case-logo" src="images/Portfolio-1page/B4Y-390-292-с.png" alt=""></div>
-                        <div class="case-column"><img src="" alt=""></div>
-                        <div class="case-column"><img src="" alt=""></div>
+                        <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
+                        <div class="side-text">
+                            <h3>Arigato</h3>
+                            <ul>
+                                <li>- Neque porro quisquam est ia dolor sit amet, consectetur velit..</li>
+                                <li>- Neque porro quisquam est qui dolorem ipsum quia t..</li>
+                                <li>- Et qui dolorem ipsum quia dolor sit amet, adipisci velit..</li>
+                                <li>- Lam est qui dolorem ipsum quia dolor sit amesectetur, adipisci..</li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="case-item">
-                        <div class="case-column"><img class="case-logo" src="images/Portfolio-1page/СY-780-292-c.png" alt=""></div>
-                        <div class="case-column"><img src="" alt=""></div>
-                        <div class="case-column"><img src="" alt=""></div>
+                        <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
+                        <div class="side-text">
+                            <h3>Cashyou</h3>
+                            <ul>
+                                <li>- Neque porro quisquam est ia dolor sit amet, consectetur velit..</li>
+                                <li>- Neque porro quisquam est qui dolorem ipsum quia t..</li>
+                                <li>- Et qui dolorem ipsum quia dolor sit amet, adipisci velit..</li>
+                                <li>- Lam est qui dolorem ipsum quia dolor sit amesectetur, adipisci..</li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="case-item">
-                        <div class="case-column"><img src="" alt=""></div>
-                        <div class="case-column"><img src="" alt=""></div>
-                        <div class="case-column"><img src="" alt=""></div>
-                    </div>
-                </div>
-                <div class="services-more__container case-next">
-                    <div class="services-more__arrow1 arrow1"></div>
-                    <div class="services-more__arrow2 arrow2"></div>
                 </div>
             </div>
         </section>

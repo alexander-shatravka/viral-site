@@ -7690,7 +7690,7 @@ body.scroll-off{
 	transition: filter 0.7s;
 }
 
-.partner-prev, .case-prev {
+.partner-prev {
 	position: absolute;
 	transform: rotate(180deg);
 	left: 15px;
@@ -7700,7 +7700,7 @@ body.scroll-off{
 	padding: 0;
 }
 
-.partner-next, .case-next {
+.partner-next{
 	position: absolute;
 	right: 15px;
 	top: 130px;
@@ -7709,12 +7709,12 @@ body.scroll-off{
 	padding: 0;
 }
 
-.partner-prev:hover, .partner-next:hover, .case-prev:hover, .case-next:hover{
+.partner-prev:hover, .partner-next:hover{
 	width: 4.25rem;
 	color: #cc0000;
 }
 
-.partner-prev::before, .partner-next::before, .case-prev::before, .case-next::before{
+.partner-prev::before, .partner-next::before{
 	content: '';
 	display: block;
 	cursor: pointer;
@@ -7730,12 +7730,13 @@ body.scroll-off{
 
 
 .case-section {
-	padding: 50px 100px;
+	padding: 50px 0;
 }
 
-.case-section .max-container{
+.case-section .container{
 	position: relative;
 }
+
 
 .case-item {
 	display: flex!important;
@@ -7744,32 +7745,51 @@ body.scroll-off{
 	align-content: center;
 	flex-direction: row;
 	height: 500px;
-}
-
-.case-column {
-	width: 30%;
-	height: 100%;
-	overflow: hidden;
-}
-
-.case-column .case-logo{
 	width: 100%;
+	/* padding: 50px 0; */
+}
+
+.side-logo {
 	height: 100%;
+	width: 40%;
+	margin: 0;
+	overflow: visible;
+	display: flex!important;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	flex-direction: row;
 }
 
-.case-column:nth-child(2){
-	background: #C6C6C6;
+.case-slider:after{
+	content: '';
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: calc(100% - 20px);
+	height: calc(100% - 20px);
+	border: 10px solid #cc0000;
+	z-index: 2;
 }
 
-.case-column:nth-child(3){
-	background: #cc0000;
+.side-logo img{
+	width: 200px;
+	height: auto;
+}
+
+.side-text{
+	background:#252525;
+	height: 100%;
+	padding: 30px 40px;
+	color: #fff;	
+	width: 60%;
 }
 
 .case-prev, .case-next {
 	top: 50%;
 }
-
-
 
 /*----------------------------------------------------
 / 24. Blog Page
@@ -8254,9 +8274,9 @@ textarea.input-form:focus{
 /*----------------------------------------------------
 / 12. Blog Section
 ------------------------------------------------------*/
-.blog{
+/* .blog{
 	padding-bottom: 60px;
-}
+} */
 .latestBlogItem{
 	position: relative;
 	background: #fff;
@@ -8341,3 +8361,49 @@ textarea.input-form:focus{
 .lbi_details .learnM:hover{
 	color: #cc0000;
 }
+
+.case-section .prev-next-block {
+	position: absolute;
+	top: 84px;
+	right: calc(60% - 5px);
+	z-index: 3;
+	display: flex;
+	align-content: flex-start;
+	align-items: flex-start;
+	justify-content: center;
+	width: 100px;
+	background: #252525;
+}
+
+.case-section .prev-next-block .case-arrow{
+	position: relative;
+	height: 50px;
+	width: 50px;
+	display: flex!important;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 16px;
+	background: #252525;
+	cursor: pointer;
+}
+
+.case-prev{
+	border-right: 1px solid #fff;
+}
+
+
+
+/* .blog_details img {
+	display: block !important;
+} */
+.copyright a {
+ color: #cc0000c0;
+}
+
+.copyright a:hover,
+.copyright a:focus,
+.copyright a:active {
+	color: #cc0000;
+ }
