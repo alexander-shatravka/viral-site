@@ -6580,11 +6580,12 @@ body.scroll-off{
 	position: relative;
 	background: #cc0000;
 	overflow:hidden;
-	margin:0 0  0 0;
+	margin: 50px 0 50px 0;
 }
 
 .ready_2.black {
 	background: #000;
+	margin: 0;
 }
 
 .ready_2.black .tel{
@@ -6723,7 +6724,7 @@ body.scroll-off{
 
 
 .team {
-	margin: 0;
+	margin: 50px 0 0 0;
 }
 
 .team h3 {
