@@ -6579,7 +6579,7 @@ body.scroll-off{
 	position: relative;
 	background: #cc0000;
 	overflow:hidden;
-	margin:0 0  80px 0;
+	margin:0 0  0 0;
 }
 
 .ready_2.black {
@@ -7916,6 +7916,7 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 	align-items: center;
 	align-content: center;
 	flex-direction: row;
+	background: #fff;
 }
 
 .case-slider:after{
@@ -7928,11 +7929,11 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 	width: calc(100% - 20px);
 	height: calc(100% - 20px);
 	border: 10px solid #cc0000;
-	z-index: 2;
+	z-index: -2;
 }
 
 .side-logo img{
-	width: 200px;
+	width: 250px;
 	height: auto;
 }
 
@@ -8562,7 +8563,7 @@ textarea.input-form:focus{
 	width: calc(100% - 20px);
 	height: calc(100% - 20px);
 	border: 10px solid #cc0000;
-	z-index: 2;
+	z-index: -2;
 }
 
 .side-logo img{
@@ -8597,7 +8598,7 @@ textarea.input-form:focus{
 
 .case-section .prev-next-block {
 	position: absolute;
-	top: 84px;
+	top: 0;
 	right: calc(60% - 5px);
 	z-index: 3;
 	display: flex;

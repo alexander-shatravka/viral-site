@@ -330,7 +330,7 @@
         </video>
     </div>
             <div class="container">
-                <h4 class="tech-title">КЕЙСЫ</h4>
+                <!-- <h4 class="tech-title">КЕЙСЫ</h4> -->
                 <div class="prev-next-block">
                     <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
                     <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
