@@ -128,7 +128,7 @@
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
-                                    </a>
+                                    </a>    
                                 </li>
                                 <li class="services-more__item youtube">
                                     <a href="marketing#Youtube">
@@ -324,6 +324,11 @@
         </div>
     </section>
     <section class="case-section">
+    <div class="video-bg">
+        <video  preload="auto" autoplay="true" loop="true" muted="muted">
+            <source src="video/cases-bg.mp4">
+        </video>
+    </div>
             <div class="container">
                 <h4 class="tech-title">КЕЙСЫ</h4>
                 <div class="prev-next-block">

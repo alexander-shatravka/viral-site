@@ -5,31 +5,31 @@
             <div class="col-md-4 col-sm-5 wow fadeInLeft" data-wow-delay="0.2s">
                 <!-- contact -->
                 <div class="contact">
-                    <h3>Contact us by email!</h3>
+                    <h3>Свяжитесь с нами заплонив форму !</h3>
                     <p>At vero eos et accusamus et iusto odios un dignissimos ducimus qui blan ditiis prasixer esentium voluptatum.</p>
                     <div class="wpcf7">
-                        <form enctype="multipart/form-data" class="wpcf7-form" action="inc/process2.php" id="contactform">
-                            <div class="column">
+                        <form class="wpcf7-form f-contact-form" id="order-form-3">
+                            <div class="rows">
                                 <span class="wpcf7-form-control-wrap text-field-required">
-                                    <input type="text" placeholder="Full Name" size="12" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" value="" name="name">
+                                    <input type="text" name="orderName" id="orderName" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" placeholder="Имя">
                                 </span>
                             </div>
-                            <div class="column">
+                            <div class="rows">
                                 <span class="wpcf7-form-control-wrap text-field-required">
-                                    <input type="tel" name="phone" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" placeholder="Phone number">
+                                    <input type="text" name="orderPhone" id="orderPhone" value="" class="masked-phone wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" data-rule-phonevalidate="1" data-rule-phoneverified="1" placeholder="Телефон" data-mask="+38 (099) 999-99-99" minlength="19" maxlength="19" autocomplete="off">
                                 </span>
                             </div>
-                            <div class="column">
+                            <div class="rows">
                                 <span class="wpcf7-form-control-wrap Emailfield">
-                                    <input type="email" placeholder="Email" size="12" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email email-class wpcf7-use-title-as-watermark" value="" name="email">
+                                    <input type="email" name="orderEmail" id="orderEmail"  value="" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email email-class wpcf7-use-title-as-watermark" size="12" placeholder="Email" />
                                 </span>
                             </div>
-                            <div class="column">
+                            <div class="rows">
                                 <span class="wpcf7-form-control-wrap textarea">
-                                    <textarea placeholder="Message" cols="39" rows="9" class="wpcf7-form-control wpcf7-textarea textarea-class wpcf7-use-title-as-watermark" name="comment"></textarea>
+                                    <textarea name="orderMessage" id="orderMessage"  class="wpcf7-form-control wpcf7-textarea textarea-class wpcf7-use-title-as-watermark" rows="9" cols="39" placeholder="Расскажите о своей идее"></textarea>
                                 </span>
                             </div>
-                            <input type="submit" value="Submit Form " id="contact-submit">
+                            <input id="submit" class="btn-submit-order-3" type="submit" value="ОТПРАВИТЬ">`
                         </form>
                     </div>
                     <div class="done-massage done-massage3">
@@ -41,7 +41,8 @@
                 <!-- map -->
                 <div class="map">
                     <img src="http://placehold.it/770x475" alt="image description">
-                    <div class="map-canvas" id="map-canvas-contact" data-lat="45.144522" data-lng="-92.549216" data-string="Str. Wall Street, Nr.77" data-zoom="12"></div>
+                    <div class="map-canvas" id="map-canvas-contact" data-lat="45.144522" data-lng="-92.549216" data-string="Str. Wall Street, Nr.77" data-zoom="12">
+                    </div>
                 </div>
             </div>
         </div>

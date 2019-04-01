@@ -7864,6 +7864,30 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 
 .case-section {
 	padding: 50px 0;
+	position: relative;
+	/* background: url(images/cases-bg.jpg) no-repeat center center;
+	background-size: cover; */
+	overflow: hidden;
+}
+
+.case-section .tech-title{ 
+	color: #fff;
+}
+
+.case-section .video-bg{
+	position: absolute;
+	left: 0;
+	top: 0;
+	/* transform: translate(-50%, -50%); */
+	z-index: -1;
+	width: 100%;
+	height: auto;
+	filter: brightness(70%);
+}
+
+.case-section .video-bg video{
+	height: auto;
+	width: 100%;
 }
 
 .case-section .container{
@@ -8661,3 +8685,7 @@ textarea.input-form:focus{
 	height: auto;
 	width: 200px;
 }
+
+#order-form-3 input.error {
+	border-bottom: 1
+} 

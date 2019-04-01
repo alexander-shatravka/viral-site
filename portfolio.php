@@ -90,10 +90,10 @@
                         <li class="item work-i work-b work-a coll3">	
                             <a href="portfolio-arigato" class="holder">
                                 <div class="img">
-                                    <img alt="image description" src="http://placehold.it/365x270">
+                                    <img alt="image description" src="images/cases-logo/cart-noire-logoч'.png">
                                 </div>
                                 <div class="work-text">
-                                    <span class="category-title">Design <h3 class="work-title">Argiato</h3></span>
+                                    <span class="category-title">Marketing <h3 class="work-title">Cart Noire</h3></span>
                                 </div>
                             </a>
                         </li>
