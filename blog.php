@@ -22,7 +22,7 @@
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="latestBlogItem">
                                 <div class="lbi_thumb">
-                                    <img src="images/blog/1.jpg" alt="">
+                                    <img src="images/articles/usability.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
                                     <a class="lbid_date">29 мар</a>
@@ -34,7 +34,7 @@
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="latestBlogItem">
                                 <div class="lbi_thumb">
-                                    <img src="images/blog/2.jpg" alt="">
+                                    <img src="images/articles/video_internet.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
                                     <a class="lbid_date">29 мар</a>
@@ -46,7 +46,7 @@
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="latestBlogItem">
                                 <div class="lbi_thumb">
-                                    <img src="images/blog/3.jpg" alt="">
+                                    <img src="images/logo.svg" alt="">
                                 </div>
                                 <div class="lbi_details">
                                     <a class="lbid_date">29 мар</a>
@@ -58,7 +58,7 @@
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="latestBlogItem">
                                 <div class="lbi_thumb">
-                                    <img src="images/blog/4.jpg" alt="">
+                                    <img src="images/articles/marketing.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
                                     <a class="lbid_date">29 мар</a>
@@ -70,7 +70,7 @@
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="latestBlogItem">
                                 <div class="lbi_thumb">
-                                    <img src="images/blog/5.jpg" alt="">
+                                    <img src="images/articles/message-technique.jpg" alt="">
                                 </div>
                                 <div class="lbi_details">
                                     <a class="lbid_date">28 мар</a>
@@ -82,7 +82,7 @@
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="latestBlogItem">
                                 <div class="lbi_thumb">
-                                    <img src="images/blog/6.jpg" alt="">
+                                    <img src="images/articles/error.png" alt="">
                                 </div>
                                 <div class="lbi_details">
                                     <a class="lbid_date">28 мар</a>
@@ -95,10 +95,10 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="meipaly_paginations text-center">
-                                <a class="prev" href="#"><i class="fa fa-angle-left"></i></a>
+                                <a class="prev"><i class="fa fa-angle-left"></i></a>
                                 <span class="current">01</span>
                                 <a href="blog-2">02</a>
-                                <a class="next" href="#"><i class="fa fa-angle-right"></i></a>
+                                <a class="next" href="blog-2"><i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
