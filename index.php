@@ -368,7 +368,7 @@
         </div>
         <div class="case-slider">
             <div class="case-item">
-                <div class="side-logo white"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 1</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -398,7 +398,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case</div></div>
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 2</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -429,7 +429,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case</div></div>
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 3</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -457,7 +457,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case</div></div>
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 4</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
