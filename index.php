@@ -986,18 +986,7 @@
 </div> -->
 
           
-        <section class="commonSection ready_2">
-            <div class="max-container">
-                <div class="row">
-                    <div class="col-lg-9 col-sm-8 col-md-9">
-                        <h2 class="sec_title white">Let's Get Your Project Started!</h2>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3 text-right">
-                        <a class="common_btn red_bg btn-contact" href="contact.html"><span>Contact with us</span></a>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
         <section class="team">
             <div class="max-container">
@@ -1021,6 +1010,19 @@
                     </div>
                 </div>       
             </div>    
+        </section>
+
+        <section class="commonSection ready_2">
+            <div class="max-container">
+                <div class="row">
+                    <div class="col-lg-9 col-sm-8 col-md-9">
+                        <h2 class="sec_title white">Let's Get Your Project Started!</h2>
+                    </div>
+                    <div class="col-lg-3 col-sm-4 col-md-3 text-right">
+                        <a class="common_btn red_bg btn-contact" href="contact.html"><span>Contact with us</span></a>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section class="video_separator">
