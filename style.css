@@ -8441,12 +8441,17 @@ textarea.input-form:focus{
 	height: 490px;
 }
 .lbi_thumb{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 280px;
 	overflow: hidden;
 	position: relative;
 }
 .lbi_thumb img{
-	width: 100%;
-	height: auto;
+	max-width: none;
+	width: auto;
+	height: 100%;
 }
 .lbi_details{
 	text-align: left;
