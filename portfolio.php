@@ -58,7 +58,7 @@
                             </a>
                         </li>
                         <li class="item work-i work-b work-a coll3">
-                            <a href="portfolio-arigato" class="holder">
+                            <a href="portfolio-creditgarant" class="holder">
                                 <div class="img">
                                     <img alt="image description" src="images/cases-logo/CG-logo.png">
                                 </div>
@@ -68,17 +68,17 @@
                             </a>
                         </li>
                         <li class="item work-m work-p work-a coll3">
-                            <div class="holder">
+                            <a href="portfolio-the-cave" class="holder">
                                 <div class="img">
                                     <img alt="image description" src="images/cases-logo/cave-logo.png">
                                 </div>
                                 <div class="work-text">
                                     <span class="category-title">Design <h3 class="work-title">The Cave</h3></span>
                                 </div>
-                            </div>
+                            </a>
                         </li>
                         <li class="item work-i work-b work-a coll3">
-                            <a href="portfolio-arigato" class="holder"> 
+                            <a href="portfolio-time4machine" class="holder"> 
                                 <div class="img">
                                     <img alt="image description" src="images/cases-logo/mechanism-logo.png">
                                 </div>
@@ -88,7 +88,7 @@
                             </a>
                         </li>
                         <li class="item work-i work-b work-a coll3">	
-                            <a href="portfolio-arigato" class="holder">
+                            <a href="portfolio-carte-noire" class="holder">
                                 <div class="img">
                                     <img alt="image description" src="images/cases-logo/cart-noire-logoч'.png">
                                 </div>
