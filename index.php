@@ -360,76 +360,192 @@
             <source src="video/cases-bg.mp4">
         </video>
     </div>
-            <div class="container">
-                <!-- <h4 class="tech-title">КЕЙСЫ</h4> -->
-                <div class="prev-next-block">
-                    <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
-                    <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
-                </div>
-                <div class="case-slider">
-                    <div class="case-item">
-                        <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
-                        <div class="side-text">
-                            <!-- <h3>Arigato</h3> -->
-                            <div class="singleFeature">
-                                <div class="f_count">01</div>
-                                <h3>Задача</h3>
-                                <p>
-                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">02</div>
-                                <h3>Сроки</h3>
-                                <p>
-                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">03</div>
-                                <h3>Результат</h3>
-                                <p>
-                                Порядочность - это основное наше требование к себе.
-                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                                </p>
-                            </div>
-                        </div>
+    <div class="max-container">
+        <!-- <h4 class="tech-title">КЕЙСЫ</h4> -->
+        <div class="prev-next-block">
+            <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
+            <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
+        </div>
+        <div class="case-slider">
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            сайт-каталог по продаже пряжи оптом и в розницу
+                            Как известно многим, в Украине Яндекс Директ не работает, но было решено проверить это на практике и это сработало. Кампании настраивались на российском аккаунте в рублях и в аналитике уже конвертировалось в гривны.
+                        </p>
                     </div>
-                    <div class="case-item">
-                        <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
-                        <div class="side-text">
-                            <!-- <h3>Cashyou</h3> -->
-                            <div class="singleFeature">
-                                <div class="f_count">01</div>
-                                <h3>Задача</h3>
-                                <p>
-                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">02</div>
-                                <h3>Сроки</h3>
-                                <p>
-                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">03</div>
-                                <h3>Результат</h3>
-                                <p>
-                                Порядочность - это основное наше требование к себе.
-                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                                </p>
-                            </div>
-                        </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                             Привлечение заявок на получение оптового прайса по пряже.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Запустились в начале февраля и крутимся по сей день.
+                            Цена лида с Google Adwords: 18,2 грн ( ≈ 0,7$ )
+                            Цена лида с Яндекс Директ: 34,55 грн (  ≈ 1,35$ )
+                        </p>
                     </div>
                 </div>
             </div>
-        </section>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            кредиты морякам, военным и предпринимателям
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                            разработка лендинга и продвижение
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Разработка сайта – мокап, дизайн, вёрстка длилась около 3 недель. Далее было собрано порядка 3000 ключевых слов, а после глубокой чистки согласно определённому сегменту аудитории, осталось целевых около 700 запросов.
+
+                            За месяц получили из Google Adwords:
+                            621 онлайн заявки
+                            Конверсию разработанного нами лендинга – 13%
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            Ломбард. Бюджет 4 000 грн./мес.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                            Разработке лендинга и настройка контекстной рекламы.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            После прохождения всех модераций, мы настроили аналитику и запустили полноценно трафик на выделенный нам тестовый бюджет, который был довольно маленьким – 4000 грн. Из-за специфики тематики, РСЯ и КМС не было смысла запускать. В результате получили такие данные :
+                            110 конверсий за месяц, цена лида 36 грн.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                          Продажа мотоблоков в украине
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                            Разработке лендинга и настройка контекстной рекламы.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Ровно 100 лидов за 1,5 месяца. Путём несложных вычислений получаем стоимость онлайн заявки с лендинга примерно 175 грн. Клиент предоставил количество звонков: сказал, что звонят от 3 до 10 раз в день. Даже если было в среднем 5 звонков в день, то получим ещё около 150 лидов. Средняя цена лида тогда получится около 60 грн. Средний чек в нише: 14000 грн.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Задача</h3>
+                        <p>
+                        Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                        Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Сроки</h3>
+                        <p>
+                        Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Результат</h3>
+                        <p>
+                        Порядочность - это основное наше требование к себе.
+                        положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                        Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
+                <div class="side-text">
+                    <!-- <h3>Cashyou</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Задача</h3>
+                        <p>
+                        Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                        Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Сроки</h3>
+                        <p>
+                        Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Результат</h3>
+                        <p>
+                        Порядочность - это основное наше требование к себе.
+                        положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                        Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
         <!-- info holder -->
         <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
