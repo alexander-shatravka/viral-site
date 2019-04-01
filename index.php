@@ -484,7 +484,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/cases-logo/trilan-logo.png" alt=""></div>
+                <div class="side-logo"><img class="case-logo" src="images/cases-logo/trilan-logo.png" alt=""><div class="logo-case"># case 5</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -512,7 +512,7 @@
                 </div>
             </div> 
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
+                <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""><div class="logo-case"># case 6</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -542,7 +542,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
+                <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""><div class="logo-case"># case 7</div></div>
                 <div class="side-text">
                     <!-- <h3>Cashyou</h3> -->
                     <div class="singleFeature">
