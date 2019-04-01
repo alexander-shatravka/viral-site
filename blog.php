@@ -46,7 +46,7 @@
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="latestBlogItem">
                                 <div class="lbi_thumb">
-                                    <img src="images/logo.svg" alt="">
+                                    <img src="images/logo.svg" alt="" style="height: 20%;">
                                 </div>
                                 <div class="lbi_details">
                                     <a class="lbid_date">29 мар</a>
