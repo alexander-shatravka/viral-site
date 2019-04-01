@@ -128,7 +128,7 @@
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
                                         </div>
-                                    </a>
+                                    </a>    
                                 </li>
                                 <li class="services-more__item youtube">
                                     <a href="marketing#Youtube">
@@ -323,77 +323,257 @@
             </div>
         </div>
     </section>
+    <section class="partners-section">
+        <div class="max-container">
+            <h4 class="">НАШИ ПАРТНЕРЫ</h4>
+            <div class="services-more__container partner-prev">
+                <div class="services-more__arrow1 arrow1"></div>
+                <div class="services-more__arrow2 arrow2"></div>
+            </div>
+            <div class="partner-slider">
+                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-PKH.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-nussbaum.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
+                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
+            </div>  
+            <div class="services-more__container partner-next">
+                <div class="services-more__arrow1 arrow1"></div>
+                <div class="services-more__arrow2 arrow2"></div>
+            </div>
+        </div>
+    </section>
     <section class="case-section">
-            <div class="container">
-                <h4 class="tech-title">КЕЙСЫ</h4>
-                <div class="prev-next-block">
-                    <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
-                    <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
-                </div>
-                <div class="case-slider">
-                    <div class="case-item">
-                        <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
-                        <div class="side-text">
-                            <!-- <h3>Arigato</h3> -->
-                            <div class="singleFeature">
-                                <div class="f_count">01</div>
-                                <h3>Задача</h3>
-                                <p>
-                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">02</div>
-                                <h3>Сроки</h3>
-                                <p>
-                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">03</div>
-                                <h3>Результат</h3>
-                                <p>
-                                Порядочность - это основное наше требование к себе.
-                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                                </p>
-                            </div>
-                        </div>
+    <div class="video-bg">
+        <video  preload="auto" autoplay="true" loop="true" muted="muted">
+            <source src="video/cases-bg.mp4">
+        </video>
+    </div>
+    <div class="max-container">
+        <!-- <h4 class="tech-title">КЕЙСЫ</h4> -->
+        <div class="prev-next-block">
+            <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
+            <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
+        </div>
+        <div class="case-slider">
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 1</div></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            сайт-каталог по продаже пряжи оптом и в розницу
+                            Как известно многим, в Украине Яндекс Директ не работает, но было решено проверить это на практике и это сработало. Кампании настраивались на российском аккаунте в рублях и в аналитике уже конвертировалось в гривны.
+                        </p>
                     </div>
-                    <div class="case-item">
-                        <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""></div>
-                        <div class="side-text">
-                            <!-- <h3>Cashyou</h3> -->
-                            <div class="singleFeature">
-                                <div class="f_count">01</div>
-                                <h3>Задача</h3>
-                                <p>
-                                Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
-                                Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">02</div>
-                                <h3>Сроки</h3>
-                                <p>
-                                Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
-                                </p>
-                            </div>
-                            <div class="singleFeature">
-                                <div class="f_count">03</div>
-                                <h3>Результат</h3>
-                                <p>
-                                Порядочность - это основное наше требование к себе.
-                                положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
-                                Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
-                                </p>
-                            </div>
-                        </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                             Привлечение заявок на получение оптового прайса по пряже.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Запустились в начале февраля и крутимся по сей день.
+                            Цена лида с Google Adwords: 18,2 грн ( ≈ 0,7$ )
+                            Цена лида с Яндекс Директ: 34,55 грн (  ≈ 1,35$ )
+                        </p>
                     </div>
                 </div>
             </div>
-        </section>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 2</div></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            кредиты морякам, военным и предпринимателям
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                            разработка лендинга и продвижение
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Разработка сайта – мокап, дизайн, вёрстка длилась около 3 недель. Далее было собрано порядка 3000 ключевых слов, а после глубокой чистки согласно определённому сегменту аудитории, осталось целевых около 700 запросов.
+
+                            За месяц получили из Google Adwords:
+                            621 онлайн заявки
+                            Конверсию разработанного нами лендинга – 13%
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 3</div></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            Ломбард. Бюджет 4 000 грн./мес.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                            Разработке лендинга и настройка контекстной рекламы.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            После прохождения всех модераций, мы настроили аналитику и запустили полноценно трафик на выделенный нам тестовый бюджет, который был довольно маленьким – 4000 грн. Из-за специфики тематики, РСЯ и КМС не было смысла запускать. В результате получили такие данные :
+                            110 конверсий за месяц, цена лида 36 грн.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 4</div></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                          Продажа мотоблоков в украине
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                            Разработке лендинга и настройка контекстной рекламы.
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Ровно 100 лидов за 1,5 месяца. Путём несложных вычислений получаем стоимость онлайн заявки с лендинга примерно 175 грн. Клиент предоставил количество звонков: сказал, что звонят от 3 до 10 раз в день. Даже если было в среднем 5 звонков в день, то получим ещё около 150 лидов. Средняя цена лида тогда получится около 60 грн. Средний чек в нише: 14000 грн.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/cases-logo/trilan-logo.png" alt=""><div class="logo-case"># case 5</div></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            одна из крупнейших инвестиционно-строительных компаний Москвы, специализирующаяся на дорожном и жилищном строительстве
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                           Снижение количества и видимости негативных отзывов, оставленных на различных тематических порталах и форумах в интернете
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Основной сайт был полностью очищен от "тупиков" и пустых страниц, а все страницы с контентом получили актуальные описания и заголовки для улучшения ранжирования. Для пользователей были созданы справочные разделы и дополнительные статьи об услугах компании.
+                            В поисковой выдаче остались преимущественно положительные отзывы. Негативные отклики стали намного менее заметными на фоне растущего количества положительных.
+                        </p>
+                    </div>
+                </div>
+            </div> 
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""><div class="logo-case"># case 6</div></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Задача</h3>
+                        <p>
+                        Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                        Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Сроки</h3>
+                        <p>
+                        Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Результат</h3>
+                        <p>
+                        Порядочность - это основное наше требование к себе.
+                        положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                        Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/CY-logo.png" alt=""><div class="logo-case"># case 7</div></div>
+                <div class="side-text">
+                    <!-- <h3>Cashyou</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Задача</h3>
+                        <p>
+                        Быть командой, идеально понимающей и удовлетворяющей цели бизнеса нашего клиента.
+                        Четкая цель, опыт работы и талант наших сотрудников, помогут реализовать Вашу бизнес-модель и добиться поставленных целей!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Сроки</h3>
+                        <p>
+                        Создавать и продвигать потрясающие идеи и продукты. Только это приносит действительно наслаждение работой!
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Результат</h3>
+                        <p>
+                        Порядочность - это основное наше требование к себе.
+                        положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                        Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
         <!-- info holder -->
         <!-- <div class="info-holder">
             <section class="commonSection chooseUs">
@@ -531,37 +711,6 @@
             </div>
         </div>
     </section> -->
-    <section class="partners-section">
-        <div class="max-container">
-            <h4 class="">НАШИ ПАРТНЕРЫ</h4>
-            <div class="services-more__container partner-prev">
-                <div class="services-more__arrow1 arrow1"></div>
-                <div class="services-more__arrow2 arrow2"></div>
-            </div>
-            <div class="partner-slider">
-                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-PKH.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-nussbaum.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
-            </div>  
-            <div class="services-more__container partner-next">
-                <div class="services-more__arrow1 arrow1"></div>
-                <div class="services-more__arrow2 arrow2"></div>
-            </div>
-        </div>
-    </section>
     </div> 
                 <!-- work info -->
                 <!-- <div class="info work">
@@ -981,18 +1130,7 @@
 </div> -->
 
           
-        <section class="commonSection ready_2">
-            <div class="max-container">
-                <div class="row">
-                    <div class="col-lg-9 col-sm-8 col-md-9">
-                        <h2 class="sec_title white">Let's Get Your Project Started!</h2>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3 text-right">
-                        <a class="common_btn red_bg btn-contact" href="contact.html"><span>Contact with us</span></a>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
         <section class="team">
             <div class="max-container">
@@ -1016,6 +1154,19 @@
                     </div>
                 </div>       
             </div>    
+        </section>
+
+        <section class="commonSection ready_2">
+            <div class="max-container">
+                <div class="row">
+                    <div class="col-lg-9 col-sm-8 col-md-9">
+                        <h2 class="sec_title white">Let's Get Your Project Started!</h2>
+                    </div>
+                    <div class="col-lg-3 col-sm-4 col-md-3 text-right">
+                        <a class="common_btn red_bg btn-contact" href="contact.html"><span>Contact with us</span></a>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section class="video_separator">

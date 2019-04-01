@@ -317,6 +317,33 @@ function initAjaxForm(){
 		    });
         return false;
 	})
+	jQuery('.btn-submit-order-3').on('click', function(e){
+		e.preventDefault();
+		var errors = jQuery('#order-form-3 .error');
+        if(errors.length){
+            return false;
+        }
+        var form_data = jQuery('#order-form-3').serialize();
+            // $.ajax({  //mail to admins 
+            //     type: "POST", 
+            //     url: "mail.php",
+            //     data: popup_form_data + "&moredata=" + form_data,
+            //     success: function() {
+            //         location = 'thankPage.html'
+            //     },  
+            // });
+            jQuery.ajax({  //telegram to admins 
+                type: "POST", 
+                url: "telegram.php",
+				data: form_data, 
+				success: function() {
+					// alert('Спасибо! мы свяжемся с Вами');
+					$('.done-massage').addClass('done');	
+					setTimeout(function(){$('.done-massage').removeClass('done');}, 3000);
+				}, 
+		    });
+		return false;
+	})	
 }
 
 function initCountDown() {

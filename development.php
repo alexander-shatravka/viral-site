@@ -38,7 +38,6 @@
                                 <li><a href="#Designing">Landing Page</a></li>
                                 <li><a href="#Marketing">Интернет-магазин</a></li>
                                 <li><a href="#SEO">Сайт-Визитка</a></li>
-                                <li><a href="#App">Потрал Под Ключ</a></li>
                             </ul>
                         </div>
                     </aside>
