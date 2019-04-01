@@ -368,7 +368,7 @@
         </div>
         <div class="case-slider">
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-logo white"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -398,7 +398,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -429,7 +429,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -457,7 +457,7 @@
                 </div>
             </div>
             <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/cases-logo/novello-house-logo.jpg" alt=""></div>
+                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case</div></div>
                 <div class="side-text">
                     <!-- <h3>Arigato</h3> -->
                     <div class="singleFeature">
@@ -483,6 +483,34 @@
                     </div>
                 </div>
             </div>
+            <div class="case-item">
+                <div class="side-logo"><img class="case-logo" src="images/cases-logo/trilan-logo.png" alt=""></div>
+                <div class="side-text">
+                    <!-- <h3>Arigato</h3> -->
+                    <div class="singleFeature">
+                        <div class="f_count">01</div>
+                        <h3>Дано</h3>
+                        <p>
+                            одна из крупнейших инвестиционно-строительных компаний Москвы, специализирующаяся на дорожном и жилищном строительстве
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">02</div>
+                        <h3>Задачи</h3>
+                        <p>
+                           Снижение количества и видимости негативных отзывов, оставленных на различных тематических порталах и форумах в интернете
+                        </p>
+                    </div>
+                    <div class="singleFeature">
+                        <div class="f_count">03</div>
+                        <h3>Резултаты</h3>
+                        <p>
+                            Основной сайт был полностью очищен от "тупиков" и пустых страниц, а все страницы с контентом получили актуальные описания и заголовки для улучшения ранжирования. Для пользователей были созданы справочные разделы и дополнительные статьи об услугах компании.
+                            В поисковой выдаче остались преимущественно положительные отзывы. Негативные отклики стали намного менее заметными на фоне растущего количества положительных.
+                        </p>
+                    </div>
+                </div>
+            </div> 
             <div class="case-item">
                 <div class="side-logo"><img class="case-logo" src="images/arigato-logo.png" alt=""></div>
                 <div class="side-text">

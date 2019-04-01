@@ -7009,7 +7009,7 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 
 
 .video_separator {
-	margin-top: 100px;
+	margin-top: 0px;
 	position: relative;
 	text-align: center;
 	color: #fff;
@@ -8481,6 +8481,15 @@ textarea.input-form:focus{
 	/* padding: 50px 0; */
 }
 
+.case-item .logo-case {
+	display: block;
+	font-size: 25px;
+	margin-top: 10px;
+	text-transform: uppercase;
+	color: #000;
+	font-weight: 900;
+}
+
 .side-logo {
 	height: 100%;
 	width: 50%;
@@ -8492,6 +8501,10 @@ textarea.input-form:focus{
 	align-content: center;
 	flex-direction: row;
 	/* background: #fff; */
+}
+
+.side-logo.white{
+	background: rgba(255,255,255, 1);
 }
 
 .case-slider:after{
@@ -8512,7 +8525,7 @@ textarea.input-form:focus{
 }
 
 .case-section {
-	padding: 100px 0;
+	padding: 50px 0;
 }
 
 .case-section .max-container{
@@ -8540,7 +8553,7 @@ textarea.input-form:focus{
 	justify-content: center;
 	align-items: center;
 	align-content: center;
-	flex-direction: row;
+	flex-direction: column;
 }
 
 .case-slider:after{
@@ -8588,24 +8601,22 @@ textarea.input-form:focus{
 
 .case-section .prev-next-block {
 	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
+	top: 100px;
 	right: 0;
 	z-index: 3;
 	display: flex;
 	align-content: center;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: space-between;
 	width: 50%;
 	height: 100%;
 	top: 0;
-	/* background: #252525; */
-	/* border: 1px solid #cc0000; */
+
 }
 
 .case-section .prev-next-block .case-arrow{
-	position: relative;
-	height: 50px;
+	position: static;
+	height: 100%;
 	width: 50px;
 	display: flex!important;
 	align-content: center;
@@ -8614,7 +8625,6 @@ textarea.input-form:focus{
 	color: #fff;
 	font-size: 22px;
 	cursor: pointer;
-	height: 100%;
 }
 
 /* .case-prev{
