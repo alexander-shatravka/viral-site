@@ -339,7 +339,7 @@ function initAjaxForm(){
 				success: function() {
 					// alert('Спасибо! мы свяжемся с Вами');
 					$('.done-massage').addClass('done');	
-					setTimeout(function(){$('.done-massage').removeClass('done');}, 3000);
+					setTimeout(function(){$('.done-massage').removeClass('done');}, 7000);
 				}, 
 		    });
 		return false;

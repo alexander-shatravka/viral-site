@@ -8764,3 +8764,40 @@ textarea.input-form:focus{
 #order-form-3 input.error {
 	border-bottom: 1
 } 
+
+
+.contact-form {
+	position: relative;
+	overflow-y: hidden;
+}
+
+.contact-form #submit{
+	float: right;
+	margin-top: 30px;
+}
+
+.contact-form #submit{
+	float: right;
+	margin-top: 30px;
+}
+
+.contact-form .done-massage{
+	background: #fff;
+	float: right;
+	margin-top: 30px;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	top: 100%;
+	transition: top 0.5s;
+}
+
+.contact-form .done-massage.done{
+	top: 0;
+}

@@ -8,7 +8,7 @@
                     <h3>Свяжитесь с нами заплонив форму !</h3>
                     <p>At vero eos et accusamus et iusto odios un dignissimos ducimus qui blan ditiis prasixer esentium voluptatum.</p>
                     <div class="wpcf7">
-                        <form class="wpcf7-form f-contact-form" id="order-form-3">
+                        <form class="wpcf7-form contact-form" id="order-form-3">
                             <div class="rows">
                                 <span class="wpcf7-form-control-wrap text-field-required">
                                     <input type="text" name="orderName" id="orderName" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" placeholder="Имя">
@@ -29,11 +29,11 @@
                                     <textarea name="orderMessage" id="orderMessage"  class="wpcf7-form-control wpcf7-textarea textarea-class wpcf7-use-title-as-watermark" rows="9" cols="39" placeholder="Расскажите о своей идее"></textarea>
                                 </span>
                             </div>
-                            <input id="submit" class="btn-submit-order-3" type="submit" value="ОТПРАВИТЬ">`
+                            <input id="submit" class="btn-submit-order-3" type="submit" value="ОТПРАВИТЬ">
+                            <div class="done-massage">
+                                <strong>Спасибо!</strong> Мы получили Ваше письмо.
+                            </div>
                         </form>
-                    </div>
-                    <div class="done-massage done-massage3">
-                        <strong>Thank you!</strong> We have received your message.
                     </div>
                 </div>
             </div>
