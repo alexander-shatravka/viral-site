@@ -7202,6 +7202,7 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 
 .service_detail {
 	padding-bottom: 0;
+	min-height: 420px;
 }
 
 .ui-tabs-active a{

@@ -92,8 +92,8 @@
                             <ul class="services-more__list">
                                 <li class="services-more__item SEO">
                                     <a href="marketing#seo">
-                                        <h3 class="services-more__title">SEO</h3>
-                                        <p class="services-more__description">Поисковая оптимизация</p>
+                                        <h3 class="services-more__title">Search Engine Optimization</h3>
+                                        <!-- <p class="services-more__description">Поисковая оптимизация</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
@@ -102,7 +102,7 @@
                                 </li>
                                 <li class="services-more__item PPC">
                                     <a href="marketing#PPC">
-                                        <h3 class="services-more__title">PPC</h3>
+                                        <h3 class="services-more__title">Pay Per Click</h3>
                                         <!-- <p class="services-more__description">Это комплекс мероприятий по привлечению посетителей на сайт при помощи инструментов контекстной рекламы. Гарантируем целевой трафик и рост продаж.</p> -->
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
@@ -112,8 +112,8 @@
                                 </li>
                                 <li class="services-more__item SMM">
                                     <a href="marketing#SMM">
-                                        <h3 class="services-more__title">SMM</h3>
-                                        <!-- <p class="services-more__description">В сетях Facebook, Instagram, Pinterest, Swarm, LinkedIn зарегистрированы миллионы пользователей. Все они — ваши текущие или будущие клиенты.</p> -->
+                                        <h3 class="services-more__title">Social Media Marketing</h3>
+                                        <p class="services-more__description"></p>
                                         <div class="services-more__container">
                                             <div class="services-more__arrow1 arrow1"></div>
                                             <div class="services-more__arrow2 arrow2"></div>
