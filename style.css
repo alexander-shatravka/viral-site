@@ -6822,6 +6822,15 @@ body.scroll-off{
 	position: relative;
 }
 
+.portfolio .item .logo-case {
+	color: #000;
+	font-weight: 700;
+	font-size: 18px;
+	margin-top: 20px;
+	/* display: block */
+}
+
+
 .portfolio .item .img:after {
 	width: 100%;
 	content: '';
@@ -8708,6 +8717,7 @@ textarea.input-form:focus{
 	height: 365px;
 	width: 365px;
 	display: flex;
+	flex-direction: column;
 	align-content: center;
 	align-items: center;
 	justify-content: center;
