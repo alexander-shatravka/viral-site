@@ -188,7 +188,7 @@
                         <div class="services-more">
                             <ul class="services-more__list">
                                 <li class="services-more__item redesign">
-                                    <a href="#tabs-1">
+                                    <a href="design">
                                         <h3 class="services-more__title">Редизайн сайта</h3>
                                         <!-- <p class="services-more__description">Мы создаём работающие сайты, интернет-магазины и web-сервисы. Вам понравится и захочется еще!</p> -->
                                         <div class="services-more__container">
@@ -198,7 +198,7 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item adaptive">
-                                    <a href="#tabs-2">
+                                    <a href="design">
                                         <h3 class="services-more__title">Дизайн адаптивного сайта</h3>
                                         <!-- <p class="services-more__description">Мы занимаемся результативным продвижением сайтов в Яндекс и Google.</p> -->
                                         <div class="services-more__container">
@@ -208,7 +208,7 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item landings">
-                                    <a href="#tabs-3">
+                                    <a href="design">
                                         <h3 class="services-more__title">Дизайн лендингов</h3>
                                         <!-- <p class="services-more__description">Мы разрабатываем нативные мобильные приложения для стартапов и бизнеса, а также любое программное обеспечение.</p> -->
                                         <div class="services-more__container">
@@ -218,7 +218,7 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item e-commerce">
-                                    <a href="#tabs-4">
+                                    <a href="design">
                                         <h3 class="services-more__title">Дизайн корпоративного сайта</h3>
                                         <!-- <p class="services-more__description">Размещение объявлений сайта вашей компании в результатах поиска Google и Yandex.</p> -->
                                         <div class="services-more__container">
@@ -228,7 +228,7 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item individual">
-                                    <a href="#tabs-5">
+                                    <a href="design">
                                         <h3 class="services-more__title">Индивидуальный дизайн сайта</h3>
                                         <!-- <p class="services-more__description">Предлагаем полный спектр услуг контроля качества: от планирования процесса тестирования до совершенствования процедуры разработки программных продуктов.</p> -->
                                         <div class="services-more__container">
@@ -238,7 +238,7 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item online-market">
-                                    <a href="#tabs-6">
+                                    <a href="design">
                                         <h3 class="services-more__title">Дизайн интернет-магазина</h3>
                                         <!-- <p class="services-more__description">Мы занимаемся дизайном логотипов, элементов фирменного стиля, рекламы и полиграфии.</p> -->
                                         <div class="services-more__container">
@@ -257,7 +257,7 @@
                         <div class="services-more ">
                             <ul class="services-more__list">
                                 <li class="services-more__item e-commerce">
-                                    <a href="#tabs-1">
+                                    <a href="development#Development">
                                         <h3 class="services-more__title">Разработка корпоративного сайта</h3>
                                         <!-- <p class="services-more__description">Мы создаём работающие сайты европейского типа. Вау-эффект гарантирован! При этом наши цены весьма демократичны. Узнайте больше.</p> -->
                                         <div class="services-more__container">
@@ -267,7 +267,7 @@
                                     </a>
                                 </li>
                                 <li class="services-more__item online-market">
-                                    <a href="#tabs-2">
+                                    <a href="development#Designing">
                                         <h3 class="services-more__title">Разработка интернет-магазина</h3>
                                         <!-- <p class="services-more__description">Ежедневно более 1.000.000 людей делают покупки в интернете. Ежегодно продажи в сети динамически увеличиваются на 15%.</p> -->
                                         <div class="services-more__container">
@@ -366,6 +366,7 @@
             <div class="case-arrow case-prev"><i class="fa fa-angle-left"></i></div>
             <div class="case-arrow case-next"><i class="fa fa-angle-right"></i></div>
         </div>
+        <div class="slide-container">
         <div class="case-slider">
             <div class="case-item">
                 <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 1</div></div>
@@ -375,7 +376,7 @@
                         <div class="f_count">01</div>
                         <h3>Дано</h3>
                         <p>
-                            сайт-каталог по продаже пряжи оптом и в розницу
+                            Сайт-каталог по продаже пряжи оптом и в розницу.
                             Как известно многим, в Украине Яндекс Директ не работает, но было решено проверить это на практике и это сработало. Кампании настраивались на российском аккаунте в рублях и в аналитике уже конвертировалось в гривны.
                         </p>
                     </div>
@@ -388,7 +389,7 @@
                     </div>
                     <div class="singleFeature">
                         <div class="f_count">03</div>
-                        <h3>Резултаты</h3>
+                        <h3>Результаты</h3>
                         <p>
                             Запустились в начале февраля и крутимся по сей день.
                             Цена лида с Google Adwords: 18,2 грн ( ≈ 0,7$ )
@@ -405,19 +406,19 @@
                         <div class="f_count">01</div>
                         <h3>Дано</h3>
                         <p>
-                            кредиты морякам, военным и предпринимателям
+                            Кредиты морякам, военным и предпринимателям
                         </p>
                     </div>
                     <div class="singleFeature">
                         <div class="f_count">02</div>
                         <h3>Задачи</h3>
                         <p>
-                            разработка лендинга и продвижение
+                            Разработка лендинга и продвижение
                         </p>
                     </div>
                     <div class="singleFeature">
                         <div class="f_count">03</div>
-                        <h3>Резултаты</h3>
+                        <h3>Результаты</h3>
                         <p>
                             Разработка сайта – мокап, дизайн, вёрстка длилась около 3 недель. Далее было собрано порядка 3000 ключевых слов, а после глубокой чистки согласно определённому сегменту аудитории, осталось целевых около 700 запросов.
 
@@ -448,7 +449,7 @@
                     </div>
                     <div class="singleFeature">
                         <div class="f_count">03</div>
-                        <h3>Резултаты</h3>
+                        <h3>результаты</h3>
                         <p>
                             После прохождения всех модераций, мы настроили аналитику и запустили полноценно трафик на выделенный нам тестовый бюджет, который был довольно маленьким – 4000 грн. Из-за специфики тематики, РСЯ и КМС не было смысла запускать. В результате получили такие данные :
                             110 конверсий за месяц, цена лида 36 грн.
@@ -476,7 +477,7 @@
                     </div>
                     <div class="singleFeature">
                         <div class="f_count">03</div>
-                        <h3>Резултаты</h3>
+                        <h3>результаты</h3>
                         <p>
                             Ровно 100 лидов за 1,5 месяца. Путём несложных вычислений получаем стоимость онлайн заявки с лендинга примерно 175 грн. Клиент предоставил количество звонков: сказал, что звонят от 3 до 10 раз в день. Даже если было в среднем 5 звонков в день, то получим ещё около 150 лидов. Средняя цена лида тогда получится около 60 грн. Средний чек в нише: 14000 грн.
                         </p>
@@ -491,7 +492,7 @@
                         <div class="f_count">01</div>
                         <h3>Дано</h3>
                         <p>
-                            одна из крупнейших инвестиционно-строительных компаний Москвы, специализирующаяся на дорожном и жилищном строительстве
+                            Одна из крупнейших инвестиционно-строительных компаний Москвы, специализирующаяся на дорожном и жилищном строительстве
                         </p>
                     </div>
                     <div class="singleFeature">
@@ -503,7 +504,7 @@
                     </div>
                     <div class="singleFeature">
                         <div class="f_count">03</div>
-                        <h3>Резултаты</h3>
+                        <h3>Результаты</h3>
                         <p>
                             Основной сайт был полностью очищен от "тупиков" и пустых страниц, а все страницы с контентом получили актуальные описания и заголовки для улучшения ранжирования. Для пользователей были созданы справочные разделы и дополнительные статьи об услугах компании.
                             В поисковой выдаче остались преимущественно положительные отзывы. Негативные отклики стали намного менее заметными на фоне растущего количества положительных.
@@ -565,12 +566,13 @@
                         <h3>Результат</h3>
                         <p>
                         Порядочность - это основное наше требование к себе.
-                        положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
+                        Положительное влияние - наши продукты должны приносить пользу, иначе зачем они ?
                         Постоянное улучшение - каждый день мы повышаем свой уровень профессионализма.
                         </p>
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     </div>
 </section>

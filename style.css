@@ -8648,8 +8648,13 @@ textarea.input-form:focus{
 	width: 50%;
 	height: 100%;
 	top: 0;
-
 }
+
+/* @media only screen and (max-width: 1920px) {
+	.case-section .prev-next-block {
+		right: 15px;
+	}
+} */
 
 .case-section .prev-next-block .case-arrow{
 	position: static;
