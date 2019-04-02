@@ -8647,6 +8647,16 @@ textarea.input-form:focus{
 	margin-bottom: 50px;
 }
 
+.side-text .singleFeature .table-row{
+	display: flex;
+	width: 270px;
+	justify-content: space-between;
+}
+
+.side-text .singleFeature .table-row:first-child{
+	margin-top: 20px;
+}
+
 .case-section .prev-next-block {
 	position: absolute;
 	top: 100px;

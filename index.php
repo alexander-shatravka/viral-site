@@ -391,37 +391,8 @@
                         <h3>Результат</h3>
                         <p>
                             <p><strong>Цена за конверсию:</strong></p>
-                            <p><strong>Google Adwords</strong> <span style="font-weight: 400;">18,2 грн. ($0,7)</span></p>
-                            <p><strong>Яндекс.Директ</strong> <span style="font-weight: 400;"> 34,55 грн. ($1,35)</span></p>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="case-item">
-                <div class="side-logo"><img class="case-logo" src="images/logo.svg" alt=""><div class="logo-case"># case 1</div></div>
-                <div class="side-text">
-                    <!-- <h3>Arigato</h3> -->
-                    <div class="singleFeature">
-                        <div class="f_count">01</div>
-                        <h3>Дано</h3>
-                        <p>
-                            Сайт-каталог по оптовой продаже пряжи в Украине.
-                        </p>
-                    </div>
-                    <div class="singleFeature">
-                        <div class="f_count">02</div>
-                        <h3>Задачи</h3>
-                        <p>
-                             Привлечение заявок на получение оптового прайса по пряже.
-                        </p>
-                    </div>
-                    <div class="singleFeature">
-                        <div class="f_count">03</div>
-                        <h3>Результат</h3>
-                        <p>
-                            <p><strong>Цена за конверсию:</strong></p>
-                            <p><strong>Google Adwords</strong> <span style="font-weight: 400;">18,2 грн. ($0,7)</span></p>
-                            <p><strong>Яндекс.Директ</strong> <span style="font-weight: 400;"> 34,55 грн. ($1,35)</span></p>
+                            <p class="table-row"><strong>Google Adwords</strong> <span style="font-weight: 400;">18,2 грн. ($0,7)</span></p>
+                            <p class="table-row"><strong>Яндекс.Директ</strong> <span style="font-weight: 400;"> 34,55 грн. ($1,35)</span></p>
                         </p>
                     </div>
                 </div>
