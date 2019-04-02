@@ -134,6 +134,12 @@
     padding: 0 0 0 20px;
   }
 
+  
+  .visual .slide .caption .text h1{
+    font-size: 50px;
+    line-height: 50px;
+  }
+
   .info .tild {
     right: -30px;
   }

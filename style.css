@@ -8656,11 +8656,17 @@ textarea.input-form:focus{
 
 .side-text .singleFeature .table-row{
 	display: flex;
-	width: 270px;
+	width: 300px;
 	justify-content: space-between;
 }
 
-.side-text .singleFeature .table-row:first-child{
+.side-text .singleFeature .table-row span{
+	display: inline-block;
+	min-width: 150px;
+	text-align: left;	
+}
+
+.side-text .singleFeature .table-row:nth-child(2){
 	margin-top: 20px;
 }
 
