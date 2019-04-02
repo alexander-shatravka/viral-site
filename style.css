@@ -190,7 +190,7 @@ Theme URI:
 }
 
 body {
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 .ellipsis {
