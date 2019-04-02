@@ -7202,6 +7202,7 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 
 .service_detail {
 	padding-bottom: 0;
+	min-height: 420px;
 }
 
 .ui-tabs-active a{
@@ -7896,6 +7897,16 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 	background: transparent;
 	height: 30px;
 	width: 50px;
+}
+
+@media only screen and (max-width: 1919px) {
+	.partner-prev {
+		left: 20px;
+	}
+	
+	.partner-next{
+		right: 20px;
+	}
 }
 
 /*----------------------------------------------------
@@ -8648,8 +8659,19 @@ textarea.input-form:focus{
 	width: 50%;
 	height: 100%;
 	top: 0;
-
 }
+
+@media only screen and (max-width: 1919px) {
+	.case-section .prev-next-block {
+		padding-right: 15px;
+	} 
+}
+
+/* @media only screen and (max-width: 1920px) {
+	.case-section .prev-next-block {
+		right: 15px;
+	}
+} */
 
 .case-section .prev-next-block .case-arrow{
 	position: static;
