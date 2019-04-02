@@ -40,26 +40,6 @@ jQuery(window).on('load', function() {
 function initSlick(){
 	$('.blog-slider').slick();
 	
-// if($(window).width() < 768){
-    //     $('.partner-slider').slick({
-    //         autoplay: false,
-    //         vertical: false,
-    //         speed	: 1000,
-    //         autoplay: true,
-    //         autoplaySpeed: 5000,
-    //         infinite: false,
-    //         slidesToShow: 1,
-    //         slidesToScroll: 1,
-    //         dots: false,
-    //         arrows: true,
-    //         draggable: true,
-    //         pauseOnFocus: false,
-    //         pauseOnHover: false,
-	// 		pauseOnClick: false,
-	// 		prevArrow: $('.partner-prev'),
-    //     	nextArrow: $('.partner-next'),
-    //     })
-	// }
 	$('.case-slider').slick({
         autoplay: true,
         speed	: 300,
@@ -78,21 +58,111 @@ function initSlick(){
     });
 	
 
-    $('.partner-slider').slick({
-        autoplay: true,
-        speed	: 1000,
-        autoplay: true,
-        autoplaySpeed: 5000,
-        infinite: true,
-        slidesToShow: 5,
-        slidesToScroll: 1,
-        dots: false,
-        arrows: true,
-        draggable: false,
-        prevArrow: $('.partner-prev'),
-        nextArrow: $('.partner-next'),
-    })
+	if($(window).width() > 1024) {
+		$('.partner-slider').slick({
+			autoplay: true,
+			speed	: 1000,
+			autoplay: true,
+			autoplaySpeed: 5000,
+			infinite: true,
+			slidesToShow: 5,
+			slidesToScroll: 1,
+			dots: false,
+			arrows: true,
+			draggable: false,
+			prevArrow: $('.partner-prev'),
+			nextArrow: $('.partner-next'),
+		})
+	} else if($(window).width() <= 1024 && $(window).width() > 768) {
+		$('.partner-slider').slick({
+			autoplay: true,
+			speed	: 1000,
+			autoplay: true,
+			autoplaySpeed: 5000,
+			infinite: true,
+			slidesToShow: 3,
+			slidesToScroll: 1,
+			dots: false,
+			arrows: true,
+			draggable: false,
+			prevArrow: $('.partner-prev'),
+			nextArrow: $('.partner-next'),
+		})
+	} else if($(window).width() <= 768 && $(window).width() > 650){
+        $('.partner-slider').slick({
+            autoplay: false,
+            vertical: false,
+            speed	: 1000,
+            autoplay: true,
+            autoplaySpeed: 5000,
+            infinite: false,
+            slidesToShow: 2,
+            slidesToScroll: 1,
+            dots: false,
+            arrows: true,
+            draggable: true,
+            pauseOnFocus: false,
+            pauseOnHover: false,
+			pauseOnClick: false,
+			prevArrow: $('.partner-prev'),
+        	nextArrow: $('.partner-next'),
+        })
+	} else if($(window).width() <= 650){
+        $('.partner-slider').slick({
+            autoplay: false,
+            vertical: false,
+            speed	: 1000,
+            autoplay: true,
+            autoplaySpeed: 5000,
+            infinite: false,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            dots: false,
+            arrows: true,
+            draggable: true,
+            pauseOnFocus: false,
+            pauseOnHover: false,
+			pauseOnClick: false,
+			prevArrow: $('.partner-prev'),
+        	nextArrow: $('.partner-next'),
+        })
+	}
 
+	if($(window).width() <= 768 && $(window).width() > 500){
+        $('#members').slick({
+            autoplay: false,
+            vertical: false,
+            speed	: 1000,
+            autoplay: true,
+            autoplaySpeed: 5000,
+            infinite: false,
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            dots: true,
+            arrows: false,
+            draggable: true,
+            pauseOnFocus: false,
+            pauseOnHover: false,
+			pauseOnClick: false
+		})
+	} else if($(window).width() <= 500) {
+		$('#members').slick({
+            autoplay: false,
+            vertical: false,
+            speed	: 1000,
+            autoplay: true,
+            autoplaySpeed: 5000,
+            infinite: false,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            dots: true,
+            arrows: false,
+            draggable: true,
+            pauseOnFocus: false,
+            pauseOnHover: false,
+			pauseOnClick: false
+		})
+	}
 }
 
 function initDescrDrop(){
