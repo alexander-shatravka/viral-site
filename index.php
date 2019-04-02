@@ -325,7 +325,7 @@
     </section>
     <section class="partners-section">
         <div class="max-container">
-            <h4 class="">НАШИ ПАРТНЕРЫ</h4>
+            <h4 class="">НАМ ДОВЕРЯЮТ</h4>
             <div class="services-more__container partner-prev">
                 <div class="services-more__arrow1 arrow1"></div>
                 <div class="services-more__arrow2 arrow2"></div>
@@ -344,7 +344,7 @@
                 <div class= "partner-item"><img src="images/partners/partner-barsa.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-cashyou.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-amoCRM.png" alt=""></div>
-                <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div>
+                <!-- <div class= "partner-item"><img src="images/partners/partner-BMW.png" alt=""></div> -->
                 <div class= "partner-item"><img src="images/partners/partner-RT.png" alt=""></div>
                 <div class= "partner-item"><img src="images/partners/partner-workua.png" alt=""></div>
             </div>  

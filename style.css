@@ -1835,6 +1835,7 @@ a:focus {
 	transition: all ease .5s;
 }
 
+
 .smooth-section {
 	position: absolute;
 	margin: -100px 0 0;
@@ -4133,6 +4134,30 @@ body.scroll-off{
 	padding: 0 0 36px;
 }
 
+.sidebar .categories {
+	position: relative;
+}
+
+.categories::before{
+	position: absolute;
+	content: '#';
+	display: flex;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	z-index: -1;
+	font-size: 300px;
+	left: 50%;
+	top: 50%;
+	transform: translate(-60%, -53%);
+	color: #cc0000;
+	height: 100%;
+	width: 100%;
+	font-weight: 700;
+	opacity: 0.1;
+	font-style: italic;
+}
+
 .sidebar .categories li {
 	padding: 10px 0 19px 24px;
 	position: relative;
@@ -4160,6 +4185,7 @@ body.scroll-off{
 	line-height: 18px;
 	-webkit-transition: all ease .5s;
 	transition: all ease .5s;
+	font-weight: 700;
 }
 
 .sidebar .instagram {
@@ -6730,6 +6756,7 @@ body.scroll-off{
 .team h3 {
 	font-size: 55px;
 	margin-bottom: 30px;
+	margin-top: 0;
 }
 
 .team h5 {
@@ -6795,6 +6822,15 @@ body.scroll-off{
 	position: relative;
 }
 
+.portfolio .item .logo-case {
+	color: #000;
+	font-weight: 700;
+	font-size: 18px;
+	margin-top: 20px;
+	/* display: block */
+}
+
+
 .portfolio .item .img:after {
 	width: 100%;
 	content: '';
@@ -6803,7 +6839,7 @@ body.scroll-off{
 	left: 50%;
 	bottom: 100px;
 	height: 50px;
-	z-index: 99;
+	z-index: 6;
 	background: transparent;
 	transform: translateX(-50%);
 	border-radius: 50%;
@@ -7778,7 +7814,7 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 }
 
 .partners-section{
-	padding: 100px 0;
+	padding: 50px 0;
 }
 
 .partners-section .max-container{
@@ -7828,7 +7864,7 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 .partner-prev {
 	position: absolute;
 	transform: rotate(180deg);
-	left: 15px;
+	left: 0;
 	top: 130px;
 	z-index: 8;
 	cursor: pointer;
@@ -7837,7 +7873,7 @@ box-shadow: 0px 70px 20px 0px rgba(0,0,0,0.1);
 
 .partner-next{
 	position: absolute;
-	right: 15px;
+	right: 0;
 	top: 130px;
 	z-index: 8;
 	cursor: pointer;
@@ -8681,10 +8717,11 @@ textarea.input-form:focus{
 	height: 365px;
 	width: 365px;
 	display: flex;
+	flex-direction: column;
 	align-content: center;
 	align-items: center;
 	justify-content: center;
-	background: #e5e5e5;
+	background: #eee;
 }
 
 .portfolio .item .img img{

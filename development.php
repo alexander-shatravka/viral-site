@@ -266,7 +266,7 @@
                     </div>
                 </div>
 
-                <div id="App" class="col-lg-8 col-sm-8">
+                <!-- <div id="App" class="col-lg-8 col-sm-8">
                     <div class="serviceArea">
                         <div class="row gaping">
                             <div class="col-lg-6 col-sm-12 col-md-6">
@@ -274,7 +274,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-12 col-md-6">
                                 <h3>Сайт &amp; под ключ</h3>
-                                <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> -->
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
                                 <ul>
                                     <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
                                     <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
@@ -299,7 +299,7 @@
                             typesetting, remaining essentially unchanged.
                         </p>
                     </div>
-                </div>
+                </div>  -->
 
                 <!-- <div class="col-lg-4 col-sm-4 sidebar">
                     <aside class="widget categories">
