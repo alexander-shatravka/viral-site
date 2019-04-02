@@ -189,6 +189,10 @@ Theme URI:
 	clear: both;
 }
 
+body {
+	overflow: hidden;
+}
+
 .ellipsis {
 	white-space: nowrap; /* 1 */
 	text-overflow: ellipsis; /* 2 */
@@ -1578,10 +1582,12 @@ a:focus {
 	z-index: 8;
 }
 
-.visual .slide .image img{
-	height: calc(100vh - 200px)!important;
-	opacity: 1;
-	z-index: 3;
+@media only screen and (min-width: 1920px) {
+	.visual .slide .image img{
+		height: calc(100vh - 200px)!important;
+		opacity: 1;
+		z-index: 3;
+	}
 }
 
 .visual .slideshow {
@@ -1671,6 +1677,7 @@ a:focus {
 	-webkit-transition: all .6s ease .8s;
 	transition: all .6s ease .8s;
 }
+
 
 .visual .slide .image img {
 	display: block;
